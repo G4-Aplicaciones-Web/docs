@@ -19,9 +19,9 @@
     <br> <br>
     Informe de Trabajo Final
     <br> <br>
-    Startup: Alimentate+
+    Startup: NutriPlus
     <br> <br>
-    Producto: NutriSmart  
+    Producto: Alimentate+
 </h3>
 
 <div align="center">
@@ -238,6 +238,23 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 #### 1.1.1. Descripción de la Startup
 
+NutriPlus es una startup tecnológica dedicada a transformar la manera en que las personas se relacionan con su alimentación, salud y bienestar. Surge como respuesta a la creciente necesidad de soluciones inteligentes que guíen y acompañen a los usuarios en la construcción de hábitos alimenticios saludables, personalizados y sostenibles.
+
+Desde su creación, NutriPlus ha apostado por la innovación, combinando inteligencia artificial, ciencia nutricional y diseño centrado en el usuario para ofrecer herramientas accesibles y efectivas. Nuestra propuesta se basa en entender a fondo las necesidades individuales de cada persona, brindando experiencias digitales que integran la educación nutricional, el seguimiento de progreso y el acompañamiento profesional.
+
+Creemos que una buena alimentación no debe ser un privilegio, sino una posibilidad real para todos. Por eso, trabajamos para democratizar el acceso a planes alimenticios personalizados, orientación nutricional confiable y contenido educativo de calidad.
+
+En un entorno donde los estilos de vida acelerados y la desinformación impactan directamente en la salud, NutriPlus se posiciona como un aliado tecnológico que facilita decisiones conscientes, fomenta la prevención y promueve un cambio de hábitos duradero.
+
+
+#### Misión
+
+La misión de NutriPlus es empoderar a las personas para que adopten hábitos alimenticios saludables a través de soluciones tecnológicas accesibles, personalizadas y respaldadas por profesionales. Buscamos mejorar la calidad de vida de nuestros usuarios mediante herramientas que los acompañen en su camino hacia el bienestar integral.
+
+#### Visión
+
+Nuestra visión es posicionar a NutriPlus como la startup líder en innovación nutricional en América Latina. Aspiramos a construir un ecosistema digital que transforme la forma en que las personas entienden y aplican la nutrición en su día a día, integrando tecnología, salud y educación en una experiencia cercana, confiable y transformadora.
+
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
 - Mathias Bueno Perales - u202313433 (Ingeniería de Software)
@@ -283,19 +300,48 @@ Descripcion
 
 #### 1.2. Solution Profile
 
+
+Aliméntate+ es una aplicación web desarrollada por NutriPlus que permite a los usuarios crear planes de alimentación personalizados basados en sus preferencias, objetivos de salud, condiciones médicas y necesidades nutricionales específicas. A través de un perfil individual, la plataforma adapta automáticamente las recomendaciones alimenticias, respetando restricciones y excepciones para brindar una experiencia única y personalizada.
+
+La herramienta incorpora funciones de seguimiento y análisis que permiten al usuario ajustar sus planes conforme avanza en sus metas, facilitando así un progreso real y medible hacia una alimentación más saludable. Además, Aliméntate+ funciona bajo un modelo freemium: la versión básica ofrece funcionalidades esenciales de personalización, mientras que las versiones premium desbloquean características avanzadas como análisis nutricionales detallados, ajustes inteligentes y recomendaciones dinámicas.
+
+Con esta solución, NutriPlus se posiciona como un referente en el ámbito del bienestar digital, ofreciendo una propuesta integral para quienes desean mejorar su calidad de vida a través de una alimentación consciente, controlada y alineada con sus metas personales.
+
 #### 1.2.1. Antecedentes y problemática
 
-**Análisis 5W2H**
+Los hábitos alimenticios poco saludables y el sedentarismo han llevado a un aumento de enfermedades crónicas no transmisibles como la obesidad, la diabetes tipo 2 y las enfermedades cardiovasculares, las cuales representan algunas de las principales causas de mortalidad a nivel mundial (Organización Mundial de la Salud [OMS], 2023). Frente a este panorama, surge la necesidad de soluciones tecnológicas personalizadas que permitan a las personas gestionar de forma efectiva su alimentación, considerando sus condiciones particulares, metas de salud y preferencias.
 
-<!-- | **Pregunta** | **Respuesta** |
-|:-----:|:-----:|
-|**What (¿Qué?)** <br> ¿Cuál es el problema?|Existe una desconexión significativa entre los turistas y las agencias de turismo locales, dificultando la planificación y reserva de actividades auténticas y seguras.|
-|**When (¿Cuándo?)** <br> ¿Cuándo sucede el problema?|Este problema se ha intensificado en los últimos años, especialmente tras la pandemia de COVID-19, que obligó a muchas agencias a cerrar o reducir sus operaciones, y con el aumento del interés en viajes nacionales e internacionales.|
-|**Where (¿Dónde?)** <br> ¿Dónde se presenta el problema de negocio?|Principalmente en Perú, donde destinos turísticos populares como Cusco, Lima y Arequipa presentan una alta demanda, pero también una oferta fragmentada y, en ocasiones, informal.|
-|**Who (¿Quién?)** <br> ¿Quiénes están involucrados?|Turistas nacionales e internacionales que buscan experiencias locales auténticas, y agencias de turismo locales que carecen de herramientas digitales para promocionar y gestionar sus servicios.|
-|**Why (¿Por qué?)** <br> ¿Por qué se origina el problema?|La falta de plataformas digitales centralizadas, la escasa presencia en línea de muchas agencias locales y la informalidad en el sector impiden a los viajeros acceder fácilmente a experiencias personalizadas y confiables.|
-|**How (¿Cómo?)** <br> ¿Cómo afecta este problema a las personas involucradas?|Los turistas enfrentan dificultades para encontrar opciones seguras, personalizadas y verificadas, lo que puede afectar negativamente su experiencia de viaje. Por otro lado, las agencias locales pierden oportunidades de negocio, visibilidad y competitividad en un mercado cada vez más digitalizado.|
-|**How much (¿Cuánto?)** <br> ¿Cuánto impacto genera el problema en la sociedad?|El impacto es significativo, ya que limita el desarrollo del sector turístico formal, fomenta la informalidad y la desconfianza, y reduce el potencial económico de comunidades locales que dependen del turismo para su sustento. También frena la innovación y la digitalización del ecosistema turístico nacional.| -->
+La falta de herramientas accesibles, eficaces y altamente personalizables para la creación de planes de alimentación representa un vacío en el mercado actual. Aliméntate+ nace como respuesta a esta problemática, ofreciendo una plataforma web que permite diseñar planes nutricionales adaptados a cada usuario, con funcionalidades de seguimiento, análisis inteligente y accesibilidad desde cualquier dispositivo con conexión a internet.
+
+Para comprender mejor el problema, se utiliza la técnica de las 5 W’s y 2 H’s:
+
+**What (¿Qué?):**
+¿Cuál es el problema?
+El problema principal radica en la dificultad que tienen muchas personas para encontrar herramientas accesibles y adaptadas a sus necesidades alimenticias específicas. Las aplicaciones actuales suelen ofrecer recomendaciones genéricas o limitadas, sin tener en cuenta restricciones médicas o preferencias individuales.
+
+**When (¿Cuándo?):**
+¿Cuándo se presenta el problema?
+Este problema ha cobrado mayor urgencia en la era post-pandemia, cuando la conciencia sobre la salud se ha intensificado. Tras el confinamiento y los cambios en los hábitos diarios, muchas personas buscan opciones digitales que les ayuden a mejorar su alimentación y prevenir enfermedades crónicas (Khalil et al., 2022).
+
+**Where (¿Dónde?):**
+¿Dónde ocurre el problema?
+La problemática afecta tanto a poblaciones urbanas como rurales. Aunque los usuarios urbanos tienen mayor acceso a la tecnología, enfrentan dificultades con la sobrecarga de información. Por otro lado, en zonas rurales, el acceso a especialistas en nutrición es más limitado, lo que hace aún más necesaria la existencia de soluciones digitales personalizadas y accesibles.
+
+**Who (¿Quiénes están involucrados?):**
+¿A quién afecta?
+NutriPlus está dirigida a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También puede ser utilizada como una herramienta complementaria por profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
+
+**Why (¿Por qué?):**
+¿Cuál es la causa del problema?
+La razón principal es la creciente demanda de herramientas que permitan a las personas tomar decisiones informadas sobre su dieta, sin depender exclusivamente de consultas médicas presenciales. Además, el enfoque generalizado de muchas aplicaciones no responde a las necesidades individuales ni promueve cambios sostenibles en el estilo de vida.
+
+**How (¿Cómo se soluciona?):**
+¿Cómo se plantea resolverlo?
+NutriPlus ofrece una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. La plataforma combina análisis de datos, inteligencia artificial y principios de nutrición para ofrecer recomendaciones relevantes.
+
+**How Much (¿Cuánto cuesta?):**
+¿Cuál es el costo de la solución?
+El modelo freemium de NutriPlus permite el acceso gratuito a funcionalidades básicas, mientras que las funciones premium —como análisis avanzados y asesoramiento profesional— se ofrecen a precios accesibles mediante suscripción. Este modelo equilibra accesibilidad y sostenibilidad, reduciendo la barrera económica para la mayoría de los usuarios.
 
 #### 1.2.2. Lean UX Process
 
