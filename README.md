@@ -26,11 +26,10 @@
 
 <div align="center">
 
-| <div style="width:450px">Alumno</div> | <div style="width:150px">Código</div> |
+| <div style="width:300px">Alumno</div> | <div style="width:150px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
 |         Bueno Perales, Mathias        |              u202313433               |
 |          Galvez Chambi, Jhon          |              u202323270               |
-|          Napuri Rojas, Naim           |              u202319146               |
 |   Paredes Santos, Fabrizio Alberto    |              u202310914               |
 |       Rodriguez Macedo, Sebastian     |              u202310199               |
 
@@ -46,7 +45,7 @@
 
 | Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
 |:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
-| TB1 | 26/04/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Napuri Rojas, Naim<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 26/04/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
 
 <hr>
 
@@ -272,14 +271,6 @@ Descripcion
 </p>
 
 Soy una persona responsable y comprometida con la consecución de los mejores resultados en trabajo en equipo. Poseo experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript y C++, así como en varios de los frameworks asociados a estos lenguajes. Además, tengo conocimientos en tecnologías emergentes como Cloud Computing e Internet de las Cosas (IoT), y estoy dispuesto a aportar mi experiencia en estas áreas para contribuir al éxito de los proyectos en los que participo.
-
-- Napuri Rojas, Naim - u202319146 (Ingeniería de Software)
-
-<p align="center">
-    <img src="assets/fotos/" alt="foto-naim" width="170px"/>
-</p>
-
-Descripcion
 
 - Fabrizio Alberto Paredes Santos - u202310914 (Ingeniería de Software)
 
@@ -533,19 +524,51 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 #### 4.6.1. Software Architecture Context Diagrams
 
+<p align="center">
+    <img src="assets/recursos/c4-context-diagram.png" alt="c4-context-diagram" width=80%/>
+</p>
+
 #### 4.6.2. Software Architecture Container Diagrams
 
+<p align="center">
+    <img src="assets/recursos/c4-container-diagram.png" alt="c4-container-diagram" width=80%/>
+</p>
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+<p align="center">
+    <img src="assets/recursos/c4-component-diagram.png" alt="c4-container-diagram" width=80%/>
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+    <img src="assets/recursos/diagram-class.jpg" alt="class-diagram" width=80%/>
+</p>
+
 #### 4.7.2. Class Dictionary
+
+| Clase                | Descripción                                                                                                                            |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| `User`               | Representa a cualquier persona registrada en la plataforma. Contiene información básica como email, contraseña y rol de acceso.       |
+| `CustomerProfile`    | Perfil extendido del usuario con rol de cliente. Almacena datos personales, objetivos nutricionales, alergias y restricciones.         |
+| `NutritionistProfile`| Perfil del usuario con rol de nutricionista. Incluye credenciales profesionales y datos necesarios para crear y gestionar planes.      |
+| `MealPlan`           | Plan nutricional semanal personalizado. Contiene los días del plan, comidas asignadas y está relacionado con un perfil de cliente.     |
+| `MealPlanDay`        | Representa un día dentro de un plan nutricional. Incluye una estructura de comidas (desayuno, almuerzo, cena, snacks, etc.)           |
+| `Recipe`             | Receta saludable con nombre, instrucciones, tiempo de preparación, ingredientes y valor nutricional asociado.                          |
+| `Ingredient`         | Ingrediente individual utilizado en una receta. Contiene nombre, cantidad, unidad de medida y valores nutricionales por porción.       |
+| `Macros`             | Información nutricional agrupada: calorías, proteínas, grasas y carbohidratos. Puede pertenecer a recetas o planes de comida.         |
+| `FavoriteRecipe`     | Relación entre un cliente y una receta que ha marcado como favorita. Permite personalizar sugerencias y accesos rápidos.               |
 
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
+
+<p align="center">
+    <img src="assets/recursos/database-diagram.png" alt="database-diagram" width=80%/>
+</p>
 
 <hr>
 
