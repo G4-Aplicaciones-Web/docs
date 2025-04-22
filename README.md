@@ -26,11 +26,10 @@
 
 <div align="center">
 
-| <div style="width:450px">Alumno</div> | <div style="width:150px">Código</div> |
+| <div style="width:300px">Alumno</div> | <div style="width:150px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
 |         Bueno Perales, Mathias        |              u202313433               |
 |          Galvez Chambi, Jhon          |              u202323270               |
-|          Napuri Rojas, Naim           |              u202319146               |
 |   Paredes Santos, Fabrizio Alberto    |              u202310914               |
 |       Rodriguez Macedo, Sebastian     |              u202310199               |
 
@@ -46,7 +45,7 @@
 
 | Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
 |:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
-| TB1 | 26/04/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Napuri Rojas, Naim<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 26/04/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
 
 <hr>
 
@@ -272,14 +271,6 @@ Descripcion
 </p>
 
 Soy una persona responsable y comprometida con la consecución de los mejores resultados en trabajo en equipo. Poseo experiencia en diversos lenguajes de programación, incluyendo Python, JavaScript y C++, así como en varios de los frameworks asociados a estos lenguajes. Además, tengo conocimientos en tecnologías emergentes como Cloud Computing e Internet de las Cosas (IoT), y estoy dispuesto a aportar mi experiencia en estas áreas para contribuir al éxito de los proyectos en los que participo.
-
-- Napuri Rojas, Naim - u202319146 (Ingeniería de Software)
-
-<p align="center">
-    <img src="assets/fotos/" alt="foto-naim" width="170px"/>
-</p>
-
-Descripcion
 
 - Fabrizio Alberto Paredes Santos - u202310914 (Ingeniería de Software)
 
@@ -701,19 +692,51 @@ Mobile:
 
 #### 4.6.1. Software Architecture Context Diagrams
 
+<p align="center">
+    <img src="assets/recursos/c4-context-diagram.png" alt="c4-context-diagram" width=80%/>
+</p>
+
 #### 4.6.2. Software Architecture Container Diagrams
 
+<p align="center">
+    <img src="assets/recursos/c4-container-diagram.png" alt="c4-container-diagram" width=80%/>
+</p>
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+<p align="center">
+    <img src="assets/recursos/c4-component-diagram.png" alt="c4-container-diagram" width=80%/>
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+    <img src="assets/recursos/diagram-class.jpg" alt="class-diagram" width=80%/>
+</p>
+
 #### 4.7.2. Class Dictionary
+
+| Clase                | Descripción                                                                                                                            |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| `User`               | Representa a cualquier persona registrada en la plataforma. Contiene información básica como email, contraseña y rol de acceso.       |
+| `CustomerProfile`    | Perfil extendido del usuario con rol de cliente. Almacena datos personales, objetivos nutricionales, alergias y restricciones.         |
+| `NutritionistProfile`| Perfil del usuario con rol de nutricionista. Incluye credenciales profesionales y datos necesarios para crear y gestionar planes.      |
+| `MealPlan`           | Plan nutricional semanal personalizado. Contiene los días del plan, comidas asignadas y está relacionado con un perfil de cliente.     |
+| `MealPlanDay`        | Representa un día dentro de un plan nutricional. Incluye una estructura de comidas (desayuno, almuerzo, cena, snacks, etc.)           |
+| `Recipe`             | Receta saludable con nombre, instrucciones, tiempo de preparación, ingredientes y valor nutricional asociado.                          |
+| `Ingredient`         | Ingrediente individual utilizado en una receta. Contiene nombre, cantidad, unidad de medida y valores nutricionales por porción.       |
+| `Macros`             | Información nutricional agrupada: calorías, proteínas, grasas y carbohidratos. Puede pertenecer a recetas o planes de comida.         |
+| `FavoriteRecipe`     | Relación entre un cliente y una receta que ha marcado como favorita. Permite personalizar sugerencias y accesos rápidos.               |
 
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
+
+<p align="center">
+    <img src="assets/recursos/database-diagram.png" alt="database-diagram" width=80%/>
+</p>
 
 <hr>
 
@@ -721,13 +744,246 @@ Mobile:
 
 ### 5.1. Software Configuration Management.
 
+Para asegurar la consistencia, trazabilidad y calidad del producto digital Alimentate+ durante todo su ciclo de vida, el equipo ha definido una estrategia de gestión de configuración de software. Esta estrategia cubre la configuración del entorno de desarrollo, la gestión del código fuente, las convenciones de codificación y la configuración del despliegue de los productos. El enfoque está alineado con buenas prácticas de ingeniería de software y metodologías ágiles.
+
 #### 5.1.1. Software Development Environment Configuration.
+
+Para facilitar la colaboración del equipo en todas las actividades del ciclo de vida de desarrollo de Alimentate+, se ha definido un entorno de desarrollo común. Este entorno está compuesto por herramientas especializadas para la gestión del proyecto, diseño UX/UI, desarrollo, documentación y despliegue. La selección de estas herramientas se basa en criterios de eficiencia, compatibilidad con tecnologías utilizadas, y alineación con prácticas recomendadas de la industria.
+
+| Categoría | Herramienta | Propósito | Tipo de acceso/enlace |
+|:----:|:----:|:----:|:----:|
+| Project Management | Trello | Gestión del backlog y tareas del equipo mediante tableros Scrum. | https://trello.com |
+| Requirements Management | UXPressia | Creación y documentación de User Personas y customer journeys. | https://uxpressia.com |
+| Product UX/UI Design | Figma | Creación de wireframes y mockups de la interfaz de usuario. | https://figma.com |
+| Modelado de Software | Visual Paradigm | Modelado de arquitectura de software: diagramas de contexto, Bounded Contexts, etc. | https://visual-paradigm.com |
+| Frontend Development | Webstorm | Editor de código para el desarrollo del Landing Page y Frontend (Vue). | https://www.jetbrains.com/webstorm/|
+| Backend Development | Rider| Entorno de desarrollo para el backend en C# y .NET Framework | https://www.jetbrains.com/rider/ |
+| Version Control | GitHub | Repositorio de control de versiones para todos los productos digitales. | https://github.com |
+| Software Documentation | Markdown | Redacción de documentación técnica del proyecto. | Compatible con GitHub / editores de texto |
 
 #### 5.1.2. Source Code Management
 
+El equipo de Alimentate+ utiliza Git como sistema de control de versiones y GitHub como plataforma de alojamiento y colaboración en el desarrollo de los distintos productos digitales que conforman la solución. Esta estrategia garantiza un seguimiento efectivo de los cambios realizados en el código fuente, la colaboración entre miembros del equipo, y la trazabilidad de las decisiones tomadas durante el ciclo de desarrollo.
+
+Los repositorios utilizados para el desarrollo de código fuente son los siguientes:
+
+<div align="center">
+
+| Producto Digital | URL del Repositorio | 
+|:----------------:|:-------------------:|
+| Landing Page | https://github.com/G4-Aplicaciones-Web/landing-page | 
+| Web Services (Backend API) | https://github.com/G4-Aplicaciones-Web/backend |
+| Frontend Web Application | https://github.com/G4-Aplicaciones-Web/frontend |
+
+</div>
+
+---
+
+**Modelos de Ramificación**
+
+Se implementará GitFlow, un modelo de ramificación estructurado, el cual permite separar de manera clara las etapas de desarrollo, pruebas, liberación y mantenimiento.
+
+**La estructura de ramas en GitFlow será:**
+
+- _Main_: Contiene el código en estado estable y listo para producción.
+- _Develop_: Rama de integración para desarrollo activo.
+- _Feature branches_: Para nuevas funcionalidades.
+    - Convención: `feature/nombre-descriptivo`  
+    - Ejemplo: `feature/US007-business-profiles`
+- _Release branches_: Para preparar versiones antes de pasar a producción.
+    - Convención: `release/X.Y.Z`  
+    - Ejemplo: `release/1.0.0`
+- _Hotfix branches_: Para correcciones urgentes.
+    - Convención: `hotfix/X.Y.Z`  
+    - Ejemplo: `hotfix/1.0.1`        
+
+**Versionado Semántico (Semantic Versioning)**
+
+- Se utiliza Semantic Versioning 2.0.0, con el esquema MAJOR.MINOR.PATCH:
+
+    - **MAJOR:** Cambios incompatibles.
+    - **MINOR:** Funcionalidades nuevas retrocompatibles.
+    - **PATCH:** Correcciones retrocompatibles.
+
+    **Ejemplos de versiones:**  
+    `v1.0.0`, `v1.1.0`, `v1.1.1`.
+
+**Convenciones para Commits**
+
+El equipo sigue el estándar de Conventional Commits para los mensajes de commits, lo que permite claridad en el historial y facilita la generación automática de changelogs:
+
+`<type>[optional scope]: <description>`
+
+Tipos comunes:
+
+- `feat`: Nueva funcionalidad.
+- `fix`: Corrección de errores.
+- `docs`: Cambios en documentación.
+- `style`: Cambios de formato sin impacto funcional.
+- `refactor`: Reestructuración del código.
+- `test`: Relacionados con pruebas.
+- `chore`: Tareas de mantenimiento.
+
+Ejemplo:
+```
+  feat(auth): implement login via OAuth
+  fix(api): handle null user tokens
+```
+
 #### 5.1.3. Source Code Style Guide & Conventions
 
+El equipo ha adoptado guías de estilo y convenciones de codificación para cada uno de los lenguajes utilizados. Estas convenciones permiten que todos los miembros del equipo desarrollen bajo un estándar común y que el código sea comprensible tanto para desarrolladores actuales como futuros.
+
+**Nomenclatura general:**
+
+- Todos los identificadores, comentarios y documentación del código se escribirán en inglés.
+- Se utilizará el sistema de control de calidad en revisiones por pull request para verificar que las convenciones se cumplan antes de fusionar el código a la rama `develop`.
+
+---
+
+**Backend: C# con .NET Framework**
+
+Para el desarrollo del backend, se utilizará **C#** junto con el framework **.NET 9**. Se adoptan las siguientes convenciones:
+
+- **Guía de estilo base:**  
+  [Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+
+- **Estructura de carpetas basada en Domain-Driven Design (DDD):**  
+  - `Domain`: Contiene las entidades, agregados y lógica de negocio.  
+  - `Application`: Contiene los casos de uso y servicios de aplicación.  
+  - `Infrastructure`: Contiene la implementación de repositorios, acceso a datos y servicios externos.  
+  - `API`: Contiene los controladores y configuraciones específicas de la API.
+
+- **Nomenclatura:**  
+  - Clases nombradas en **PascalCase**:  
+    Ejemplo: `UserService`, `MealPlanRepository`  
+  - Métodos y variables en **camelCase**:  
+    Ejemplo: `getAllUsers()`, `userEmail`  
+
+- **Documentación:**  
+  - Uso obligatorio de **XML Documentation Comments** para describir métodos y clases públicas.
+
+- **Separación lógica del código:**  
+  - Cada capa debe tener responsabilidades claras:  
+    - Controladores (`[ApiController]`)  
+    - Servicios (`Scoped` o `Singleton`)  
+    - Repositorios (`IRepository`)  
+    - Modelos  
+
+- **Anotaciones de .NET:**  
+  - Uso de atributos como `[HttpGet]`, `[HttpPost]`, `[FromBody]` para mantener claridad en los controladores.
+
+---
+
+**Frontend: Vue.js Framework (JavaScript, HTML, CSS)**
+
+Para el desarrollo del frontend, el equipo utilizará **Vue 3**, basado en **JavaScript** junto con **HTML** y **CSS**. Las convenciones son:
+
+- **Guías de estilo base:**  
+  - [Vue.js Style Guide (Oficial)](https://vuejs.org/style-guide/)  
+  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+- **Estructura modular y escalable:**  
+  - Cada componente tendrá su propio directorio con los archivos `.vue`, `.js` y `.css` correspondientes.
+
+- **Nomenclatura de archivos:**  
+  - Archivos nombrados con **kebab-case**:  
+    - Componentes: `user-profile.vue`  
+    - Servicios: `auth-service.js`  
+    - CSS asociados seguirán el mismo nombre base.
+
+- **Nomenclatura de clases y componentes:**  
+  - Componentes y clases en **PascalCase**:  
+    Ejemplo: `UserProfile`, `MealPlanCard`  
+  - Variables, métodos y propiedades en **camelCase**.
+
+- **Modelos de datos:**  
+  - Uso de **TypeScript interfaces** o **JavaScript objects** para definir modelos de datos (e.g., `User`, `MealPlan`, `Recipe`) y asegurar consistencia.
+
+- **HTML:**  
+  - Buenas prácticas semánticas y accesibles:  
+    Uso de etiquetas apropiadas (`<main>`, `<section>`, `<button>`, etc.).
+
+- **CSS:**  
+  - Convenciones basadas en el [BEM (Block Element Modifier)](http://getbem.com/):  
+    - Nombres de clase descriptivos en inglés:  
+      Ejemplo: `.meal-plan__card`, `.user-profile__header`  
+    - Agrupación por tipo de selector.  
+    - Estilos reutilizables mediante clases utilitarias.
+
+---
+
+Estas guías aseguran que el código sea limpio, mantenible y fácil de entender para todos los miembros del equipo.
+
 #### 5.1.4. Software Deployment Configuration
+
+La configuración de despliegue para **Aliméntate+** contempla mecanismos organizados para publicar correctamente cada uno de los productos digitales del sistema: **Landing Page**, **Web Services (Backend)** y **Frontend Web Application**. Esta configuración garantiza que el equipo pueda replicar y mantener el proceso de despliegue con consistencia y trazabilidad.
+
+---
+
+**Despliegue del Landing Page**
+
+- **Tecnología:**  
+  HTML5, CSS3, JavaScript (Vanilla), diseño responsivo.
+
+- **Repositorio GitHub:**  
+  [https://github.com/G4-Aplicaciones-Web/landing-page](https://github.com/G4-Aplicaciones-Web/landing-page)
+
+- **Plataforma de despliegue:**  
+  GitHub Pages
+
+- **Método de despliegue:**  
+  - La rama `main` contiene la versión estable y publicada del sitio.  
+  - El contenido del directorio raíz se mantiene como fuente para GitHub Pages.  
+  - Los cambios aprobados en `develop` son fusionados a `main` mediante pull request.  
+  - GitHub Pages actualiza automáticamente la publicación al detectar cambios en `main`.
+
+---
+
+**Despliegue del Backend (Web Services)**
+
+- **Tecnología:**  
+  C# con .NET 7.
+
+- **Repositorio GitHub:**  
+  [https://github.com/G4-Aplicaciones-Web/backend](https://github.com/G4-Aplicaciones-Web/backend)
+
+- **Plataforma de despliegue:**  
+  Azure App Service.
+
+- **Método de despliegue:**  
+  - El backend se empaqueta como un archivo ejecutable o se publica directamente desde Visual Studio.  
+  - Se configura un pipeline de despliegue automático en Azure DevOps para integrar los cambios desde el repositorio.  
+  - Las variables de entorno (como credenciales de base de datos) se configuran en Azure App Service de forma segura.  
+  - El servicio se expone mediante una URL pública que el frontend puede consumir vía HTTP/REST.
+
+---
+
+**Despliegue del Frontend Web Application**
+
+- **Tecnología:**  
+  Vue.js 3 (JavaScript, HTML, CSS).
+
+- **Repositorio GitHub:**  
+  [https://github.com/G4-Aplicaciones-Web/frontend](https://github.com/G4-Aplicaciones-Web/frontend)
+
+- **Plataforma de despliegue:**  
+  Vercel.
+
+- **Método de despliegue:**  
+  - Vue.js se compila con `npm run build` para generar los archivos estáticos de producción.  
+  - La rama `main` sirve como fuente para el despliegue.  
+  - Vercel detecta automáticamente los cambios en `main` y publica la nueva versión del frontend.  
+  - El archivo de configuración de producción incluirá la URL pública del backend para permitir integración total.
+
+---
+
+**Consideraciones Finales**
+
+- Se documentará el procedimiento de despliegue paso a paso en la wiki del repositorio principal.  
+- Los entornos de desarrollo y producción estarán claramente separados mediante archivos de configuración.  
+- Se establecerán pruebas manuales básicas post-despliegue para verificar la disponibilidad y funcionalidad de los servicios.  
+- Se evaluará la incorporación de **GitHub Actions** o **Azure Pipelines** para automatizar los flujos de despliegue continuo (CI/CD).
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
