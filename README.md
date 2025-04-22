@@ -416,11 +416,154 @@ Los siguientes segmentos clave permiten establecer una base sólida para el lanz
 
 ### 2.1. Competidores
 
+#### En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
 
 #### 2.1.1. Análisis competitivo
 
+## Cuadro Analisis competitivo
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Sección</th>
+      <th>Alimentate +</th>
+      <th>Competidor 1 (Yazio)</th>
+      <th>Competidor 2 (Lumen)</th>
+      <th>Competidor 3 (Fitia)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Perfil: Overview</strong></td>
+      <td>NutriPlus es una nuestra startup que ofrece Alimentate+ como producto, la cual ofrece una forma diferente de de llevar controles de dieta, haciendolo de format totalmente personalizada.</td>
+      <td>Yazio proporciona una aplicación para seguimiento de datos nutricionales. Te ayuda a alcanzar "metas de salud".</td>
+      <td>Lumen te permite medir tu metabolismo con un dispositivo y ofrece planes de alimentacion personalizados</td>
+      <td>Fitia es una app que ofrece planes de alimentación automática y personalizados, asi como planes de ejercicios segun la preferencia.</td>
+    </tr>
+    <tr>
+      <td><strong>Ventaja competitiva</strong><br>¿Qué valor ofrece a los clientes?</td>
+      <td>Esta ofrece mayormente un enfoque muy personalizado, considerando las preferencias del usuario. La interfaz y sistema permiten adaptar el plan hecho a los cambios que realize el usuario </td>
+      <td>Ofrece planes de dieta específicos para varias necesidades y cuenta con una interfaz simple y facil de usar.</td>
+      <td>Ofrece un dispositivo portátil que mide el metabolismo del usuario a través de la respiración. Asi obtiene datos en tiempo real sobre la quema de carbohidratos y grasas, ajustando así la nutrición personalizada de manera más precisa.</td>
+      <td>Se destaca por su automatización de planes nutricionales, permitiendo al usuario comer sano. Genera menús de manera rápida basados en metas, preferencias y presupuesto, con bases solidas en ciencia nutricional.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Perfil de Marketing</th>
+      <th>Alimentate +</th>
+      <th>Competidor 1 (Yazio)</th>
+      <th>Competidor 2 (Lumen)</th>
+      <th>Competidor 3 (Fitia)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mercado objetivo</strong></td>
+      <td>Esta dirigida a usuarios que buscan una experiencia mas personalizada, incluyendo restricciones alimenticias o evitando alimentos en especifico, para aquellos que buscan mejorar sus habitos alimenticios sin necesariamente buscar perder peso.</td>
+      <td>Personas que buscan perder peso, seguir dietas especificas o mejorar su salud en general, o que buscan una aplicacion mas simple para el control de su nutricion</td>
+      <td>Su mercado objetivo son personas que buscan optimizar su salud metabolica, perder peso o ganar musculo para mejorar rendimiento en deportes, enfocandose mas en un publico orientado a deportistas.</td>
+      <td>Esta va dirigida mas a usuarios que quieren combinar tanto la nutricion como el ejercicio, mas que nada para personas que quieren todo lo relacionado a nutricion en una sola app</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias de marketing</td>
+      <td>Implementaremos estrategias de marketing orientadas mas a las redes sociales, promocionando nuestro producto y resaltando las metas o logros que seran interactivos en la aplicacion. Nos centraremos en resaltar lo que ofrecemos: personalizacion y accesibilidad.</td>
+      <td>Se basan en tener gran presencia en tiendas de aplicaciones para asi captar a usuarios, realizan colaboracion con bloggers y expertos de salud para promover la app.</td>
+      <td>Promocionan su tecnologia de medicion metabolica como de las pocas en el mercado y usa testimonios de expertos en salud y bienestar para aumentar su alcance</td>
+      <td>Crean contenido con salud, fitness y nutricion para de esa forma atraer usuarios y se alian con marcas de suplementos y fitness para darle mayor visibilidad</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Perfil del producto</th>
+      <th>Alimentate +</th>
+      <th>Competidor 1 (Yazio)</th>
+      <th>Competidor 2 (Lumen)</th>
+      <th>Competidor 3 (Fitia)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Productos & Servicios</strong></td>
+      <td>NutriPlus ofrece una plataforma que se adapta a las preferiencias alimenticias de nuestros usuarios, permitiendo creacion de planes personalizados de nutricion y salud. Incluye tambien la opcion de cambiar el plan en cualquier momento para la comodidad del usuario.</td>
+      <td>Planes de nutricion personalizados basados en los objetivos del usuario, con recomendaciones diarias de alimentos. Ofrece recetas saludables basadas en las preferencias del usuario.</td>
+      <td>Ofrece un dispositivo portatil que mide la respiracion para evaluar la quema de carbohidratos y grasas, ademas su app proporciona recomendaciones alimentarias diarias y personalizadas.</td>
+      <td>Ofrece planes de nutricion personalizados y ademas planes de entrenamiento, siguiendolo todo desde la app que controla el progreso tanto de la dieta como del ejercicio.</td>
+    </tr>
+    <tr>
+      <td><strong>Precios & Costos</td>
+      <td><strong>Free:</strong> Funciones de dieta personalizada en forma basica. <strong>Premium:</strong>Planes mensuales o anuales, con asesoria nutricional y un seguimiento constante, con acceso a planes de dieta exclusivos y recomendados.</td>
+      <td><strong>Free:</strong> Planes de nutricion basicos. <strong>Premium:</strong> Ofrece funcionalidades premium como planes más avanzados y seguimiento detallado.</td>
+      <td><strong>Lumen Device:</strong> Aproximadamente $299 por el dispositivo <strong>Premium:</strong> Acceso a la aplicacion y el analisis de datos ($30 al mes)</td>
+      <td><strong>Free:</strong> Acceso a planes de nutricion y ejercicio basicos. <strong>Premium:</strong> Alrededor de $10–$20 USD mensuales, que dependen de las funciones adicionales</td>
+    </tr>
+    <tr>
+      <td><strong>Canales de distribucion (Web y/o Movil)</td>
+      <td>• Apps móviles (Android,iOS,etc).  • Versión web con funciones mas limitadas.</td>
+      <td>• Disponibilidad en dispositivos Android o IOS.</td>
+      <td>• Venta directa a través de su página web oficial y plataformas de e-commerce como Amazon.</td>
+      <td>• Disponibilidad en dispositivos Android o IOS.</td>
+    </tr>
+  </tbody>
+</table>
+
+##  Analisis SWOT
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Alimentate +</th>
+      <th>Competidor 1 (Yazio)</th>
+      <th>Competidor 2 (Lumen)</th>
+      <th>Competidor 3 (Fitia)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Fortalezas</strong></td>
+      <td>Personalización avanzada de dietas por preferencias,definiendo los objetivos y restricciones del usuario. Brindamos una interfaz intuitiva y de facil comprension. </td>
+      <td>Amplia base de datos de alimentos y opciones dietéticas. Precio accesible comparado con otras aplicaciones premium.</td>
+      <td>Fuerte enfoque en la salud metabólica. Ofrecen una personalización de nutrición muy precisa.</td>
+      <td>Enfoque integral que combina ejercicio y nutrición. Acceso fácil y rápido tanto para entrenadores y nutricionistas.</td>
+    </tr>
+    <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>Startup emergente con poca visibilidad y desconocida por el publico general.
+Preparacion incierta si surge alta fluctuacion de usuarios.</td>
+      <td>Carece de un enfoque tan avanzado como otras apps en términos de personalización.</td>
+      <td>El dispositivo tiene un precio elevado, lo que puede limitar su accesibilidad. Se requiere seguimiento constante para ver los resultados.</td>
+      <td>Puede ser menos atractiva para aquellos que solo buscan seguimiento de nutrición sin ejercicio. Algunas funciones importantes solo estan en la version premium</td>
+    </tr>
+    <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>Crecimiento del interés en la nutrición personalizada. Posibles alianzas con nutricionistas y marcas saludables</td>
+      <td>Expansión en mercados internacionales con más traducciones y contenido regional. Desarrollo de funciones con personalizacion. </td>
+      <td>Creciente interés en la personalización de la salud. Abarcar mercados como el fitness o la medicina preventiva. </td>
+      <td>Crecimiento en el mercado de fitness y bienestar integral. Oportunidad de mayor expansion.</td>
+    </tr>
+    <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>Competencia fuerte con marcas consolidadas.
+Cambios en regulaciones de privacidad de datos.</td>
+      <td>Competencia con apps que ofrecen características similares como Cronometer o MyFitnessPal.</td>
+      <td>Competencia creciente en aplicaciones de nutrición personalizada. Riesgo de la seguridad de los datos personales. </td>
+      <td>Nuevas tecnologías y tendencias en salud que podrían ofrecer funcionalidades similares.
+
+</td>
+    </tr>
+ </tbody>
+</table>
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+#### Frente a competidores como los son Yazio, Lumen o Fitia, Alimentate + debe resaltar sobre todo la capacidad de alta personalizacion que tiene el usuario como ventaja respecto a los anterior mencionados. Debemos mostrar mediante nuestras campañas como las dietas se pueden adaptar a todo tipo de usuarios y sugesta a cambios en cualquier momento, incluso a las dietas de mayor complejidad. De forma mas tactica, las alianzas con nutricionistas y marcas saludables beneficiarian a que nuestro producto gane mayor visibilidad. Por ultimo, mantener funciones clave en la version gratuita y siempre mostrar una interfaz intuitiva y amigable a los usuarios.
 
 ### 2.2. Entrevistas
 
