@@ -764,13 +764,49 @@ La navegación en Aliméntate+ es dinámica y fluida. A medida que el usuario se
 
 ### 4.3. Landing Page UI Design
 
-
 #### 4.3.1. Landing Page Wireframe
 
+Desktop:
 <p align="center">
-    <img src="assets/recursos/landing" alt="landing-page-wireframe" width=80%/>
+  <img src="./assets/logos/WireframeDesktop1.png" alt="WireframeLPage1" width="550">
 </p>
 
+<p align="center">
+  <img src="./assets/logos/WireframeDesktop2.png" alt="WireframeLPage2" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeDesktop3.png" alt="WireframeLPage3" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeDesktop4.png" alt="WireframeLPage4" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeDesktop5.png" alt="WireframeLPage15 width="550">
+</p>
+
+Mobile:
+<p align="center">
+  <img src="./assets/logos/WireframeMobile1.png" alt="WireframeMobile1" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeMobile2.png" alt="WireframeMobile2" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeMobile3.png" alt="WireframeMobile3" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeMobile4.png" alt="WireframeMobile4" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeMobile5.png" alt="WireframeMobile5" width="200">
+</p>
 
 #### 4.3.2. Landing Page Mock-up
 
