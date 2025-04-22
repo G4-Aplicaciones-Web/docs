@@ -33,8 +33,6 @@
 |   Paredes Santos, Fabrizio Alberto    |              u202310914               |
 |       Rodriguez Macedo, Sebastian     |              u202310199               |
 
-
-
 </div>
 
 <div align="center"> Abril 2025 </div>
@@ -72,42 +70,34 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
     Para la Primera Entrega (TB1) del Project Report, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
 
     - Asignación de secciones por miembro:
-        <!-- - Aspajo Alvarez, Mathias (AdeXzz): Capitulo 2 (repartido), Capitulo 3
-        - Briceño De La Cruz, Farid	(InjustShin): Capitulo 4 (repartido)
-        - Galvez Chambi, Jhon (Chaomeum): Capitulo 1, Capitulo 4 (repartido)
-        - Guevara Tejada, Jorge	(Jorgito170): Capitulo 2 (repartido)
-        - Linares Bernable, Cesar (Cesar-Linares): Capitulo 4 (repartido)
-        - Todos: Capitulo 5 -->
+        - Mathias Bueno Perales (MathiasBueno): Capitulo 2 (Repartido), Capitulo 3
+        - Jhon Galvez Chambi (Chaomeum): Capitulo 1 (Repartido), Capitulo 2(Repartido) Capitulo 4 (repartido)
+        - Fabrizio Alberto Paredes Santos (psfa29): Capitulo 1, Capitulo 4 (repartido)
+        - Sebastian Rodriguez Macedo	(Shiftinnnnn): Capitulo 4 (repartido)        
+        - Todos: Capitulo 5
 
     - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:
         - Miembros del equipo en el repositorio:
         <p align="center">
             <img src="assets/evidencias/repo-members.png" alt="repo-members" width=60% >
         </p>
-        - Creación de ramas por cada capítulo:
+        - Creación de ramas con cada feature:
         <p align="center">
             <img src="assets/evidencias/" alt="repo-branches" width=60% >
         </p>
         - Commits realizados en las ramas individuales:       
         <p align="center">
-            <img src="assets/evidencias/cap1-branch-commits.png" alt="cap1-branch-commits" width=60% >
+            <img src="assets/evidencias/commits-feature-paredes.png" alt="commits-feature-paredes" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap2-branch-commits" width=60% >
+            <img src="assets/evidencias/commits-feature-galvez.png" alt="commits-feature-galvez" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap3-branch-commits" width=60% >
+            <img src="assets/evidencias/" alt="commits-feature-rodriguez" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="cap4-branch-commits" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/" alt="cap5-branch-commits" width=60% >
-        </p>
-        - Pull Requests y merges a la rama principal (master):
-        <p align="center">
-            <img src="assets/evidencias/" alt="master-merges" width=60% >
-        </p>
+            <img src="assets/evidencias/" alt="commits-feature-bueno" width=60% >
+        </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
             <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
@@ -224,10 +214,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| <div style="width:150px">Criterio específico</div> | <div style="width:250px">Acciones Realizadas</div> | <div style="width:250px">Conclusiones</div> |
-|:-------------------:|:-------------------:|:------------:|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| Jhon Galvez | Se concluye |
+| <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
+|:-------------------:|-------------------|------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de analizar las ideas propuestas por mi equipo para elaborar los diagramas de la aplicación. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
 
 <hr>
 
@@ -244,7 +234,6 @@ Desde su creación, NutriPlus ha apostado por la innovación, combinando intelig
 Creemos que una buena alimentación no debe ser un privilegio, sino una posibilidad real para todos. Por eso, trabajamos para democratizar el acceso a planes alimenticios personalizados, orientación nutricional confiable y contenido educativo de calidad.
 
 En un entorno donde los estilos de vida acelerados y la desinformación impactan directamente en la salud, NutriPlus se posiciona como un aliado tecnológico que facilita decisiones conscientes, fomenta la prevención y promueve un cambio de hábitos duradero.
-
 
 #### Misión
 
@@ -290,7 +279,6 @@ Descripcion
 
 
 #### 1.2. Solution Profile
-
 
 Aliméntate+ es una aplicación web desarrollada por NutriPlus que permite a los usuarios crear planes de alimentación personalizados basados en sus preferencias, objetivos de salud, condiciones médicas y necesidades nutricionales específicas. A través de un perfil individual, la plataforma adapta automáticamente las recomendaciones alimenticias, respetando restricciones y excepciones para brindar una experiencia única y personalizada.
 
@@ -338,85 +326,95 @@ El modelo freemium de NutriPlus permite el acceso gratuito a funcionalidades bá
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+Actualmente, muchas personas interesadas en mejorar su salud a través de una mejor alimentación no logran mantener una planificación constante y adaptada a sus necesidades específicas. Esto genera frustración, desmotivación y poca adherencia a sus objetivos nutricionales.
 
+¿Cómo podemos ayudar a que los usuarios mantengan una planificación alimentaria personalizada de forma constante y efectiva, alineada a sus metas de salud y estilo de vida, a través del uso de Alimentate+?
+
+- Domain: El dominio de Alimentate+ se centra en la nutrición personalizada y la gestión de dietas adaptadas a las necesidades de salud de los usuarios. El software será una herramienta integral que permita a las personas gestionar su alimentación de manera eficaz, considerando sus restricciones dietéticas, preferencias y metas de salud.
+
+- Customer Segments: El producto está dirigido a personas de todas las edades que buscan mejorar su salud mediante una dieta personalizada. Esto incluye a individuos con condiciones específicas como diabetes, hipertensión, o personas que desean perder peso o llevar un estilo de vida más saludable. Además, el segmento de clientes también incluye organizaciones de salud y bienestar que buscan soluciones para recomendar dietas personalizadas a sus pacientes.
+
+- Pain Points: Los principales puntos de dolor que enfrentan los usuarios incluyen la falta de herramientas accesibles para planificar dietas personalizadas, la dificultad para encontrar aplicaciones que consideren restricciones específicas. Además los usuarios también tienen retos como adaptar las recomendaciones a sus horarios y estilos de vida.
+
+- Gap: Existe una brecha clara en el mercado de aplicaciones de nutrición personalizadas que no ofrecen una experiencia completamente integrada. Las soluciones actuales no tienen la capacidad de adaptarse suficientemente a las restricciones alimenticias individuales y no proporcionan herramientas eficaces para gestionar inventarios y optimizar compras.
+
+- Visión/Strategy: La visión de Alimentate+ es ofrecer una solución accesible y eficiente para ayudar a las personas a tomar decisiones alimenticias informadas que se focalicen en sus objetivos de salud. Nuestra estrategia se basa en crear una plataforma que permita al usuario tener libertad de configuración en su dieta alimenticia.
+
+- Initial Segment: El segmento inicial de usuarios se centrará en personas que buscan perder peso o mejorar su salud en general a través de la nutrición personalizada. Además, se enfocará en usuarios con condiciones específicas como diabetes o hipertensión, que requieren planes de comida adaptados a sus necesidades nutricionales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Assumptions**
 
-<!-- 1. Creemos que nuestros clientes necesitan encontrar y reservar experiencias turísticas personalizadas de forma confiable y eficiente.
-2. Estas necesidades se resuelven con una plataforma web que centralice ofertas de actividades de agencias verificadas, con filtros por interés, ubicación y presupuesto.
-3.	Nuestros clientes iniciales serán turistas nacionales y extranjeros que visitan Perú, así como agencias de turismo formalmente constituidas que buscan digitalizar sus servicios.
-4.  El valor más importante de lo que el cliente requiere de nuestro servicio es una experiencia de viaje personalizada, segura y sin complicaciones.
-5.	El cliente puede tener los siguientes beneficios adicionales: acceso a reseñas de otros usuarios, itinerarios organizados, descuentos exclusivos, y soporte digital durante el viaje.
-6.	Vamos a adquirir clientes mediante estrategias de marketing digital (SEO, redes sociales, influencers de viajes), alianzas con agencias y posicionamiento en buscadores de experiencias.
-7.	Haremos dinero a través de comisiones por reservas realizadas a través de la plataforma y planes premium para agencias.
-8.	Nuestra competencia principal serán plataformas internacionales como Booking, Airbnb Experiences y la oferta informal en redes sociales.
-9.	Los venceremos ya que nuestra plataforma tiene un enfoque local, curaduría de experiencias auténticas, alianza con agencias formales, y una interfaz intuitiva con filtros relevantes.
-10.	Nuestro mayor riesgo es la baja adopción por parte de agencias o la falta de confianza de los usuarios en nuevas plataformas.
-11.	Resolveremos esto mediante estrategias de onboarding amigables, incentivos iniciales, verificación pública de agencias y testimonios visibles de clientes satisfechos.
+1. Creemos que nuestros clientes necesitan una forma práctica y personalizada de mejorar su alimentación.
+2. Estas necesidades se resuelven con una plataforma web que genere planes nutricionales adaptados a cada usuario.
+3.	Nuestros clientes iniciales serán personas con metas de salud específicas, como bajar de peso, mejorar su condición médica o adquirir buenos hábitos alimenticios.
+4.  El valor más importante de lo que el cliente requiere de nuestro servicio es la personalización real de una dieta diaria según objetivos, gustos y restricciones.
+5.	El cliente puede tener los siguientes beneficios adicionales: educación alimentaria, seguimiento del progreso, recordatorios y recomendaciones de recetas.
+6.	Vamos a adquirir clientes mediante estrategias de marketing digital (SEO, redes sociales, influencers de fitness) y recomendaciones de profesionales de salud.
+7.	Haremos dinero a través de suscripciones mensuales premium y alianzas con centros de salud o nutricionistas.
+8.	Nuestra competencia principal serán otras apps de nutrición similares o de control de calorías.
+9.	Los venceremos ya que nuestra plataforma tiene la capacidad de adaptación precisa a las condiciones médicas y preferencias del usuario.
+10.	Nuestro mayor riesgo es que los usuarios no sientan que el plan es lo suficientemente personalizado o útil.
+11.	Resolveremos esto mediante estrategias de onboarding amigables, incentivos iniciales, mejoras constantes en el algoritmo y feedback continuo de los usuarios.
 12. Qué otras suposiciones tenemos que, si resultan falsas, harán que nuestro negocio/proyecto fracase?
-    - Que los turistas están dispuestos a reservar experiencias turísticas por adelantado desde una plataforma digital.
-    - Que las agencias formales ven valor en integrarse a un sistema centralizado y están dispuestas a adaptarse a su uso. -->
+    - Que los turistas están dispuestos a pagar por planes personalizados de nutricion.
+    - Que los especialistas en nutrición vean la oportunidad de aumentar su alcance a traves de nuestra aplicación.
 
 **User Assumptions**
 
-<!-- 1.	¿Quién será nuestro usuario? 
-    - Turistas nacionales y extranjeros con acceso a internet, con intención de explorar nuevas experiencias en sus destinos.
-    - Representantes de agencias de turismo interesadas en aumentar su visibilidad y reservas.
+1.	¿Quién será nuestro usuario? 
+    - El usuario de Alimentate+ es cualquier persona interesada en mejorar su alimentación y bienestar a través de una dieta personalizada.
+    - Alimentate+ también está pensado para profesionales de la salud como nutricionistas que necesitan herramientas para diseñar y monitorear planes alimenticios adaptados a sus pacientes.
 2.	¿Dónde encaja nuestro producto en su vida?
-    - En la etapa de planificación de viaje, al buscar actividades que enriquezcan su experiencia.
-    - En el caso de agencias, como parte de su canal de ventas y atención al cliente.
+    - Se integra de forma natural en la vida cotidiana del usuario al facilitarle la planificación alimentaria y la toma de decisiones respecto a su dieta.
 3.	¿Qué problemas resuelve nuestro producto?
-    - Dificultad para encontrar experiencias confiables, personalizadas y seguras.
-    - Desorganización de itinerarios.
-    - Limitada presencia digital de agencias locales confiables.
+    - Se busca resolver la dificultad que tienen muchas personas para planificar sus comidas de manera efectiva y alineada con sus necesidades personales.
+    - Los planes nutricionales son genéricos y no consideran restricciones, preferencias o metas individuales, lo que disminuye la motivación y la adherencia a una dieta
 4.	¿Cómo y Cuándo es usado nuestro producto?
-    - Antes del viaje (exploración y reservas) y durante el viaje (gestión de itinerarios y asistencia).
-    - En dispositivos móviles y de escritorio, principalmente mediante el navegador web.
+    - Es utilizado de manera diaria, tanto al inicio del día para revisar el plan de comidas, como en momentos clave como la preparación de alimentos o la planificación de compras semanales. El acceso a la plataforma se da principalmente a través de navegadores web en computadoras, laptops o dispositivos móviles.
 5.	¿Qué características son importantes?
-	- Filtros de búsqueda por intereses, ubicación, precio, reseñas.
-    - Perfil y catálogo de agencias.
-    - Organización del itinerario.
-    - Pago seguro y notificaciones.
+	  - Generación automática de planes de comida personalizados
+    - Inclusión de objetivos de salud y preferencias alimenticias, así como la gestión de excepciones o restricciones.    
 6.  ¿Cómo luce y se comporta nuestro producto?
-    - Con una interfaz limpia, intuitiva y confiable, accesible para distintos niveles de experiencia tecnológica.
-    - Rápida carga, navegación fluida, diseño adaptado a dispositivos móviles. -->
+    - Con una interfaz sencilla e intuitiva, que permita a los usuarios modificar sus planes y hacer seguimiento de su progreso.
+    - Rápida carga, navegación fluida, diseño adaptado a dispositivos móviles.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-<!-- - **Creemos que**, si ofrecemos a los turistas una plataforma donde puedan explorar actividades segmentadas por tipo de experiencia, destino, presupuesto y duración, entonces podrán tomar decisiones más informadas, mejorando su experiencia de viaje. **Sabremos que** hemos logrado este resultado **cuando** observemos un incremento sostenido en la cantidad de reservas exitosas y una tasa alta de satisfacción del usuario (medida por reseñas y feedback post-actividad).
+- **Creemos que**, ofrecer planes alimenticios personalizados que se ajusten a objetivos específicos (como bajar de peso o controlar la diabetes) aumentará el compromiso de los usuarios con la plataforma. **Sabremos que** hemos logrado este resultado **cuando** veamos que los usuarios ingresan y siguen su plan nutricional durante al menos 5 días consecutivos en un período de prueba de dos semanas.
 
-- **Creemos que**, al proporcionar a las agencias una interfaz administrativa sencilla para gestionar su catálogo, recibir notificaciones de reservas y analizar métricas básicas, aumentará su participación activa y la disponibilidad de oferta formal. **Sabremos que** esta hipótesis es válida **cuando** se registre un incremento progresivo en el número de agencias registradas y publicaciones activas.
+- **Creemos que**, dar opción a los usuarios de modificar ingredientes y platos dentro de sus planes aumentará la probabilidad de adherirse al plan nutricional. **Sabremos que** esta hipótesis es válida **cuando** veamos que más del 60% de los usuarios personalizan sus planes y, como resultado, se disminuye la tasa de abandono semanal.
 
-- **Creemos que**, si promovemos exclusivamente agencias registradas y verificadas (según regulaciones del MINCETUR), entonces generaremos mayor confianza en el usuario final y fomentaremos la formalización del sector. **Sabremos que** esta hipótesis se confirma **cuando** veamos un crecimiento sostenido en la base de usuarios activos y una reducción en las quejas relacionadas a malas experiencias con proveedores.
-
-- **Creemos que**, si integramos herramientas de personalización (como recomendaciones según el historial o intereses declarados), entonces los usuarios encontrarán actividades más alineadas a sus expectativas. **Sabremos que** esto es cierto **cuando** aumente el tiempo de navegación en la plataforma y la tasa de conversión de visitas en reservas. -->
+- **Creemos que**, integrar recordatorios diarios y consejos personalizados aumentará el uso frecuente de la aplicación. **Sabremos que** esta hipótesis se confirma **cuando** veamos que el número de sesiones activas por usuario aumente en un 30% en el primer mes tras activar los recordatorios personalizados.
 
 #### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
-    <img src="assets/recursos/LeanUX_Canvas.jpg" alt="lean-ux-canvas"/>
+    <img src="assets/recursos/LeanUX_Canvas.png" alt="lean-ux-canvas"/>
 </p>
 
 ### 1.3. Segmentos Objetivos
 
-Los siguientes segmentos clave permiten establecer una base sólida para el lanzamiento de la aplicación.
-Su elección busca 
+Los siguientes segmentos clave permiten establecer una base sólida para el lanzamiento de la aplicación. Su elección busca:
 
-- **Segmento objetivo 1:**
+- **Segmento objetivo 1: Jóvenes Adultos**
 
-| _Aspectos demográficos_ | _Aspectos geográficos_ | _Aspectos psicográficos_ |
-|-------------------------|------------------------|--------------------------|
-| Sexo:  | Nacionalidad: Peruana <br> Zona geográfica: Urbana y zonas turísticas <br> Departamento: Diversas regiones del Perú, especialmente Lima, Cusco, Arequipa, Ica, Puno y Madre de Dios | Necesidad de expandir |
+| _Aspectos demográficos_                                                                                   | _Aspectos geográficos_                                                                                                   | _Aspectos psicográficos_                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sexo: Masculino y Femenino <br> Edades: Entre 18 y 65 años <br> Nivel Socioeconómico: Clases A, B, C, D <br> Ocupación: Estudiantes universitarios, profesionales, emprendedores <br> Ingresos: Variables, con posibilidad de ingresos fijos o por proyectos | Nacionalidad: Nacional (principalmente en áreas urbanas y suburbanas) <br> Ubicación Actual: Grandes ciudades como Lima, Arequipa, Trujillo, Piura <br> Acceso a Tecnología: Alta disponibilidad de smartphones y computadoras | Motivaciones: Búsqueda de una vida más saludable, interés por mejorar el bienestar físico y adoptar hábitos alimenticios adecuados <br> Estilo de vida: Activo, con predisposición a mejorar la alimentación por razones estéticas, deportivas o de salud <br> Preocupaciones: Dificultad para gestionar una dieta que se ajuste a sus preferencias, gustos y objetivos personales <br> Adaptación a la tecnología: Alta disposición para usar aplicaciones móviles y plataformas digitales <br> Interés por la Personalización: Gran valor por soluciones personalizadas para lograr metas de bienestar |
 
+- **Segmento objetivo 2: Profesionales de la Salud (Nutricionistas)**
+
+| _Aspectos demográficos_                                                                                  | _Aspectos geográficos_                                                                                                   | _Aspectos psicográficos_                                                                                                                                                                                                 |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sexo: Masculino y Femenino <br> Edades: Entre 25 y 65 años <br> Nivel Socioeconómico: Clases A, B, C <br> Ocupación: Nutricionistas, dietistas, profesionales en salud y bienestar <br> Educación: Título universitario en Nutrición o carreras relacionadas <br> Ingresos: Medios-altos, provenientes de consultas privadas, clínicas o instituciones de salud | Nacionalidad: Nacional <br> Ubicación Actual: Áreas urbanas y suburbanas con acceso a clínicas, consultorios y hospitales (mayormente en Lima, Arequipa, Trujillo) <br> Acceso a Tecnología: Alta disponibilidad de internet y herramientas digitales | Motivaciones: Deseo de mejorar la salud y bienestar de sus pacientes, utilizar tecnologías para mejorar la atención nutricional <br> Estilo de vida: Profesional enfocado en el bienestar de los demás, trabajando en clínicas, hospitales o consultas privadas <br> Preocupaciones: Necesidad de herramientas que faciliten la gestión de pacientes, seguimiento de dietas y mejora de adherencia <br> Adaptación a la tecnología: Alta disposición para integrar herramientas tecnológicas en su práctica profesional <br> Interés por la Personalización: Soluciones que ajusten dietas a necesidades específicas y permitan monitoreo en tiempo real |
 
 <hr>
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
-
 
 
 #### 2.1.1. Análisis competitivo
