@@ -587,6 +587,18 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 #### 2.3.1. User Personas
 
+#### *Segmento 1 : Jovenes adultos*
+
+<p align="center">
+  <img src="assets/recursos/User Persona 1.png" alt="PB" width="800">
+</p> 
+
+#### *Segmento 2: Nutricionistas*
+
+<p align="center">
+  <img src="assets/recursos/User Persona 2.png" alt="PB" width="800">
+</p> 
+
 #### 2.3.2. User Task Matrix
 
 #### 2.3.3. User Journey Mapping
