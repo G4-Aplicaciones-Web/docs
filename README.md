@@ -752,25 +752,345 @@ La navegación en Aliméntate+ es dinámica y fluida. A medida que el usuario se
 
 ### 4.2. Information Architecture
 
+La arquitectura de información de Alimentate+ se ha diseñado para estructurar de manera clara todas las funcionalidades de la aplicación, permitiendo a los usuarios navegar fácilmente por las distintas secciones y acceder a las herramientas que los ayudarán a alcanzar sus metas de salud y nutrición.
+
+En la sección **Historial de Planes**, los usuarios pueden acceder a un historial de los planes de comida que han utilizado, incluyendo las fechas de inicio y fin, así como una breve descripción de cada plan.
+
+En la sección **Preferencias Alimentarias**, los usuarios podrán personalizar su perfil indicando sus preferencias de comidas favoritas, alergias, restricciones dietéticas (vegano, keto, sin gluten), y excepciones alimentarias, para que los planes que se generen sean acordes a sus intereses y necesidades.
+
+En la sección **Buscar Recetas y Alimentos**, los usuarios podrán buscar recetas paso a paso para preparar sus comidas y explorar la base de datos de alimentos con su valor nutricional detallado, basados en su ubicación (opcional) o en categorías específicas, para encontrar fácilmente opciones que se ajusten a su plan o preferencias.
+
+En la sección **Planes Destacados** (Potencial para el futuro), los usuarios podrían ver una lista de planes de comida más populares o recomendados por la comunidad o por nutricionistas, de esta manera se podría inspirar a otros usuarios y destacar planes efectivos.
+
+En la sección **Configuración de Notificaciones**, los usuarios pueden recibir notificaciones personalizadas de recordatorios para sus horarios de comida y alertas cuando no estén cumpliendo su plan, filtradas según su conveniencia (horarios preferidos, tipo de alerta). De esta manera podrán mantenerse enfocados en sus objetivos y no olvidar sus comidas.
+
+En la sección **Filtrar Recetas y Alimentos**, los usuarios pueden filtrar las recetas y los alimentos de su preferencia según (categoría, restricciones dietéticas, tiempo de preparación, valor nutricional específico). De esta manera podrán encontrar las opciones que mejor se adapten a sus necesidades y disponibilidad.
+
+En la sección de **Personalización de Preferencias Alimentarias**, los usuarios cuentan con un sistema inteligente que aprende de sus selecciones, búsquedas y registros específicos, permitiendo a la plataforma ofrecerle planes de comida, recetas y alimentos que se encuentren alineados con sus gustos, restricciones y objetivos.
+
+En la sección **Crear Recetas Propias** (Potencial para el futuro), los usuarios organizadores (o todos los usuarios) pueden ingresar sus propias recetas, incluyendo ingredientes, pasos y valor nutricional. De esta manera la cantidad de opciones disponibles en la aplicación irá creciendo y se adaptará a gustos individuales.
+
+En la sección **Registro de Comidas Hechas**, los usuarios pueden monitorear las comidas que han realizado según su plan y confirmar que las han completado.
+
+En la sección **Compartir** (Potencial para el futuro), los usuarios podrían promocionar sus planes de comida favoritos o recetas con amigos y familiares en diversas plataformas, así también mantenerlos informados sobre su progreso.
+
+En la sección **Mis Logros**, los usuarios podrán guardar un registro de su progreso, como días cumpliendo el plan, metas de peso alcanzadas, o recetas preparadas. De esta manera los usuarios podrán sentirse motivados por cada logro obtenido.
+
+En la sección **Historial de Progreso**, los usuarios podrán tener un historial de sus registros de peso y medidas corporales, mismos que se utilizarán para visualizar su avance en la plataforma. Un sistema de visualización gráfica los premiará con una representación tangible de su esfuerzo.
+
+En la sección **Estadísticas de Progreso**, los usuarios podrán ver un registro detallado de su progreso y logros alcanzados (pérdida de peso, ganancia muscular, etc.), de esta manera tendrán una imagen clara de su evolución.
+
+En la sección **Ranking de Usuarios** (Potencial para el futuro), los usuarios recurrentes podrían visualizar a otros usuarios con objetivos similares o los más activos de la plataforma (con su consentimiento y de forma anonimizada), de esta manera los usuarios tendrán un incentivo para seguir utilizando la aplicación y alcanzar sus metas.
+
+En la sección **Estado del Plan** (Potencial para el futuro), los usuarios podrían ver un resumen del estado actual de su plan de comida, como el cumplimiento de calorías y macronutrientes, y consejos para mejorar la adherencia.
+
+En la sección **Fechas del Plan**, los usuarios podrán identificar la duración de su plan actual y el número de días transcurridos, de esta manera podrán entender mejor el progreso temporal y manejar sus expectativas.
+
+En la sección **Tareas del Plan** (Potencial para el futuro), los usuarios podrían identificar tareas pendientes relacionadas con su plan, como registrar una comida o revisar una nueva receta. De esta manera podrán mantenerse activos en su seguimiento.
+
+En la sección **Comentarios** (Potencial para el futuro), los usuarios podrían dejar comentarios o notas sobre las comidas, recetas o el plan en general. De esta manera fomentarán la retroalimentación personal y podrían compartir experiencias (en un contexto comunitario futuro).
+
+En la sección **Resumen Semanal**, los usuarios podrán ver un detalle de las actividades realizadas en la semana, incluyendo comidas registradas, progreso de peso y cumplimiento del plan. De esta manera podrán verificar su progreso semanal.
+
+El equipo confía en que esta estructura permitirá a los usuarios de Alimentate+ una vía efectiva y más eficaz al momento de crear y seguir planes de comida personalizados para mejorar su bienestar. Nuestro objetivo es ofrecer una plataforma rápida e intuitiva que ayude a las personas a alcanzar sus metas de salud y nutrición con facilidad y precisión.
+
 #### 4.2.1. Organization Systems
 
-#### 4.2.2. Labeling Systems
+Los contenidos de Alimentate+ se organizan utilizando diferentes sistemas según la naturaleza del contenido y el flujo esperado del usuario: 
+
+
+#### ▪ Organización Visual del Contenido
+
+| Tipo de organización | Aplicación / Uso concreto | Justificación |
+|----------------------|---------------------------|---------------|
+| Jerárquica (Visual Hierarchy) | Landing Page, pantalla principal de la app | Para destacar las funcionalidades clave y guiar al usuario hacia las acciones más importantes (registro, descarga, exploración de funciones). |
+| Secuencial (Paso a paso) | Registro de usuario, configuración de perfil nutricional, creación de metas | Acompaña al usuario en su primer uso, evitando sobrecarga cognitiva y asegurando una experiencia guiada. |
+| Matricial | Registro de alimentos, historial, progreso nutricional | Permite mostrar múltiples variables en un solo espacio (alimento, cantidad, calorías, fecha), facilitando la comparación y comprensión de datos. |
+
+#### ▪ Esquemas de Categorización de Contenido
+
+| Tipo de esquema | Aplicación / Uso concreto | Justificación |
+|-----------------|---------------------------|---------------|
+| Por tópicos | Secciones de "Inicio", "Progreso", "Recetas", "Configuración" | Permite que el contenido esté agrupado por funcionalidades para un acceso rápido. |
+| Cronológico | Historial de alimentos, resumen semanal, evolución del progreso | Ideal para seguir la evolución del usuario en el tiempo. Facilita la evaluación de hábitos. |
+| Según audiencia (grupos de usuarios) | Recomendaciones personalizadas para usuarios con objetivos distintos (subir/bajar peso, vegetarianos, diabéticos) | El sistema se adapta a las necesidades específicas de cada perfil, ofreciendo contenido relevante. |
+
+
+#### ▪ Secciones Principales de Alimentate+
+
+| Historial de Planes      | Definición                                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                  | Mostrar lista de planes de comida previos con la opción de filtrado por fecha.                           |
+| Alternativas             | Posibilidad de compartir su historial en las redes sociales.                                           |
+| Sugerencias              | Incluir la opción de ver el impacto de cada participación en los proyectos.                             |
+
+<br>
+
+| Preferencias Alimentarias | Definición                                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                  | Los usuarios pueden personalizar su perfil indicando sus preferencias alimentarias.                   |
+| Alternativas             | Permite guardar y editar preferencias fácilmente.                                                      |
+| Sugerencias              | Incluir recomendaciones basadas en las preferencias alimentarias registradas.                          |
+
+<br>
+
+| Buscar Recetas y Alimentos| Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Los usuarios pueden buscar recetas y alimentos con su valor nutricional detallado.                     |
+| Alternativas              | Opción de filtrar por categoría, tiempo de preparación, y valor nutricional.                            |
+| Sugerencias               | Ofrecer recetas sugeridas según los intereses y restricciones alimentarias del usuario.                |
+
+<br>
+
+| Planes Destacados         | Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Mostrar los planes de comida más populares o recomendados por la comunidad o nutricionistas.            |
+| Alternativas              | Posibilidad de explorar planes con diferentes objetivos (ej. bajar peso, ganar músculo).                |
+| Sugerencias               | Mostrar planes basados en los intereses y restricciones alimentarias del usuario.                      |
+
+<br>
+
+| Configuración de Notificaciones | Definición                                                                                              |
+|---------------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                         | Los usuarios pueden recibir notificaciones personalizadas de recordatorios para sus horarios de comida. |
+| Alternativas                    | Opción de ajustar horarios preferidos y tipo de alertas.                                                |
+| Sugerencias                     | Incluir notificaciones de cumplimiento y recomendaciones para mejorar la adherencia al plan.            |
+
+<br>
+
+| Filtrar Recetas y Alimentos  | Definición                                                                                              |
+|------------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                      | Los usuarios pueden filtrar recetas y alimentos por categorías específicas, tiempo de preparación y valor nutricional. |
+| Alternativas                 | Opción de añadir filtros de ingredientes, restricciones dietéticas y por popularidad.                   |
+| Sugerencias                  | Ofrecer filtros recomendados basados en las elecciones del usuario.                                     |
+
+<br>
+
+| Personalización de Preferencias Alimentarias | Definición                                                                                              |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                                     | Sistema que aprende de las selecciones y búsquedas para ofrecer recomendaciones más precisas.           |
+| Alternativas                                | Opción de actualizar y modificar las preferencias alimentarias a lo largo del tiempo.                   |
+| Sugerencias                                 | Incluir sugerencias personalizadas de recetas y planes de comida basados en el comportamiento del usuario. |
+
+<br>
+
+| Crear Recetas Propias   | Definición                                                                                              |
+|-------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                 | Los usuarios pueden ingresar sus propias recetas, incluyendo ingredientes, pasos y valor nutricional. |
+| Alternativas            | Opción de hacer públicas las recetas para que otros usuarios las vean y las prueben.                   |
+| Sugerencias             | Ofrecer recomendaciones de ingredientes o recetas basadas en las más populares o saludables.            |
+
+<br>
+
+| Registro de Comidas Hechas | Definición                                                                                              |
+|----------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                    | Los usuarios pueden registrar comidas ya hechas (por ejemplo, arroz con pollo) y detallar las porciones (2 oz de arroz, 1 presa de pollo, etc.). |
+| Alternativas               | Opción de agregar estos platos al buscador para que otros usuarios puedan encontrarlos y utilizarlos.  |
+| Sugerencias                | Incluir sugerencias para personalizar las recetas registradas basadas en las preferencias alimentarias. |
+
+<br>
+
+| Compartir               | Definición                                                                                              |
+|-------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                 | Los usuarios pueden compartir sus planes de comida favoritos o recetas con amigos y familiares.        |
+| Alternativas            | Opción de publicar recetas en redes sociales o enviarlas directamente a otras personas.                 |
+| Sugerencias             | Incluir la opción de generar un enlace compartible para planes completos.                               |
+
+<br>
+
+| Mis Logros               | Definición                                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                  | Los usuarios pueden guardar un registro de su progreso, como días cumpliendo el plan o metas alcanzadas.|
+| Alternativas             | Opción de visualizar logros por categorías (pérdida de peso, ganancia muscular, etc.).                  |
+| Sugerencias              | Incluir recordatorios y felicitaciones cuando se logren nuevos hitos o metas.                           |
+
+<br>
+
+| Historial de Progreso    | Definición                                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                  | Los usuarios pueden tener un historial de sus registros de peso y medidas corporales.                  |
+| Alternativas             | Opción de visualizar gráficos interactivos del progreso.                                                |
+| Sugerencias              | Incluir recomendaciones basadas en los datos históricos para mejorar el progreso.                      |
+
+<br>
+
+| Estadísticas de Progreso | Definición                                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                  | Los usuarios pueden ver un registro detallado de su progreso y logros alcanzados.                      |
+| Alternativas             | Opción de ver el progreso por diferentes periodos de tiempo (semanal, mensual, anual).                  |
+| Sugerencias              | Mostrar sugerencias para mejorar el rendimiento basado en los resultados obtenidos.                    |
+
+<br>
+
+| Ranking de Usuarios       | Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Los usuarios pueden ver a otros usuarios con objetivos similares o los más activos de la plataforma.   |
+| Alternativas              | Opción de ver ranking basado en la actividad, logros o impacto social.                                  |
+| Sugerencias               | Ofrecer recompensas por participar activamente o por cumplir ciertos desafíos.                         |
+
+<br>
+
+| Estado del Plan           | Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Los usuarios pueden ver el estado actual de su plan de comida, como el cumplimiento de calorías y macronutrientes. |
+| Alternativas              | Opción de ajustar el plan en función de los cambios en el progreso o las metas.                         |
+| Sugerencias               | Incluir consejos para mejorar la adherencia y el cumplimiento de los objetivos del plan.               |
+
+<br>
+
+| Fechas del Plan           | Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Los usuarios pueden identificar la duración de su plan actual y los días transcurridos.                |
+| Alternativas              | Opción de modificar las fechas del plan si el usuario necesita extender o reducir el tiempo.           |
+| Sugerencias               | Ofrecer recordatorios de fechas de finalización de objetivos o renovación de planes.                   |
+
+<br>
+
+| Tareas del Plan           | Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Los usuarios pueden identificar tareas pendientes relacionadas con su plan, como registrar una comida o revisar una nueva receta. |
+| Alternativas              | Opción de recibir recordatorios de tareas pendientes por completar.                                     |
+| Sugerencias               | Incluir sugerencias sobre qué hacer a continuación para mejorar la adherencia al plan.                 |
+
+<br>
+
+| Comentarios               | Definición                                                                                              |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                   | Los usuarios pueden dejar comentarios o notas sobre las comidas, recetas o el plan en general.         |
+| Alternativas              | Opción de recibir respuestas o comentarios de otros usuarios sobre las recetas o planes.               |
+| Sugerencias               | Fomentar la retroalimentación personal dentro de un entorno comunitario.                                |
+
+<br>
+
+| Resumen Semanal          | Definición                                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------------------------|
+| Simular                  | Mostrar un resumen visual del progreso del usuario a lo largo de la semana, incluyendo información sobre las comidas registradas, el cumplimiento del plan y metas alcanzadas. |
+| Alternativas             | Opción de ver los resúmenes por días o por metas específicas (ej. calorías, macronutrientes, alimentos probados). |
+| Sugerencias              | Incluir recomendaciones personalizadas para la siguiente semana basadas en el progreso de la semana anterior. |
+
+El sistema de etiquetado de **Alimentate+** busca transmitir información clara, breve y sin ambigüedades. Se han definido etiquetas simples que faciliten la navegación y comprensión, evitando tecnicismos o redundancias.
+
+
+| **Etiqueta**                  | **Descripción** |
+|------------------------------|-----------------|
+| Iniciar sesión / Registrarse | Opción para que el usuario acceda a la app con una cuenta existente o cree una nueva proporcionando datos personales o accediendo con redes como Google. |
+| Inicio                       | Página principal que presenta un resumen del día, acceso rápido a funciones como comidas registradas, progreso nutricional, y sugerencias. |
+| Menú principal               | Área de navegación con accesos a las secciones más importantes: Diario, Recetas, Perfil, Resumen, etc. |
+| Registrar comida             | Función para añadir un alimento consumido, permitiendo elegir por tipo (desayuno, almuerzo, etc.), y registrar porciones, ingredientes o desde una receta personalizada. |
+| Buscar receta                | Herramienta para buscar entre recetas previamente registradas por el usuario u ofrecidas por la app, filtrando por nombre, ingredientes, o tipo de comida. |
+| Crear receta personalizada   | Opción para que el usuario registre un nuevo platillo indicando los ingredientes, cantidades y preparación, y lo guarde para futuras consultas. |
+| Diario alimenticio           | Sección donde se muestran todas las comidas registradas por día, con su valor calórico y distribución de macronutrientes. |
+| Registro por porciones       | Permite al usuario indicar la cantidad exacta de cada ingrediente consumido en una comida. |
+| Buscar alimentos             | Barra de búsqueda que permite encontrar alimentos individuales desde la base de datos general para agregarlos al registro. |
+| Perfil                       | Sección donde se gestionan los datos personales del usuario: nombre, edad, peso, altura, metas, y preferencias. |
+| Configuración                | Área para modificar opciones como idioma, notificaciones, y unidades de medida. |
+| Progreso nutricional         | Muestra gráficos y resúmenes sobre el cumplimiento de metas diarias de calorías, macronutrientes y micronutrientes. |
+| Historial de comidas         | Registro de los alimentos consumidos durante días anteriores para seguimiento o edición. |
+| Resumen semanal              | Informe de las métricas nutricionales acumuladas durante la semana, incluyendo gráficos de calorías, macros y tendencias. |
+| Sugerencias                  | Recomendaciones automáticas de comidas o ajustes, basadas en el historial del usuario y sus objetivos. |
+| Guardar receta               | Opción para almacenar una receta personalizada y poder reutilizarla fácilmente en el futuro. |
+| Buscar recetas guardadas     | Sección donde el usuario puede revisar todas las recetas personalizadas que ha registrado previamente. |
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Se han definido etiquetas SEO y Meta Tags estratégicamente para la Landing Page y la Web App con el fin de mejorar la visibilidad en motores de búsqueda y optimizar la experiencia en redes sociales y navegadores.
+
+#### Landing Page
+
+- **Title**: Alimentate+ | Tu compañero de nutrición inteligente
+- **Meta Description**: Registra tus comidas, recibe recomendaciones saludables personalizadas y alcanza tus metas nutricionales con Alimentate+.
+- **Meta Keywords**: nutrición, salud, dieta, app nutricional, recetas saludables, progreso, alimentación
+- **Meta Author**: NutriPlus 
+
+#### Web Application
+
+- **Title**: Alimentate+ - Panel del usuario
+- **Meta Description**: Accede a tu panel personalizado para registrar alimentos, crear recetas y monitorear tu progreso nutricional.
+- **Meta Keywords**: seguimiento de comidas, registro nutricional, recetas personalizadas, progreso alimenticio
+- **Meta Author**: NutriPlus 
+
+
 #### 4.2.4. Searching Systems
+
+Para evitar que los usuarios se pierdan entre el volumen de contenido, *Alimentate+* ofrece múltiples sistemas de búsqueda adaptados a cada contexto:
+
+| **Nombre del Filtro**       | **Descripción** |
+|-----------------------------|-----------------|
+| Buscar alimentos            | Herramienta para encontrar alimentos individuales por nombre o categoría (frutas, carnes, lácteos, etc.) y agregarlos al registro de comidas. |
+| Buscar recetas guardadas    | Permite al usuario buscar entre sus recetas personalizadas por nombre del platillo o ingredientes utilizados previamente. |
+| Buscar por ingredientes     | Posibilidad de escribir uno o varios ingredientes para encontrar recetas que los contengan. |
+| Buscar por tipo de comida   | Filtra recetas o alimentos según la categoría del día: desayuno, almuerzo, cena, snack o postre. |
+| Buscar por historial        | Acceso rápido a alimentos y recetas registradas recientemente por el usuario, para reutilizarlas fácilmente. |
+| Sugerencias inteligentes    | Muestra recomendaciones de recetas o combinaciones de alimentos con base en los patrones previos del usuario y sus metas nutricionales. |
+| Filtros de porciones        | Permite visualizar únicamente aquellas recetas o registros que se ajustan a un rango calórico o cantidad de porciones específicas. |
+| Buscar en diario            | Herramienta para buscar registros pasados por fecha o tipo de comida dentro del diario alimenticio. |
+| Buscar por etiquetas        | Posibilidad de clasificar y encontrar recetas personalizadas con etiquetas como "bajo en calorías", "alto en proteína", "vegetariano", etc. |
+
+
 
 #### 4.2.5. Navigation Systems
 
+El sistema de navegación de Alimentate+ guía al usuario a través del contenido con una estructura clara y fluida. Se basa en patrones familiares para reducir la curva de aprendizaje.
+
+
+| **Nombre**                  | **Descripción** |
+|-----------------------------|-----------------|
+| Inicio                      | Página principal donde el usuario puede ver un resumen de su estado nutricional, acceso rápido a su diario y recomendaciones del día. |
+| Menú principal              | Barra de navegación que da acceso directo a las secciones más importantes: registro, historial, recetas guardadas, progreso y ajustes. |
+| Registro rápido             | Botón destacado que permite al usuario registrar alimentos de forma inmediata desde cualquier parte de la aplicación. |
+| Diario alimenticio          | Acceso al diario donde el usuario puede ver, editar o eliminar sus registros diarios de comidas. |
+| Recetas guardadas           | Sección donde el usuario accede a sus recetas personalizadas o sugeridas, con posibilidad de editarlas o agregarlas al registro. |
+| Historial                   | Permite revisar comidas registradas en días anteriores, junto con los nutrientes y calorías consumidas. |
+| Progreso                   | Visualización de estadísticas como calorías diarias, macronutrientes, metas semanales y evolución del peso. |
+| Buscador general            | Barra de búsqueda que permite encontrar alimentos, recetas o registros por nombre, ingrediente o fecha. |
+| Ajustes                     | Configuraciones generales de la app, como objetivos nutricionales, preferencias alimenticias, unidades de medida y notificaciones. |
+| Accesos rápidos             | Iconos o botones flotantes para acceder a funciones frecuentes como registrar agua, pesar alimentos o escanear códigos de barras. |
+
 ### 4.3. Landing Page UI Design
-
-
+    
 #### 4.3.1. Landing Page Wireframe
 
+Desktop:
 <p align="center">
-    <img src="assets/recursos/landing" alt="landing-page-wireframe" width=80%/>
+  <img src="./assets/logos/WireframeDesktopp1.png" alt="WireframeLPage1" width="550">
 </p>
 
+<p align="center">
+  <img src="./assets/logos/WireframeDesktopp2.png" alt="WireframeLPage2" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeDesktopp3.png" alt="WireframeLPage3" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeDesktopp4.png" alt="WireframeLPage4" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeDesktopp5.png" alt="WireframeLPage15 width="550">
+</p>
+
+Mobile:
+<p align="center">
+  <img src="./assets/logos/WireframeLMobile1.png" alt="WireframeMobile1" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeLMobile2.png" alt="WireframeMobile2" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeLMobile3.png" alt="WireframeMobile3" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeLMobile4.png" alt="WireframeMobile4" width="200">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/WireframeLMobile5.png" alt="WireframeMobile5" width="200">
+</p>
 
 #### 4.3.2. Landing Page Mock-up
 
