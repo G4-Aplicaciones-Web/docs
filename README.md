@@ -601,6 +601,149 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 #### 2.3.2. User Task Matrix
 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Usuario 1: Joven Adulto</th>
+      <th>Usuario 2: Nutricionista</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Crear perfil personal</strong></td>
+      <td>Frecuente/Critica</td>
+      <td>Frecuente/Critica</td>
+    </tr>
+    <tr>
+      <td><strong>Crear un plan de alimentacion personalizado</strong></td>
+      <td>Frecuente/Critica</td>
+      <td>Frecuente/Critica</td>
+    </tr>
+    <tr>
+      <td><strong>Registrar preferencias alimentarias y restricciones</td>
+      <td>Frecuente/Critica</td>
+      <td>Frecuente/Importante</td>
+    </tr>
+    <tr>
+      <td><strong>Visualizar un resumen nutricional diario</td>
+      <td>Frecuente/Importante</td>
+      <td>A veces/Importante</td>
+    </tr>
+        <tr>
+      <td><strong>Recibir sugerencias automáticas de recetas saludables</td>
+      <td>A veces/Importante</td>
+      <td>A veces/importante</td>
+    </tr>
+        <tr>
+      <td><strong>Recibir recordatorios para horarios de comida e hidratación</td>
+      <td>Frecuente/Critica</td>
+      <td>A veces/Importante</td>
+    </tr>
+        <tr>
+      <td><strong>Visualizar el progreso de salud en gráficos o métricas</td>
+      <td>A veces/Critica</td>
+      <td>Frecuente/Importante</td>
+    </tr>
+        <tr>
+      <td><strong>Configuracion de objetivos de salud</td>
+      <td>A veces/Critica</td>
+      <td>A veces/Importante</td>
+    </tr>
+        <tr>
+      <td><strong>Agregar opciones en dieta</td>
+      <td>Frecuente/Importante</td>
+      <td>A veces/Importante</td>
+    </tr>
+        <tr>
+      <td><strong>Ver evidencia del seguimiento de dieta</td>
+      <td>Frecuente/Importante</td>
+      <td>Frecuente/Critica</td>
+    </tr>
+        <tr>
+      <td><strong>Actualizar datos de salud</td>
+      <td>A veces/Critica</td>
+      <td>A veces/Importante</td>
+    </tr>
+        <tr>
+      <td><strong>Recomendar la app a otros usuarios</td>
+      <td>A veces/Moderada</td>
+      <td>A veces/Moderada</td>
+    </tr>
+        <tr>
+      <td><strong>Configurar notificaciones</td>
+      <td>A veces/Moderada</td>
+      <td>A veces/Moderada</td>
+    </tr>
+        <tr>
+      <td><strong>Compartir el plan de alimentación con un profesional de salud</td>
+      <td>A veces/Importante</td>
+      <td>Rara vez/Moderada</td>
+    </tr>
+        <tr>
+      <td><strong>Agendar y gestionar citas con un nutricionista a través de la app</td>
+      <td>A veces/Importante</td>
+      <td>Rara vez/Moderada</td>
+    </tr>
+        <tr>
+      <td><strong>Solicitar ayuda o soporte</td>
+      <td>A veces/Importante</td>
+      <td>A veces/importante</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Explicacion de las tareas:
+
+#### *Crear perfil personal:* 
+Permite al usuario registrar su información básica, nivel de actividad, objetivos y preferencias generales para personalizar la experiencia.
+
+#### *Crear un plan de alimentación personalizado:*
+Función principal que genera un plan nutricional adaptado a los datos y metas del usuario, basado en su salud, objetivos y preferencias.
+
+#### *Registrar preferencias alimentarias y restricciones:*
+Ayuda al usuario a excluir ingredientes o tipos de alimentos (como gluten, lácteos, carnes) para generar planes adecuados a su estilo de vida.
+
+#### *Visualizar un resumen nutricional diario*
+Muestra al usuario un desglose diario de nutrientes consumidos (calorías, proteínas, grasas, etc.), facilitando el seguimiento de su alimentación.
+
+#### *Recibir sugerencias automáticas de recetas saludables*
+Ofrece recomendaciones de recetas compatibles con el plan y preferencias del usuario, promoviendo variedad y adherencia al plan.
+
+#### *Recibir recordatorios para horarios de comida e hidratación*
+Notificaciones automatizadas que ayudan a mantener una rutina alimentaria y de hidratación estable, crucial para cumplir objetivos.
+*
+#### *Visualizar el progreso de salud en gráficos o métricas*
+Permite al usuario ver cómo ha evolucionado en el tiempo en cuanto a peso, medidas, energía o adherencia al plan.
+
+#### *Configuración de objetivos de salud*
+Opción para definir metas específicas como perder peso, ganar masa muscular o mejorar niveles de energía, que guiarán el plan nutricional.
+
+#### *Agregar opciones en dieta*
+El usuario puede modificar o añadir alimentos a su plan, adaptando la propuesta sin perder el enfoque nutricional.
+
+#### *Ver evidencia del seguimiento de dieta*
+Muestra si el usuario está cumpliendo su plan, incluyendo historial de comidas registradas, indicadores de progreso o alertas.
+
+#### *Actualizar datos de salud*
+Función para registrar cambios importantes como peso, presión arterial o estado físico general, permitiendo reajustar el plan.
+
+#### *Recomendar la app a otros usuarios*
+Invita al usuario a compartir la app con amigos o familiares, promoviendo el crecimiento orgánico de la plataforma.
+
+#### *Configurar notificaciones*
+Permite personalizar qué tipo de alertas desea recibir el usuario (recordatorios, consejos, seguimiento), mejorando la experiencia.
+
+#### *Compartir el plan de alimentación con un profesional de salud*
+Funcionalidad para enviar el plan o historial a un nutricionista u otro especialista, favoreciendo la colaboración profesional.
+
+#### *Agendar y gestionar citas con un nutricionista a través de la app*
+Facilita la coordinación con profesionales de salud dentro o fuera de la plataforma, mejorando la continuidad del tratamiento.
+
+#### *Solicitar ayuda o soporte*
+Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la app, asegurando una experiencia fluida.
+
+
 #### 2.3.3. User Journey Mapping
 
 #### 2.3.4. Empathy Mapping
