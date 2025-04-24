@@ -96,7 +96,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
             <img src="assets/evidencias/" alt="commits-feature-rodriguez" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-bueno" width=60% >
+            <img src="assets/evidencias/commits-feature-bueno.png" alt="commits-feature-bueno" width=60% >
         </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
@@ -751,6 +751,43 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 #### 2.3.5. As-is Scenario Mapping
 
 ### 2.4. Ubiquitous Language
+
+### *Términos relacionados con nuestro servicio:*
+
+- Usuario: Persona que utiliza la app, puede ser un joven adulto que busca mejorar su salud o un profesional de la salud que gestiona planes nutricionales.
+
+- Plan de alimentacion: Conjunto personalizado de recomendaciones nutricionales adaptadas al perfil, preferencias, metas y condiciones médicas del usuario.
+
+- Preferencias Alimentarias: Tipos de alimentos que el usuario desea incluir o excluir en su dieta, como vegetarianismo, intolerancias, alergias u objetivos específicos.
+
+- Objetivo de Salud: Meta establecida por el usuario como bajar de peso, ganar masa muscular, controlar el colesterol, etc.
+
+- Resumen Nutricional: Vista diaria o semanal del consumo de calorías, macronutrientes y micronutrientes del usuario.
+
+- Receta Saludable: Preparación culinaria sugerida por la app basada en el plan de alimentación, utilizando ingredientes compatibles con las preferencias del usuario.
+
+- Notificacion: Mensaje automatizado que recuerda al usuario acciones importantes como comer, hidratarse o actualizar su progreso.
+
+- Indicador de Progreso: Visualización del avance del usuario hacia sus metas de salud, representado en gráficos o métricas.
+
+- Nutricionista: Profesional de la salud registrado en la plataforma que puede visualizar, recomendar o ajustar planes de alimentación.
+
+- Cita Nutricional: Reunión virtual o presencial entre un usuario y un nutricionista, agendada y gestionada desde la aplicación.
+
+- Soporte: Sistema de ayuda técnica o asistencia al usuario dentro de la aplicación.
+
+### *Términos generales para el proyecto:*
+
+- Repositorio: El espacio digital donde se almacena y gestiona el código fuente de nuestro proyecto. Nosotros hacemos uso de GitHub.
+
+- Fork: Copia personal de un repositorio en el cual se pueden hacer cambios sin afectar el original.
+
+- Branch (Rama): Una línea de desarrollo paralelo al principal. Usado principalmente para agregar nuevas funciones o correcciones sin alterar el sistema actual.
+
+- Commit: Registro de cambios especificos hechos al codigo, en conjunto a mensajes explicando en que consiste cada uno.
+
+- Changelog: Registro cronológico de los cambios realizados según la versión del proyecto. Ayuda a no perder la ilación de las actualizaciones hechas a los usuarios.
+
 
 <hr>
 
