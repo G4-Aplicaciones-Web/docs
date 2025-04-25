@@ -1068,6 +1068,149 @@ Historias relacionadas: US13, US14, US17 y US18
 
 ### 3.4. Product Backlog
 
+[Product Backlog desarrollado en Trello](https://trello.com/invite/b/664cc22cb675450da443722d/ATTI54bd04ec2358465627a22b1e011dfba19D305A6F/my-trello-board)
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead style="background-color: #2d3748; color: white;">
+    <tr>
+      <th>#Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points(1/2/3/5/8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US-01</td>
+      <td>Registro de Usuario</td>
+      <td>Como visitante, quiero registrarme en la aplicación para empezar a gestionar mis necesidades alimenticias.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US-02</td>
+      <td>Recuperacion de Contraseña</td>
+      <td>Como usuario, quiero recuperar mi contraseña en caso de olvidarla</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US-03</td>
+      <td>Personalización de Perfil</td>
+      <td>Como usuario registrado, quiero completar y editar mis preferencias alimenticias para recibir planes adecuados.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US-04</td>
+      <td>Plan Alimenticio Personalizado</td>
+      <td>Como usuario, quiero recibir un plan alimenticio personalizado basado en mis datos para tener una guía clara.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US-05</td>
+      <td>Edición de Plan Alimenticio</td>
+      <td>Como usuario, quiero modificar o sustituir comidas del plan sugerido para adaptarlo a mis gustos.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US-06</td>
+      <td>Registro Diario de Alimentos</td>
+      <td>Como usuario, quiero registrar lo que como diariamente para llevar un control de mi progreso.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US-07</td>
+      <td>Recordatorios de Comidas</td>
+      <td>Como usuario, quiero recibir recordatorios para registrar mis comidas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US-08</td>
+      <td>Visualizacion del Progreso</td>
+      <td>Como usuario, quiero visualizar mi progreso nutricional para mantener mis habitos positivos.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US-09</td>
+      <td>Feedback Diario</td>
+      <td>Como usuario, quiero recibir comentarios sobre mi alimentación diaria para saber si estoy cumpliendo mis metas.	</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>US-10</td>
+      <td>Registro de Logros</td>
+      <td>Como usuario, quiero ver mis avances y logros alcanzados para mantenerme motivado.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US-11</td>
+      <td>Alertas de Objetivos no Alcanzados</td>
+      <td>Como usuario, quiero recibir alertas para cuando no cumpla los objetivos diarios</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>US-12</td>
+      <td>Interacción con Comunidad</td>
+      <td>Como usuario, quiero compartir experiencias y recetas con otros para motivarme y aprender.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>US-13</td>
+      <td>Panel de Pacientes</td>
+      <td>Como nutricionista, quiero ver un panel con el estado de mis pacientes para optimizar mi seguimiento.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>US-14</td>
+      <td>Envio de Sugerencias</td>
+      <td>Como nutricionista, quiero enviar recomendaciones directamente a los usuarios para orientarlos	</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US-15</td>
+      <td>Personalizacion de Metas</td>
+      <td>Como usuario, quiero definir metas especificas</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US-16</td>
+      <td>Visualizacion de Logros</td>
+      <td>Como usuario, quiero ver una seccion con los logros para ver cuales he completado</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>US-17</td>
+      <td>Notificaciones de Actividad</td>
+      <td>Como usuario, quiero recibir notificaciones sobre actualizaciones relevantes de la app</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US-18</td>
+      <td>Soporte en Tiempo Real</td>
+      <td>Como usuario, quiero chatear en tiempo real con el soporte tecnico para resolver dudas</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <hr>
 
 ## Capítulo IV: Product Design
