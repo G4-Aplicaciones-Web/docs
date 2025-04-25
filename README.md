@@ -774,6 +774,14 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 
 #### 2.3.5. As-is Scenario Mapping
 
+<p align="center">
+  <img src="assets/recursos/As - Is - User1.png" alt="PB" width="800">
+</p> 
+
+<p align="center">
+  <img src="assets/recursos/As - Is - User2.png" alt="PB" width="800">
+</p> 
+
 ### 2.4. Ubiquitous Language
 
 ### *Términos relacionados con nuestro servicio:*
@@ -818,6 +826,14 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+
+<p align="center">
+  <img src="assets/recursos/To - Be - User1.png" alt="PB" width="800">
+</p> 
+
+<p align="center">
+  <img src="assets/recursos/To - Be - User2.png" alt="PB" width="800">
+</p> 
 
 ### 3.2. User Stories
 
