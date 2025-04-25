@@ -837,7 +837,234 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 
 ### 3.2. User Stories
 
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead style="background-color: #2d3748; color: white;">
+    <tr>
+      <th>Epic / Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-01</td>
+      <td>Registro de Usuario</td>
+      <td><b>Como</b> visitante, <b>quiero</b> registrarme en la aplicación <b>para</b> empezar a gestionar mis necesidades alimenticias.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que soy un nuevo usuario, <i>When</i> completo mi información inicial, <i>Then</i> la app me mostrará sugerencias alimenticias adaptadas.<br>
+        <b>Escenario 2:</b> <i>Given</i> que omito algunos datos, <i>When</i> ingreso luego a mi perfil y los completo, <i>Then</i> la app ajustará mis sugerencias automáticamente.
+      </td>
+      <td>EP-01</td>
+    </tr>
+     <tr>
+      <td>US-02</td>
+      <td>Recuperacion de Contraseña</td>
+      <td><b>Como</b> usuario, <b>quiero</b> recuperar mi contraseña en caso de olvidarla</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que olvide mi contraseña, <i>When</i> solicito la recuperacion, <i>Then</i> recibire un correo con instrucciones para reestablecerla.<br>
+        <b>Escenario 2:</b> <i>Given</i> que no recibo el correo, <i>When</i> solicito reenviarlo, <i>Then</i> la app me permitira reenviar el enlace de recuperacion.
+      </td>
+      <td>EP-01</td>
+    </tr>
+    <tr>
+      <td>US-03</td>
+      <td>Personalización de Perfil</td>
+      <td><b>Como</b> usuario registrado, <b>quiero</b> completar y editar mis preferencias alimenticias <b>para</b> recibir planes adecuados.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que ingreso mis alergias, <i>When</i> guardo los cambios, <i>Then</i> la app excluye esos alimentos del plan.<br>
+        <b>Escenario 2:</b> <i>Given</i> que edito mi objetivo de salud, <i>When</i> actualizo el perfil, <i>Then</i> el sistema adapta mi plan alimenticio.
+      </td>
+      <td>EP-01</td>
+    </tr>
+    <tr>
+      <td>US-04</td>
+      <td>Plan Alimenticio Personalizado</td>
+      <td><b>Como</b> usuario, <b>quiero</b> recibir un plan alimenticio personalizado basado en mis datos <b>para</b> tener una guía clara.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que he completado todos los campos del perfil, <i>When</i> solicito un plan, <i>Then</i> la app genera uno personalizado.<br>
+        <b>Escenario 2:</b> <i>Given</i> que ya tengo un plan activo, <i>When</i> cambia mi nivel de actividad física, <i>Then</i> se genera una nueva propuesta de plan.
+      </td>
+      <td>EP-02</td>
+    <tr>
+      <td>US-05</td>
+      <td>Edición de Plan Alimenticio</td>
+      <td><b>Como</b> usuario, <b>quiero</b> modificar o sustituir comidas del plan sugerido <b>para</b> adaptarlo a mis gustos.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que no me gusta una comida del plan, <i>When</i> selecciono "sustituir", <i>Then</i> la app me ofrece una alternativa saludable.<br>
+        <b>Escenario 2:</b> <i>Given</i> que tengo restricciones alimenticias nuevas, <i>When</i> las agrego, <i>Then</i> el plan se actualiza automáticamente.
+      </td>
+      <td>EP-02</td>
+    </tr>
+    <tr>
+      <td>US-06</td>
+      <td>Registro Diario de Alimentos</td>
+      <td><b>Como</b> usuario, <b>quiero</b> registrar lo que como diariamente <b>para</b> llevar un control de mi progreso.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que estoy en el día actual, <i>When</i> ingreso mis comidas, <i>Then</i> la app guarda y analiza los datos.<br>
+        <b>Escenario 2:</b> <i>Given</i> que olvido registrar una comida, <i>When</i> ingreso al día anterior, <i>Then</i> la app me permite editarlo.
+      </td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US-07</td>
+      <td>Recordatorios de Comidas</td>
+      <td><b>Como</b> usuario, <b>quiero</b> recibir recordatorios <b>para</b> registrar mis comidas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que que soy un usuario activo, <i>When</i> configuro los recordatorios, <i>Then</i> recibire notificaciones en los horarios seleccionados<br>
+        <b>Escenario 2:</b> <i>Given</i> que omito varios recordatorios <i>When</i> accedo a la aplicacion, <i>Then</i> recibire una advertencia para completar los registros faltantes.
+      </td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US-08</td>
+      <td>Visualizacion del Progreso</td>
+      <td><b>Como</b> usuario, <b>quiero</b> visualizar mi progreso nutricional <b>para</b> mantener mis habitos positivos.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que registré lo que he consumido, <i>When</i> accedo a la seccion de progreso, <i>Then</i> podre revisar mis estadisticas sobre alimentacion<br>
+        <b>Escenario 2:</b> <i>Given</i> que tuve dias sin registrar comidas, <i>When</i> visualizo mi progreso <i>Then</i> la app indicara en que dias no hubo datos nuevos.
+      </td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US-09</td>
+      <td>Feedback Diario</td>
+      <td><b>Como</b> usuario, <b>quiero</b> recibir comentarios sobre mi alimentación diaria <b>para</b> saber si estoy cumpliendo mis metas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que registré todas mis comidas, <i>When</i> finaliza el día, <i>Then</i> recibo un resumen nutricional.<br>
+        <b>Escenario 2:</b> <i>Given</i> que superé mis calorías objetivo, <i>When</i> reviso el feedback, <i>Then</i> la app me da consejos para balancear al día siguiente.
+      </td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US-10</td>
+      <td>Registro de Logros</td>
+      <td><b>Como</b> usuario, <b>quiero</b> ver mis avances y logros alcanzados <b>para</b> mantenerme motivado.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que cumplo un objetivo semanal, <i>When</i> ingreso a mi perfil, <i>Then</i> veo una insignia o notificación.<br>
+        <b>Escenario 2:</b> <i>Given</i> que reviso mis estadísticas mensuales, <i>When</i> hubo progreso, <i>Then</i> la app me lo resalta con mensajes positivos.
+      </td>
+      <td>EP-04</td>
+      </tr>
+    <tr>
+      <td>US-11</td>
+      <td>Alertas de Objetivos no Alcanzados</td>
+      <td><b>Como</b> usuario, <b>quiero</b> recibir alertas <b>para</b> cuando no cumpla los objetivos diarios</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que no alcanzo un objetivo, <i>When</i> se cierra el dia, <i>Then</i> recibire una notificación.<br>
+        <b>Escenario 2:</b> <i>Given</i> que desactivo las alertas, <i>When</i> lo configuro en preferencias, <i>Then</i> no recibire notificaciones de objetivos fallidos.
+      </td>
+      <td>EP-03</td>
+    </tr>
+    <tr>
+      <td>US-12</td>
+      <td>Interacción con Comunidad</td>
+      <td><b>Como</b> usuario, <b>quiero</b> compartir experiencias y recetas con otros <b>para</b> motivarme y aprender.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que quiero compartir un logro, <i>When</i> publico en la sección de comunidad, <i>Then</i> otros pueden reaccionar y comentar.<br>
+        <b>Escenario 2:</b> <i>Given</i> que veo una receta popular, <i>When</i> la marco como favorita, <i>Then</i> se guarda en mi colección.
+      </td>
+      <td>EP-04</td>
+    </tr>
+    <tr>
+      <td>US-13</td>
+      <td>Panel de Pacientes</td>
+      <td><b>Como</b> nutricionista, <b>quiero</b> ver un panel con el estado de mis pacientes <b>para</b> optimizar mi seguimiento.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que tengo pacientes asignados, <i>When</i> ingreso al panel, <i>Then</i> veo métricas clave (peso, adherencia, progreso).<br>
+        <b>Escenario 2:</b> <i>Given</i> que un paciente actualiza su información, <i>When</i> entro al panel, <i>Then</i> los cambios se reflejan automáticamente.
+      </td>
+      <td>EP-05</td>
+    </tr>
+        <tr>
+      <td>US-14</td>
+      <td>Envio de Sugerencias</td>
+      <td><b>Como</b> nutricionista, <b>quiero</b> enviar recomendaciones directamente a los usuarios para orientarlos</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que que detecto una falla en el seguimiento de un paciente, <i>When</i> envio una sugerencia, <i>Then</i> esta le llega como notificacion<br>
+        <b>Escenario 2:</b> <i>Given</i> que que programo un recordatorio, <i>When</i> llega la fecha, <i>Then</i>  el usuario recibe la notificación en la app.
+      </td>
+      <td>EP-05</td>
+    </tr>
+    <tr>
+      <td>US-15</td>
+      <td>Personalizacion de Metas</td>
+      <td><b>Como</b> usuario, <b>quiero</b> definir metas especificas</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que quiero personalizar una meta, <i>When</i> edito mis objetivos, <i>Then</i>podre ajustar la dieta segun estos.<br>
+        <b>Escenario 2:</b> <i>Given</i> que cambio mis objetivos, <i>When</i> guardo los cambios, <i>Then</i> la app adaptara el plan segun estos.
+      </td>
+      <td>EP-02</td>
+    </tr>
+        <tr>
+      <td>US-16</td>
+      <td>Visualizacion de Logros</td>
+      <td><b>Como</b> usuario, <b>quiero</b> ver una seccion con los logros <b>para</b> ver cuales he completado</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que alcanzo un logro, <i>When</i> consulto mis logros, <i>Then</i>observare distintivos visuales que les identifican.<br>
+        <b>Escenario 2:</b> <i>Given</i> que logro una meta importante, <i>When</i> accedo a su resumen, <i>Then</i> podre compartirlo en redes sociales.
+      </td>
+      <td>EP-04</td>
+    </tr>
+    <tr>
+      <td>US-17</td>
+      <td>Notificaciones de Actividad</td>
+      <td><b>Como</b> usuario, <b>quiero</b> recibir notificaciones sobre actualizaciones relevantes de la app</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hay novedades importantes, <i>When</i> ingreso a la aplicacion, <i>Then</i>recibire una notificación emergente.<br>
+        <b>Escenario 2:</b> <i>Given</i> que no quiero interrupciones al usar la app, <i>When</i> configuro preferencias de notificación, <i>Then</i> solo recibire avisos cuando sean necesario actualizar.
+      </td>
+      <td>EP-05</td>
+    </tr>
+        <tr>
+      <td>US-18</td>
+      <td>Soporte en Tiempo Real</td>
+      <td><b>Como</b> usuario, <b>quiero</b> chatear en tiempo real con el soporte tecnico para resolver dudas</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que tengo algun problema tecnico, <i>When</i> abro el chat de soporte, <i>Then</i>podre recibir una respuesta a la brevedad posible.<br>
+        <b>Escenario 2:</b> <i>Given</i> que no hay agentes disponibles, <i>When</i> abro el chat, <i>Then</i> la app me dara la oportunidad de dejar un mensaje para su posterior respuesta.
+      </td>
+      <td>EP-05</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Epica 01: Registro y Gestion de Cuenta
+
+Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+
+Historias relacionadas: US01, US02 Y US03
+
+#### Epica 02: Personalizacion y Generacion de Planes
+
+Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+
+Historias relacionadas: US04, US05 y US15
+
+#### Epica 03: Registro y Seguimiento
+
+Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+
+Historias relacionadas: US06, US07, US08, US09 y US11
+
+#### Epica 04: Comunidad y Motivacion
+
+Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
+
+Historias relacionadas: US10, US12 y US16
+
+#### Epica 05: Soporte y Experiencia deL Usuario
+
+Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
+
+Historias relacionadas: US13, US14, US17 y US18
+
 ### 3.3. Impact Mapping
+
+<p align="center">
+  <img src="assets/recursos/Impact mapping.png" alt="PB" width="800">
+</p>
 
 ### 3.4. Product Backlog
 
