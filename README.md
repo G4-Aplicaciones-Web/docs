@@ -746,7 +746,31 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 
 #### 2.3.3. User Journey Mapping
 
+### Usuario 1: Julia Castro
+
+<p align="center">
+  <img src="assets/recursos/Journey Map - User 1.png" alt="PB" width="800">
+</p> 
+
+### Usuario 2: Dr Antonio Rivera
+
+<p align="center">
+  <img src="assets/recursos/Journey Map - User 2.png" alt="PB" width="800">
+</p> 
+
 #### 2.3.4. Empathy Mapping
+
+### Usuario 1: Julia Castro
+
+<p align="center">
+  <img src="assets/recursos/Empathy1.png" alt="PB" width="800">
+</p> 
+
+### Usuario 2: Dr Antonio Rivera
+
+<p align="center">
+  <img src="assets/recursos/Empathy2.png" alt="PB" width="800">
+</p> 
 
 #### 2.3.5. As-is Scenario Mapping
 
