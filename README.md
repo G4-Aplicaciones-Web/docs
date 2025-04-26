@@ -83,7 +83,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>
         - Creación de ramas con cada feature:
         <p align="center">
-            <img src="assets/evidencias/" alt="repo-branches" width=60% >
+            <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width=60% >
         </p>
         - Commits realizados en las ramas individuales:       
         <p align="center">
@@ -93,7 +93,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
             <img src="assets/evidencias/commits-feature-galvez.png" alt="commits-feature-galvez" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-rodriguez" width=60% >
+            <img src="assets/evidencias/commits-feature-rodriguez.png" alt="commits-feature-rodriguez" width=60% >
         </p>
         <p align="center">
             <img src="assets/evidencias/commits-feature-bueno.png" alt="commits-feature-bueno" width=60% >
@@ -208,16 +208,14 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 
 El curso contribuye al cumplimiento del Student Outcome ABET:
 
-**ABET – EAC - Student Outcome 3**
+**ABET – EAC - Student Outcome 5**
 
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
-que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de analizar las ideas propuestas por mi equipo para elaborar los diagramas de la aplicación. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
 
 <hr>
 
@@ -563,7 +561,7 @@ Cambios en regulaciones de privacidad de datos.</td>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
-#### Frente a competidores como los son Yazio, Lumen o Fitia, Alimentate + debe resaltar sobre todo la capacidad de alta personalizacion que tiene el usuario como ventaja respecto a los anterior mencionados. Debemos mostrar mediante nuestras campañas como las dietas se pueden adaptar a todo tipo de usuarios y sugesta a cambios en cualquier momento, incluso a las dietas de mayor complejidad. De forma mas tactica, las alianzas con nutricionistas y marcas saludables beneficiarian a que nuestro producto gane mayor visibilidad. Por ultimo, mantener funciones clave en la version gratuita y siempre mostrar una interfaz intuitiva y amigable a los usuarios.
+Frente a competidores como los son Yazio, Lumen o Fitia, Alimentate + debe resaltar sobre todo la capacidad de alta personalizacion que tiene el usuario como ventaja respecto a los anterior mencionados. Debemos mostrar mediante nuestras campañas como las dietas se pueden adaptar a todo tipo de usuarios y sugesta a cambios en cualquier momento, incluso a las dietas de mayor complejidad. De forma mas tactica, las alianzas con nutricionistas y marcas saludables beneficiarian a que nuestro producto gane mayor visibilidad. Por ultimo, mantener funciones clave en la version gratuita y siempre mostrar una interfaz intuitiva y amigable a los usuarios.
 
 ### 2.2. Entrevistas
 
@@ -602,9 +600,9 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
       
 
 
-
-
 #### 2.2.2. Registro de entrevistas
+
+<!-- Segmento objetivo: Profesionales de la salud -->
 
 # Entrevista #1
 
@@ -621,6 +619,93 @@ Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora m
 | **Edad**          | 22 años                                    |
 | **Duración**      | 5:10 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
+
+
+# Entrevista #2
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista2.png" alt="entrevista-2" width="400">
+</p>
+
+Para Jorge, la alimentación es primordial para la salud y cumple un rol fundamental en su trabajo, y se mantiene actualizado buscando herramientas para mejorarla. Como nutricionista, personaliza planes con diversas herramientas, lidiando con la complejidad de las necesidades individuales y la adherencia de los pacientes, cuyo seguimiento actual le gustaría optimizar con una plataforma que ofrezca registro en tiempo real y comunicación directa. Valora las apps sencillas y personalizadas, y desearía una plataforma con funciones de registro, alertas, integración del plan, métricas, chat y educación. Recomendaría nuestro producto si facilita el seguimiento, ahorra tiempo, es confiable, tiene respaldo clínico y permite una alta personalización de las dietas.
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** | Jhon Alexander Galvez Chambi              |
+| **Entrevistado**  | Jorge Guevara Tejada                      |
+| **Edad**          | 24 años                                    |
+| **Duración**      | 5:56 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
+
+
+# Entrevista #3
+
+<p align="center">
+  <img src="./assets/entrevistas/" alt="entrevista-3" width="400">
+</p>
+
+Resumen
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** |            |
+| **Entrevistado**  |            |
+| **Edad**          | años                                    |
+| **Duración**      | minutos                               |
+| **Enlace**        | [Ver entrevista]() |
+
+<!-- Segmento objetivo 2: Jovenes adultos interesados en mejorar su alimentacion -->
+
+# Entrevista #4
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista4.png" alt="entrevista-4" width="400">
+</p>
+
+Mathias, un estudiante universitario, considera muy importante la alimentación para su bienestar físico y mental, aunque no busca información nueva con frecuencia, a menos que necesite un cambio específico. No planifica sus comidas semanalmente, pero trata de mantener una dieta variada incluyendo diferentes grupos de alimentos. Come fuera o pide delivery ocasionalmente, sin que esto afecte negativamente su alimentación. Actualmente, no tiene objetivos nutricionales específicos, enfocándose en mantener una rutina equilibrada y no ha utilizado apps de nutrición. Le resultaría útil una app que, basándose en su peso y objetivos, le indique qué comer para subir, bajar o mantener su peso. Estaría dispuesto a pagar por una versión premium con recetas, seguimiento y planes avanzados, ya que considera atractivas estas funciones para quienes necesitan apoyo adicional para mejorar su alimentación y alcanzar sus metas.
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** | Jhon Alexander Galvez Chambi              |
+| **Entrevistado**  | Mathias Aspajo Alvarez             |
+| **Edad**          |  19 años                                    |
+| **Duración**      |  3:50 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/tKroBRlMJDM) |
+
+
+# Entrevista #5
+
+<p align="center">
+  <img src="./assets/entrevistas/" alt="entrevista-5" width="400">
+</p>
+
+Resumen
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** |              |
+| **Entrevistado**  |             |
+| **Edad**          | años                                    |
+| **Duración**      | minutos                               |
+| **Enlace**        | [Ver entrevista]() |
+
+
+# Entrevista #6
+
+<p align="center">
+  <img src="./assets/entrevistas/" alt="entrevista-6" width="400">
+</p>
+
+Resumen
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** |             |
+| **Entrevistado**  |            |
+| **Edad**          |  años                                    |
+| **Duración**      |  minutos                               |
+| **Enlace**        | [Ver entrevista]() |
+
 
 #### 2.2.3. Análisis de entrevistas
 
