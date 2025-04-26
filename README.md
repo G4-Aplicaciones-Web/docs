@@ -272,10 +272,10 @@ Soy proactivo y responsable en los proyectos en los que participo. Abordo los de
 - Sebastian Rodriguez Macedo - u202310199 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-sebastian" width="170px"/>
+    <img src="assets/fotos/SebastianFoto.png" alt="foto-sebastian" width="170px"/>
 </p>
 
-Descripcion
+Soy una persona capaz de resolver problemas con el equipo desde un punto de vista diferente, además ofrezco siempre compromiso hacia mis compañeros cumpliendo con las asignaciones de manera responsable.
 
 
 #### 1.2. Solution Profile
