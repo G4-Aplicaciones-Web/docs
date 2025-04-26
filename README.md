@@ -216,8 +216,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de analizar las ideas propuestas por mi equipo para elaborar los diagramas de la aplicación. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de analizar las ideas propuestas por mi equipo para elaborar los diagramas de la aplicación. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
 
 <hr>
 
@@ -248,10 +248,10 @@ Nuestra visión es posicionar a NutriPlus como la startup líder en innovación 
 - Mathias Bueno Perales - u202313433 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-mathias" width="170px"/>
+    <img src="assets/fotos/foto-mathias.png" alt="foto-mathias" width="170px"/>
 </p>
 
-Descripcion
+Soy una persona optimista y responsable al cumplir mis labores para-con el grupo. Tengo experiencia respecto a proyectos previamente hechos en la rama de Ingenieria de Software y conocimientos en programacion como en HTML y CSS. Siempre procuro lo mejor para el equipo y ayudar en todo lo que este en mi alcance.
 
 - Jhon Alexander Galvez Chambi - u202323270 (Ingeniería de Software)
 
@@ -264,18 +264,18 @@ Soy una persona responsable y comprometida con la consecución de los mejores re
 - Fabrizio Alberto Paredes Santos - u202310914 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-fabrizio" width="170px"/>
+    <img src="assets/fotos/fabriziofoto.jpg" alt="foto-fabrizio" width="170px"/>
 </p>
 
-Descripcion
+Soy proactivo y responsable en los proyectos en los que participo. Abordo los desafíos con entusiasmo, aportando ideas frescas y cumpliendo con mis tareas de manera eficiente. Mi enfoque colaborativo me permite contribuir al éxito del equipo.
 
 - Sebastian Rodriguez Macedo - u202310199 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/fotos/" alt="foto-sebastian" width="170px"/>
+    <img src="assets/fotos/SebastianFoto.png" alt="foto-sebastian" width="170px"/>
 </p>
 
-Descripcion
+Soy una persona capaz de resolver problemas con el equipo desde un punto de vista diferente, además ofrezco siempre compromiso hacia mis compañeros cumpliendo con las asignaciones de manera responsable.
 
 
 #### 1.2. Solution Profile
@@ -571,17 +571,68 @@ Cambios en regulaciones de privacidad de datos.</td>
 
 En esta sección de preguntas, nuestro objetivo es comprender mejor las necesidades, motivaciones y preferencias de nuestros segmentos objetivos A continuación, se muestran las preguntas:
 
-- **Segmento #1:**
+**Preguntas generales:**
+- ¿Cuál es tu nombre y edad?
 
-    **Preguntas principales:**
-    -  ¿?   
+- ¿Cuál es tu ocupación actual?
 
-    **Preguntas complementarias:**
-    -  ¿?   
+---
+**Preguntas complementarias:**
+
+- ¿Qué tan importante consideras la alimentación en tu día a día?     
+
+- ¿Con qué frecuencia sueles buscar información o herramientas que te ayuden a mejorar tu alimentación?    
+---
+**Segmento #1: Jóvenes Adultos** 
+- ¿Planificas tus comidas semanalmente? Si lo haces, ¿cómo lo haces actualmente?  
+-  ¿Qué tan seguido comes fuera o pides delivery? ¿Cómo influye esto en tu alimentación?  
+-  ¿Tienes algún objetivo personal relacionado con tu alimentación? (Bajar de peso, ganar masa, mantener salud, etc.)  
+-  ¿Has probado alguna app de nutrición o fitness? ¿Qué te gustó y qué no te gustó?  
+-  ¿Qué haría que una app de nutrición te resulte realmente útil o diferente a lo que ya existe?  
+-  ¿Estarías dispuesto a pagar por una versión premium que te ayude con recetas, seguimiento de progreso y planes avanzados? ¿Por qué?  
+---
+**Segmento #2: Profesionales de la Salud (Nutricionistas)** 
+
+- ¿Cómo creas y haces seguimiento de los planes alimenticios que das a tus pacientes? ¿Qué herramientas usas?  
+- ¿Qué dificultades sueles encontrar al personalizar planes según diagnósticos, alergias o preferencias?  
+- ¿Cómo verificas que tus pacientes siguen lo que les recomiendas? ¿Te gustaría mejorar ese proceso?  
+- ¿Qué opinas sobre el uso de apps por parte de los pacientes? ¿Crees que ayudan o dificultan el proceso?  
+- ¿Qué funcionalidades te gustaría ver en una plataforma que puedas usar junto a tus pacientes?  
+- ¿Recomendarías NutriSmart si mejora la adherencia y simplifica el trabajo contigo? ¿Qué condiciones tendría que cumplir? 
+      
+
+
+
 
 #### 2.2.2. Registro de entrevistas
 
+# Entrevista #1
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista1.png" alt="entrevista-1" width="400">
+</p>
+
+Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar NutriSmart si es clara, adaptable y confiable.
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** | Fabrizio Alberto Paredes Santos            |
+| **Entrevistado**  | Giorgio Marzouk Awad Vargas                |
+| **Edad**          | 22 años                                    |
+| **Duración**      | 5:10 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
+
 #### 2.2.3. Análisis de entrevistas
+
+####  Entrevista 1 
+- La persona considera que la alimentación es fundamental, no solo a nivel físico sino también emocional y mental.
+- Suele buscar información nutricional casi semanalmente para actualizarse y brindar un mejor servicio.
+- Utiliza herramientas básicas como Excel y WhatsApp para crear y hacer seguimiento de los planes alimenticios, aunque reconoce que no son las más eficientes.
+- Encuentra dificultades al personalizar planes cuando los pacientes tienen diagnósticos múltiples o preferencias muy restringidas.
+- Verifica la adherencia de los pacientes pidiéndoles fotos o diarios alimentarios, pero considera que este proceso puede mejorar.
+- Tiene una percepción positiva sobre el uso de apps, siempre que sean amigables y no complicadas para los pacientes.
+- Valora funcionalidades como personalización de planes, alertas, registros visuales de comida y comunicación directa con el paciente.
+- Recomendaría una app como NutriSmart si mejora la adherencia, simplifica su trabajo, es fácil de usar, segura y personalizable según el diagnóstico del paciente.
 
 ### 2.3. Needfinding
 
