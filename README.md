@@ -1882,13 +1882,35 @@ Mobile:
 
 #### 4.4.1. Web Applications Wireframes.
 
+<p align="center">
+  <img src="./assets/recursos/wireframe1.png" alt="Context Diagram" width="700">
+</p>
+<p align="center">
+  <img src="./assets/recursos/wireframe2.png" alt="Context Diagram" width="700">
+</p>
+<p align="center">
+  <img src="./assets/recursos/wireframe3.png" alt="Context Diagram" width="700">
+</p>
+<p align="center">
+  <img src="./assets/recursos/wireframe4.png" alt="Context Diagram" width="700">
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+
+
 
 #### 4.4.3. Web Applications Mock-ups
 
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
+
+
 ### 4.5. Web Applications Prototyping
+
+
 
 ### 4.6. Domain-Driven Software Architecture
 
