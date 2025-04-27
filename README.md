@@ -637,22 +637,25 @@ Para Jorge, la alimentación es primordial para la salud y cumple un rol fundame
 | **Duración**      | 5:56 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
 
-
 # Entrevista #3
 
+<br>
+
 <p align="center">
-  <img src="./assets/entrevistas/" alt="entrevista-3" width="400">
+  <img src="./assets/entrevistas/entrevista3.png" alt="entrevista-2" width="400">
 </p>
 
-Resumen
+Carlos es un nutricionista con experiencia que aplica en su vida diaria los principios que promueve a sus pacientes. Considera que una buena alimentación es clave para rendir bien física y mentalmente. Se mantiene actualizado casi a diario mediante artículos, papers y apps. Usa Excel, Nutrium, Dietowin y WhatsApp para elaborar y seguir planes, aunque reconoce que estas herramientas no siempre son las más prácticas. Le cuesta personalizar completamente los planes por falta de tiempo y a veces por la poca claridad de los pacientes. Para hacer seguimiento, pide fotos o mensajes, pero no siempre obtiene respuestas. Cree que las apps pueden ser muy útiles si son fáciles de usar y no abruman. Le gustaría una plataforma donde los pacientes registren sus comidas, él pueda monitorear el progreso y ajustar planes sin necesidad de citas presenciales. Estaría dispuesto a recomendar Alimentate+ si es intuitiva, protege la información y realmente le ahorra tiempo.
+
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
-| **Entrevistador** |            |
-| **Entrevistado**  |            |
-| **Edad**          | años                                    |
-| **Duración**      | minutos                               |
-| **Enlace**        | [Ver entrevista]() |
+| **Entrevistador** | Sebastian Rodriguez Macedo          |
+| **Entrevistado**  | Carlos Gabriel Mendoza Cardenas                |
+| **Edad**          | 23 años                                    |
+| **Duración**      | 3:23 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/FAg-Pdhs4_g) |
+
 
 <!-- Segmento objetivo 2: Jovenes adultos interesados en mejorar su alimentacion -->
 
