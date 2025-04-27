@@ -83,7 +83,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>
         - Creación de ramas con cada feature:
         <p align="center">
-            <img src="assets/evidencias/" alt="repo-branches" width=60% >
+            <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width=60% >
         </p>
         - Commits realizados en las ramas individuales:       
         <p align="center">
@@ -93,14 +93,14 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
             <img src="assets/evidencias/commits-feature-galvez.png" alt="commits-feature-galvez" width=60% >
         </p>
         <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-rodriguez" width=60% >
+            <img src="assets/evidencias/commits-feature-rodriguez.png" alt="commits-feature-rodriguez" width=60% >
         </p>
         <p align="center">
             <img src="assets/evidencias/commits-feature-bueno.png" alt="commits-feature-bueno" width=60% >
         </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
-            <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
+            <img src="assets/evidencias/repo-pulse-analytics.png" alt="repo-pulse-analytics" width=60% >
         </p>        
 
 <hr>
@@ -208,16 +208,14 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 
 El curso contribuye al cumplimiento del Student Outcome ABET:
 
-**ABET – EAC - Student Outcome 3**
+**ABET – EAC - Student Outcome 5**
 
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
-que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Asimismo, me encargue de analizar las ideas propuestas por mi equipo para elaborar los diagramas de la aplicación. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
 
 <hr>
 
@@ -416,11 +414,9 @@ Los siguientes segmentos clave permiten establecer una base sólida para el lanz
 
 ### 2.1. Competidores
 
-#### En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
+En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
 
 #### 2.1.1. Análisis competitivo
-
-## Cuadro Analisis competitivo
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -563,7 +559,7 @@ Cambios en regulaciones de privacidad de datos.</td>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
-#### Frente a competidores como los son Yazio, Lumen o Fitia, Alimentate + debe resaltar sobre todo la capacidad de alta personalizacion que tiene el usuario como ventaja respecto a los anterior mencionados. Debemos mostrar mediante nuestras campañas como las dietas se pueden adaptar a todo tipo de usuarios y sugesta a cambios en cualquier momento, incluso a las dietas de mayor complejidad. De forma mas tactica, las alianzas con nutricionistas y marcas saludables beneficiarian a que nuestro producto gane mayor visibilidad. Por ultimo, mantener funciones clave en la version gratuita y siempre mostrar una interfaz intuitiva y amigable a los usuarios.
+Frente a competidores como los son Yazio, Lumen o Fitia, Alimentate + debe resaltar sobre todo la capacidad de alta personalizacion que tiene el usuario como ventaja respecto a los anterior mencionados. Debemos mostrar mediante nuestras campañas como las dietas se pueden adaptar a todo tipo de usuarios y sugesta a cambios en cualquier momento, incluso a las dietas de mayor complejidad. De forma mas tactica, las alianzas con nutricionistas y marcas saludables beneficiarian a que nuestro producto gane mayor visibilidad. Por ultimo, mantener funciones clave en la version gratuita y siempre mostrar una interfaz intuitiva y amigable a los usuarios.
 
 ### 2.2. Entrevistas
 
@@ -602,17 +598,19 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
       
 
 
-
-
 #### 2.2.2. Registro de entrevistas
 
-# Entrevista #1
+<!-- Segmento objetivo: Profesionales de la salud -->
+
+- **Entrevista #1**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista1.png" alt="entrevista-1" width="400">
 </p>
 
 Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar NutriSmart si es clara, adaptable y confiable.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -622,17 +620,128 @@ Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora m
 | **Duración**      | 5:10 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
 
+</div>
+
+- **Entrevista #2**
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista2.png" alt="entrevista-2" width="400">
+</p>
+
+Para Jorge, la alimentación es primordial para la salud y cumple un rol fundamental en su trabajo, y se mantiene actualizado buscando herramientas para mejorarla. Como nutricionista, personaliza planes con diversas herramientas, lidiando con la complejidad de las necesidades individuales y la adherencia de los pacientes, cuyo seguimiento actual le gustaría optimizar con una plataforma que ofrezca registro en tiempo real y comunicación directa. Valora las apps sencillas y personalizadas, y desearía una plataforma con funciones de registro, alertas, integración del plan, métricas, chat y educación. Recomendaría nuestro producto si facilita el seguimiento, ahorra tiempo, es confiable, tiene respaldo clínico y permite una alta personalización de las dietas.
+
+<div align="center">
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** | Jhon Alexander Galvez Chambi              |
+| **Entrevistado**  | Jorge Guevara Tejada                      |
+| **Edad**          | 24 años                                    |
+| **Duración**      | 5:56 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
+
+# Entrevista #3
+
+<br>
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista3.png" alt="entrevista-2" width="400">
+</p>
+
+Carlos es un nutricionista con experiencia que aplica en su vida diaria los principios que promueve a sus pacientes. Considera que una buena alimentación es clave para rendir bien física y mentalmente. Se mantiene actualizado casi a diario mediante artículos, papers y apps. Usa Excel, Nutrium, Dietowin y WhatsApp para elaborar y seguir planes, aunque reconoce que estas herramientas no siempre son las más prácticas. Le cuesta personalizar completamente los planes por falta de tiempo y a veces por la poca claridad de los pacientes. Para hacer seguimiento, pide fotos o mensajes, pero no siempre obtiene respuestas. Cree que las apps pueden ser muy útiles si son fáciles de usar y no abruman. Le gustaría una plataforma donde los pacientes registren sus comidas, él pueda monitorear el progreso y ajustar planes sin necesidad de citas presenciales. Estaría dispuesto a recomendar Alimentate+ si es intuitiva, protege la información y realmente le ahorra tiempo.
+
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** | Sebastian Rodriguez Macedo          |
+| **Entrevistado**  | Carlos Gabriel Mendoza Cardenas                |
+| **Edad**          | 23 años                                    |
+| **Duración**      | 3:23 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/FAg-Pdhs4_g) |
+
+</div>
+
+
+<!-- Segmento objetivo 2: Jovenes adultos interesados en mejorar su alimentacion -->
+
+- **Entrevista #4**
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista4.png" alt="entrevista-4" width="400">
+</p>
+
+Mathias, un estudiante universitario, considera muy importante la alimentación para su bienestar físico y mental, aunque no busca información nueva con frecuencia, a menos que necesite un cambio específico. No planifica sus comidas semanalmente, pero trata de mantener una dieta variada incluyendo diferentes grupos de alimentos. Come fuera o pide delivery ocasionalmente, sin que esto afecte negativamente su alimentación. Actualmente, no tiene objetivos nutricionales específicos, enfocándose en mantener una rutina equilibrada y no ha utilizado apps de nutrición. Le resultaría útil una app que, basándose en su peso y objetivos, le indique qué comer para subir, bajar o mantener su peso. Estaría dispuesto a pagar por una versión premium con recetas, seguimiento y planes avanzados, ya que considera atractivas estas funciones para quienes necesitan apoyo adicional para mejorar su alimentación y alcanzar sus metas.
+
+<div align="center">
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** | Jhon Alexander Galvez Chambi              |
+| **Entrevistado**  | Mathias Aspajo Alvarez             |
+| **Edad**          |  19 años                                    |
+| **Duración**      |  3:50 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/tKroBRlMJDM) |
+
+</div>
+
+- **Entrevista #5**
+
+<p align="center">
+  <img src="./assets/entrevistas/" alt="entrevista-5" width="400">
+</p>
+
+Resumen
+
+<div align="center">
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** |              |
+| **Entrevistado**  |             |
+| **Edad**          | años                                    |
+| **Duración**      | minutos                               |
+| **Enlace**        | [Ver entrevista]() |
+
+</div>
+
+- **Entrevista #6**
+
+<p align="center">
+  <img src="./assets/entrevistas/" alt="entrevista-6" width="400">
+</p>
+
+Resumen
+
+<div align="center">
+
+| Detalle          | Información                                |
+|------------------|--------------------------------------------|
+| **Entrevistador** |             |
+| **Entrevistado**  |            |
+| **Edad**          |  años                                    |
+| **Duración**      |  minutos                               |
+| **Enlace**        | [Ver entrevista]() |
+
+</div>
+
 #### 2.2.3. Análisis de entrevistas
 
-####  Entrevista 1 
-- La persona considera que la alimentación es fundamental, no solo a nivel físico sino también emocional y mental.
-- Suele buscar información nutricional casi semanalmente para actualizarse y brindar un mejor servicio.
-- Utiliza herramientas básicas como Excel y WhatsApp para crear y hacer seguimiento de los planes alimenticios, aunque reconoce que no son las más eficientes.
-- Encuentra dificultades al personalizar planes cuando los pacientes tienen diagnósticos múltiples o preferencias muy restringidas.
-- Verifica la adherencia de los pacientes pidiéndoles fotos o diarios alimentarios, pero considera que este proceso puede mejorar.
-- Tiene una percepción positiva sobre el uso de apps, siempre que sean amigables y no complicadas para los pacientes.
-- Valora funcionalidades como personalización de planes, alertas, registros visuales de comida y comunicación directa con el paciente.
-- Recomendaría una app como NutriSmart si mejora la adherencia, simplifica su trabajo, es fácil de usar, segura y personalizable según el diagnóstico del paciente.
+- **Segmento Objetivo: Profesionales de la Salud**
+  Este análisis se basa en las respuestas de tres nutricionistas entrevistados.
+
+  - Importancia de la Alimentación: El 100% de los profesionales encuestados considera la alimentación como fundamental o primordial tanto para su bienestar personal como para su trabajo con pacientes, reconociendo su impacto en la salud física y mental.
+
+  - Actualización y Herramientas Actuales: Los tres profesionales se mantienen activos en la búsqueda de información y herramientas para mejorar la alimentación, con una frecuencia que varía desde semanal hasta casi diaria. Actualmente, utilizan una combinación de herramientas no especializadas (100% mencionan Excel y WhatsApp) y software nutricional específico (67% mencionan Nutrium o Dietowin), reconociendo las limitaciones de las herramientas no especializadas en términos de eficiencia y seguimiento.
+
+  - Desafíos en la Personalización y Seguimiento: El 100% de los nutricionistas experimenta dificultades para personalizar completamente los planes alimenticios, principalmente debido a la falta de tiempo y la complejidad de integrar información clínica, preferencias y limitaciones de los pacientes. Además, el 100% encuentra desafíos en el seguimiento de la adherencia de los pacientes a las recomendaciones, utilizando métodos como entrevistas, mensajes o fotos, pero reconociendo la dificultad de obtener información precisa y constante.
+
+  - Opinión sobre Apps y Deseos para una Plataforma: Los tres profesionales tienen una opinión positiva sobre el potencial de las apps para ayudar a los pacientes, siempre y cuando sean fáciles de usar y no abrumadoras. Existe un consenso del 100% en la necesidad de una plataforma que facilite la personalización de planes, el seguimiento del progreso en tiempo real y la comunicación directa con los pacientes. Funcionalidades deseadas incluyen registro de comidas, visualización de métricas y herramientas de ajuste remoto de planes.
+
+  - Disposición a Recomendar NutriSmart (o similar): El 100% de los nutricionistas estaría dispuesto a recomendar una plataforma como NutriSmart (o Alimentate+) si esta demuestra ser clara/intuitiva, adaptable/personalizable y confiable. Además, valoran que la plataforma ahorre tiempo en la gestión de los pacientes y mejore la adherencia a los planes nutricionales.
+
+- **Segmento Objetivo: Jovenes Adultos que buscan mejores habitos alimenticios**
+
+
 
 ### 2.3. Needfinding
 
@@ -1078,38 +1187,112 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       </td>
       <td>EP-05</td>
     </tr>
+    <tr>
+      <td>US-19</td>
+      <td>Conocer la propuesta de valor</td>
+      <td>Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que ingreso a la landing, <i>When</i> visualizo la parte superior, <i>Then</i> leo un título claro y un subtítulo explicativo.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-20</td>
+      <td>Acceder al registro o inicio de sesión</td>
+      <td>Como visitante, quiero poder iniciar sesión o registrarme desde la barra superior para empezar a usar la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en el botón "Iniciar sesión", <i>When</i> este me redirige, <i>Then</i> llego a la página de login.<br>
+        <b>Escenario 2:</b> <i>Given</i> que hago clic en "Registrarse", <i>When</i> este me redirige, <i>Then</i> llego al formulario de registro.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-21</td>
+      <td>Navegar entre secciones desde la barra</td>
+      <td>Como visitante, quiero usar la barra superior para moverme a distintas secciones de la landing para explorar el contenido rápidamente.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en un enlace del menú superior, <i>When</i> este se refiere a una sección de la misma página, <i>Then</i> soy dirigido automáticamente a dicha sección.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-22</td>
+      <td>Ver resumen de beneficios</td>
+      <td>Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que accedo a la landing page, <i>When</i> hago scroll a la sección de beneficios, <i>Then</i> visualizo tarjetas con los puntos destacados.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-23</td>
+      <td>Navegar por los beneficios principales</td>
+      <td>Como visitante, quiero navegar fácilmente por la sección de beneficios para conocer todas las ventajas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago scroll en la página, <i>When</i> paso por cada bloque de beneficios, <i>Then</i> veo textos e imágenes que explican las funcionalidades.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-24</td>
+      <td>Visualizar testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios para confiar en la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que llegó a la sección de testimonios, <i>When</i> visualizó las citas de usuarios, <i>Then</i> puedo ver nombre, foto y experiencia de cada uno.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-25</td>
+      <td>Navegar desde el footer</td>
+      <td>Como visitante, quiero que los enlaces del pie de página funcionen correctamente para poder acceder a información adicional sobre la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en un enlace del footer, <i>When</i> este está correctamente configurado, <i>Then</i> soy redirigido a la sección o página correspondiente (por ejemplo, "Política de privacidad", "Contacto", etc.).
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-26</td>
+      <td>Acceder desde distintos dispositivos</td>
+      <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que accedo desde un dispositivo móvil, <i>When</i> cargo la landing, <i>Then</i> el diseño se adapta correctamente.<br>
+        <b>Escenario 2:</b> <i>Given</i> que accedo desde una computadora, <i>When</i> navego la landing, <i>Then</i> los elementos se ajustan al tamaño de pantalla.
+      </td>
+      <td>EP-06</td>
+    </tr>
   </tbody>
 </table>
 
-#### Epica 01: Registro y Gestion de Cuenta
+- **Epica 01: Registro y Gestion de Cuenta**
+ 
+  - Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+  - Historias relacionadas: US01, US02 Y US03
 
-Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+- **Epica 02: Personalizacion y Generacion de Planes**
 
-Historias relacionadas: US01, US02 Y US03
+  - Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+  - Historias relacionadas: US04, US05 y US15
 
-#### Epica 02: Personalizacion y Generacion de Planes
+- **Epica 03: Registro y Seguimiento**
 
-Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+  - Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+  - Historias relacionadas: US06, US07, US08, US09 y US11
 
-Historias relacionadas: US04, US05 y US15
+- **Epica 04: Comunidad y Motivacion**
 
-#### Epica 03: Registro y Seguimiento
+  - Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
+  - Historias relacionadas: US10, US12 y US16
 
-Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+- **Epica 05: Soporte y Experiencia deL Usuario**
 
-Historias relacionadas: US06, US07, US08, US09 y US11
+  - Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
+  - Historias relacionadas: US13, US14, US17 y US18
 
-#### Epica 04: Comunidad y Motivacion
+- **Epica 06: Landing Page**
 
-Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
-
-Historias relacionadas: US10, US12 y US16
-
-#### Epica 05: Soporte y Experiencia deL Usuario
-
-Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
-
-Historias relacionadas: US13, US14, US17 y US18
+  - Funcionalidades para la visualizacion de la landing page, navegacion a traves de ella e informacion
+  - Historias relacionadas: US19, US20, US21, US22, US23, US24, US25, US26
 
 ### 3.3. Impact Mapping
 
@@ -1258,9 +1441,64 @@ Historias relacionadas: US13, US14, US17 y US18
       <td>Como usuario, quiero chatear en tiempo real con el soporte tecnico para resolver dudas</td>
       <td>8</td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>US-19</td>
+      <td>Conocer la propuesta de valor</td>
+      <td>Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US-20</td>
+      <td>Acceder al registro o inicio de sesión</td>
+      <td>Como visitante, quiero poder iniciar sesión o registrarme desde la barra superior para empezar a usar la app.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US-21</td>
+      <td>Navegar entre secciones desde la barra</td>
+      <td>Como visitante, quiero usar la barra superior para moverme a distintas secciones de la landing para explorar el contenido rápidamente.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US-22</td>
+      <td>Ver resumen de beneficios</td>
+      <td>Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US-23</td>
+      <td>Navegar por los beneficios principales</td>
+      <td>Como visitante, quiero navegar fácilmente por la sección de beneficios para conocer todas las ventajas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US-24</td>
+      <td>Visualizar testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios para confiar en la app.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US-25</td>
+      <td>Navegar desde el footer</td>
+      <td>Como visitante, quiero que los enlaces del pie de página funcionen correctamente para poder acceder a información adicional sobre la app.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>US-26</td>
+      <td>Acceder desde distintos dispositivos</td>
+      <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>5</td>
+    </tr>
   </tbody>
 </table>
-
 
 <hr>
 
@@ -1794,13 +2032,77 @@ Mobile:
 
 #### 4.4.1. Web Applications Wireframes.
 
+<p align="center">
+  <img src="./assets/recursos/wireframe1.png" alt="Context Diagram" width="700">
+</p>
+<p align="center">
+  <img src="./assets/recursos/wireframe2.png" alt="Context Diagram" width="700">
+</p>
+<p align="center">
+  <img src="./assets/recursos/wireframe3.png" alt="Context Diagram" width="700">
+</p>
+<p align="center">
+  <img src="./assets/recursos/wireframe4.png" alt="Context Diagram" width="700">
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+
+
 
 #### 4.4.3. Web Applications Mock-ups
 
+| Pantalla de comienzo      | Registro o inicio de sesion |
+|-----------------|------------|
+| Esta es la pantalla de inicio que se muestra luego de instalar la app.| A continuación se visualiza la pantalla de registro o inicio de sesión, según sea el caso. |
+| <img src="./assets/recursos/start screen.png" height="500">| <img src="./assets/recursos/login and registration screen.png" height="500">|
+
+
+En el caso del registro se siguen los siguientes pasos: 
+| Datos personales    | Objetivos  | Restricciones |  Preferencias alimenticias                                       |
+|---------|-----------|-----------|-------------|
+| Se registran sus datos como correo, nombre, edad, talla, peso, etc.    | Luego se escogen los objetivos que se planean alcanzar.                   | Seguidamente se establecen restricciones en la dieta.                  | Finalmente se eligen preferencias alimenticias.                        |
+| <img src="./assets/recursos/register 1.png" height="500"> | <img src="./assets/recursos/register 2.png" height="500"> | <img src="./assets/recursos/register 3.png" height="500">  | <img src="./assets/recursos/register 4.png" height="500"> |
+
+Luego del registro se redirigen a un pantalla de inicio desde donde se podera acceder a las capacidades de la aplicación
+
+| Pantalla de inicio | Perfil de usuario | Customizar horario | Gestión médica y alimenticia | Ritmo del plan | Días libres |
+|--------------------|-------------------|---------------------|------------------------------|----------------|-------------|
+| Pantalla donde el usuario puede navegar hacia todas las funciones. | Se encuentran todos los datos registrados del usuario con opción a modificar. | Estableces las horas de las comidas. | Se agregan posibles restricciones o condiciones médicas y la preferencia alimenticia. | Escoges el ritmo de cómo seguirás el plan. | Escoges los días en los que no deseas seguir el plan. |
+| <img src="./assets/recursos/homeScreen.png" height="500"> | <img src="./assets/recursos/User profile.png" height="500"> | <img src="./assets/recursos/Customize schedule.png" height="500"> | <img src="./assets/recursos/Medical and dietary management.png" height="500"> | <img src="./assets/recursos/Plan pace.png" height="500"> | <img src="./assets/recursos/Free days.png" height="500"> |
+
+Desde la pantalla de inicio se puede observar el progreso dentro del plan y logros obtenidos hasta el momento
+
+| Progreso | Preferencias | Registrar comida |
+|----------|--------------|------------------|
+| Se puede visualizar el progreso, logros, un seguimiento de todo lo que se lleva y hasta opiniones de usuarios que llevan un plan similar. | Permite agregar platos e ingredientes preferidos para ser implementados en la generación del plan de comida. | Permite registrar las comidas del día. |
+| <img src="./assets/recursos/progress.png" height="500"> | <img src="./assets/recursos/preferences.png" height="500"> | <img src="./assets/recursos/register meal.png" height="500"> |
+
+
+Dentro de la opciones en la pantalla principal en modo de botones se encuentran las siguientes
+
+| Recordatorios | Sugerencias | Snack del día |
+|---------------|-------------|----------------|
+| Permite colocar recordatorios de ciertas comidas, dejar una nota y establecer la categoría. | Ofrece sugerencias diarias según la dieta del día. | Dependiendo de la configuración, se te sugiere un snack diario adecuado a tus metas. |
+| <img src="./assets/recursos/reminder.png" height="500"> | <img src="./assets/recursos/suggestions.png" height="500"> | <img src="./assets/recursos/snack.png" height="500"> |
+
+Finalmente lo que caracteriza principalmente a la app
+
+| Plan de comidas |
+|-----------------|
+| Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso semanal y ver el menú de cada día y de cada comida, teniendo la opción de ver los ingredientes, generar una nueva receta o descargarla. |
+| <img src="./assets/recursos/plan.png" height="600"> |
+
+[Visualizar Mock-ups](https://www.figma.com/design/EMo3z91MYG8WaRjNXG7MkH/Untitled--Copy-?node-id=0-1&t=V6RraX8FY4UXc8VG-1)
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
+
+
 ### 4.5. Web Applications Prototyping
+
+
 
 ### 4.6. Domain-Driven Software Architecture
 
