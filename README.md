@@ -1902,6 +1902,48 @@ Mobile:
 
 #### 4.4.3. Web Applications Mock-ups
 
+| Pantalla de comienzo      | Registro o inicio de sesion |
+|-----------------|------------|
+| Esta es la pantalla de inicio que se muestra luego de instalar la app.| A continuación se visualiza la pantalla de registro o inicio de sesión, según sea el caso. |
+| <img src="./assets/recursos/start screen.png" height="500">| <img src="./assets/recursos/login and registration screen.png" height="500">|
+
+
+En el caso del registro se siguen los siguientes pasos: 
+| Datos personales    | Objetivos  | Restricciones |  Preferencias alimenticias                                       |
+|---------|-----------|-----------|-------------|
+| Se registran sus datos como correo, nombre, edad, talla, peso, etc.    | Luego se escogen los objetivos que se planean alcanzar.                   | Seguidamente se establecen restricciones en la dieta.                  | Finalmente se eligen preferencias alimenticias.                        |
+| <img src="./assets/recursos/register 1.png" height="500"> | <img src="./assets/recursos/register 2.png" height="500"> | <img src="./assets/recursos/register 3.png" height="500">  | <img src="./assets/recursos/register 4.png" height="500"> |
+
+Luego del registro se redirigen a un pantalla de inicio desde donde se podera acceder a las capacidades de la aplicación
+
+| Pantalla de inicio | Perfil de usuario | Customizar horario | Gestión médica y alimenticia | Ritmo del plan | Días libres |
+|--------------------|-------------------|---------------------|------------------------------|----------------|-------------|
+| Pantalla donde el usuario puede navegar hacia todas las funciones. | Se encuentran todos los datos registrados del usuario con opción a modificar. | Estableces las horas de las comidas. | Se agregan posibles restricciones o condiciones médicas y la preferencia alimenticia. | Escoges el ritmo de cómo seguirás el plan. | Escoges los días en los que no deseas seguir el plan. |
+| <img src="./assets/recursos/homeScreen.png" height="500"> | <img src="./assets/recursos/User profile.png" height="500"> | <img src="./assets/recursos/Customize schedule.png" height="500"> | <img src="./assets/recursos/Medical and dietary management.png" height="500"> | <img src="./assets/recursos/Plan pace.png" height="500"> | <img src="./assets/recursos/Free days.png" height="500"> |
+
+Desde la pantalla de inicio se puede observar el progreso dentro del plan y logros obtenidos hasta el momento
+
+| Progreso | Preferencias | Registrar comida |
+|----------|--------------|------------------|
+| Se puede visualizar el progreso, logros, un seguimiento de todo lo que se lleva y hasta opiniones de usuarios que llevan un plan similar. | Permite agregar platos e ingredientes preferidos para ser implementados en la generación del plan de comida. | Permite registrar las comidas del día. |
+| <img src="./assets/recursos/progress.png" height="500"> | <img src="./assets/recursos/preferences.png" height="500"> | <img src="./assets/recursos/register meal.png" height="500"> |
+
+
+Dentro de la opciones en la pantalla principal en modo de botones se encuentran las siguientes
+
+| Recordatorios | Sugerencias | Snack del día |
+|---------------|-------------|----------------|
+| Permite colocar recordatorios de ciertas comidas, dejar una nota y establecer la categoría. | Ofrece sugerencias diarias según la dieta del día. | Dependiendo de la configuración, se te sugiere un snack diario adecuado a tus metas. |
+| <img src="./assets/recursos/reminder.png" height="500"> | <img src="./assets/recursos/suggestions.png" height="500"> | <img src="./assets/recursos/snack.png" height="500"> |
+
+Finalmente lo que caracteriza principalmente a la app
+
+| Plan de comidas |
+|-----------------|
+| Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso semanal y ver el menú de cada día y de cada comida, teniendo la opción de ver los ingredientes, generar una nueva receta o descargarla. |
+| <img src="./assets/recursos/plan.png" height="600"> |
+
+[Visualizar Mock-ups](https://www.figma.com/design/TkYxU9SsbzOMjkQ9CICbZj/Untitled?t=D5G1DDhUzIfRsUZ5-1)
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
