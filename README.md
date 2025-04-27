@@ -100,7 +100,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
-            <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
+            <img src="assets/evidencias/repo-pulse-analytics.png" alt="repo-pulse-analytics" width=60% >
         </p>        
 
 <hr>
@@ -292,33 +292,28 @@ La falta de herramientas accesibles, eficaces y altamente personalizables para l
 
 Para comprender mejor el problema, se utiliza la técnica de las 5 W’s y 2 H’s:
 
-**What (¿Qué?):**
-¿Cuál es el problema?
+**What:**
 El problema principal radica en la dificultad que tienen muchas personas para encontrar herramientas accesibles y adaptadas a sus necesidades alimenticias específicas. Las aplicaciones actuales suelen ofrecer recomendaciones genéricas o limitadas, sin tener en cuenta restricciones médicas o preferencias individuales.
 
-**When (¿Cuándo?):**
-¿Cuándo se presenta el problema?
+**When:**
 Este problema ha cobrado mayor urgencia en la era post-pandemia, cuando la conciencia sobre la salud se ha intensificado. Tras el confinamiento y los cambios en los hábitos diarios, muchas personas buscan opciones digitales que les ayuden a mejorar su alimentación y prevenir enfermedades crónicas (Khalil et al., 2022).
 
-**Where (¿Dónde?):**
-¿Dónde ocurre el problema?
+**Where:**
 La problemática afecta tanto a poblaciones urbanas como rurales. Aunque los usuarios urbanos tienen mayor acceso a la tecnología, enfrentan dificultades con la sobrecarga de información. Por otro lado, en zonas rurales, el acceso a especialistas en nutrición es más limitado, lo que hace aún más necesaria la existencia de soluciones digitales personalizadas y accesibles.
 
-**Who (¿Quiénes están involucrados?):**
-¿A quién afecta?
-NutriPlus está dirigida a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También puede ser utilizada como una herramienta complementaria por profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
+**Who:**
+Afecta a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También a profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
 
-**Why (¿Por qué?):**
-¿Cuál es la causa del problema?
+**Why:**
 La razón principal es la creciente demanda de herramientas que permitan a las personas tomar decisiones informadas sobre su dieta, sin depender exclusivamente de consultas médicas presenciales. Además, el enfoque generalizado de muchas aplicaciones no responde a las necesidades individuales ni promueve cambios sostenibles en el estilo de vida.
 
-**How (¿Cómo se soluciona?):**
-¿Cómo se plantea resolverlo?
-NutriPlus ofrece una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. La plataforma combina análisis de datos, inteligencia artificial y principios de nutrición para ofrecer recomendaciones relevantes.
+**How:**
+Con una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. 
 
-**How Much (¿Cuánto cuesta?):**
-¿Cuál es el costo de la solución?
-El modelo freemium de NutriPlus permite el acceso gratuito a funcionalidades básicas, mientras que las funciones premium —como análisis avanzados y asesoramiento profesional— se ofrecen a precios accesibles mediante suscripción. Este modelo equilibra accesibilidad y sostenibilidad, reduciendo la barrera económica para la mayoría de los usuarios.
+**How Much:**
+En el Perú, el exceso de peso es una crisis de salud pública:  
+Según la Encuesta Demográfica y de Salud Familiar 2021, el 36,9 % de las personas de 15 años a más presenta sobrepeso y el 25,8 % sufre obesidad, lo que equivale a unos 15 millones de peruanos (62 % de la población adulta) afectados por estas condiciones. La aplicación está diseñada para poder llevar una alimentación saludable de la manera más cómoda posible y así fomentar la adherencia a este tipos de dietas y uso de la aplicación.
+
 
 #### 1.2.2. Lean UX Process
 
@@ -414,11 +409,9 @@ Los siguientes segmentos clave permiten establecer una base sólida para el lanz
 
 ### 2.1. Competidores
 
-#### En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
+En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
 
 #### 2.1.1. Análisis competitivo
-
-## Cuadro Analisis competitivo
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -596,7 +589,7 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 - ¿Cómo verificas que tus pacientes siguen lo que les recomiendas? ¿Te gustaría mejorar ese proceso?  
 - ¿Qué opinas sobre el uso de apps por parte de los pacientes? ¿Crees que ayudan o dificultan el proceso?  
 - ¿Qué funcionalidades te gustaría ver en una plataforma que puedas usar junto a tus pacientes?  
-- ¿Recomendarías NutriSmart si mejora la adherencia y simplifica el trabajo contigo? ¿Qué condiciones tendría que cumplir? 
+- ¿Recomendarías Alimentate+ si mejora la adherencia y simplifica el trabajo contigo? ¿Qué condiciones tendría que cumplir? 
       
 
 
@@ -604,13 +597,15 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 <!-- Segmento objetivo: Profesionales de la salud -->
 
-# Entrevista #1
+- **Entrevista #1**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista1.png" alt="entrevista-1" width="400">
 </p>
 
-Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar NutriSmart si es clara, adaptable y confiable.
+Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar Alimentate+ si es clara, adaptable y confiable.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -620,14 +615,17 @@ Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora m
 | **Duración**      | 5:10 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
 
+</div>
 
-# Entrevista #2
+- **Entrevista #2**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista2.png" alt="entrevista-2" width="400">
 </p>
 
 Para Jorge, la alimentación es primordial para la salud y cumple un rol fundamental en su trabajo, y se mantiene actualizado buscando herramientas para mejorarla. Como nutricionista, personaliza planes con diversas herramientas, lidiando con la complejidad de las necesidades individuales y la adherencia de los pacientes, cuyo seguimiento actual le gustaría optimizar con una plataforma que ofrezca registro en tiempo real y comunicación directa. Valora las apps sencillas y personalizadas, y desearía una plataforma con funciones de registro, alertas, integración del plan, métricas, chat y educación. Recomendaría nuestro producto si facilita el seguimiento, ahorra tiempo, es confiable, tiene respaldo clínico y permite una alta personalización de las dietas.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -656,16 +654,20 @@ Carlos es un nutricionista con experiencia que aplica en su vida diaria los prin
 | **Duración**      | 3:23 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/FAg-Pdhs4_g) |
 
+</div>
+
 
 <!-- Segmento objetivo 2: Jovenes adultos interesados en mejorar su alimentacion -->
 
-# Entrevista #4
+- **Entrevista #4**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista4.png" alt="entrevista-4" width="400">
 </p>
 
 Mathias, un estudiante universitario, considera muy importante la alimentación para su bienestar físico y mental, aunque no busca información nueva con frecuencia, a menos que necesite un cambio específico. No planifica sus comidas semanalmente, pero trata de mantener una dieta variada incluyendo diferentes grupos de alimentos. Come fuera o pide delivery ocasionalmente, sin que esto afecte negativamente su alimentación. Actualmente, no tiene objetivos nutricionales específicos, enfocándose en mantener una rutina equilibrada y no ha utilizado apps de nutrición. Le resultaría útil una app que, basándose en su peso y objetivos, le indique qué comer para subir, bajar o mantener su peso. Estaría dispuesto a pagar por una versión premium con recetas, seguimiento y planes avanzados, ya que considera atractivas estas funciones para quienes necesitan apoyo adicional para mejorar su alimentación y alcanzar sus metas.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -675,14 +677,17 @@ Mathias, un estudiante universitario, considera muy importante la alimentación 
 | **Duración**      |  3:50 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/tKroBRlMJDM) |
 
+</div>
 
-# Entrevista #5
+- **Entrevista #5**
 
 <p align="center">
   <img src="./assets/entrevistas/" alt="entrevista-5" width="400">
 </p>
 
 Resumen
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -692,14 +697,17 @@ Resumen
 | **Duración**      | minutos                               |
 | **Enlace**        | [Ver entrevista]() |
 
+</div>
 
-# Entrevista #6
+- **Entrevista #6**
 
 <p align="center">
   <img src="./assets/entrevistas/" alt="entrevista-6" width="400">
 </p>
 
 Resumen
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -709,18 +717,26 @@ Resumen
 | **Duración**      |  minutos                               |
 | **Enlace**        | [Ver entrevista]() |
 
+</div>
 
 #### 2.2.3. Análisis de entrevistas
 
-####  Entrevista 1 
-- La persona considera que la alimentación es fundamental, no solo a nivel físico sino también emocional y mental.
-- Suele buscar información nutricional casi semanalmente para actualizarse y brindar un mejor servicio.
-- Utiliza herramientas básicas como Excel y WhatsApp para crear y hacer seguimiento de los planes alimenticios, aunque reconoce que no son las más eficientes.
-- Encuentra dificultades al personalizar planes cuando los pacientes tienen diagnósticos múltiples o preferencias muy restringidas.
-- Verifica la adherencia de los pacientes pidiéndoles fotos o diarios alimentarios, pero considera que este proceso puede mejorar.
-- Tiene una percepción positiva sobre el uso de apps, siempre que sean amigables y no complicadas para los pacientes.
-- Valora funcionalidades como personalización de planes, alertas, registros visuales de comida y comunicación directa con el paciente.
-- Recomendaría una app como NutriSmart si mejora la adherencia, simplifica su trabajo, es fácil de usar, segura y personalizable según el diagnóstico del paciente.
+- **Segmento Objetivo: Profesionales de la Salud**
+  Este análisis se basa en las respuestas de tres nutricionistas entrevistados.
+
+  - Importancia de la Alimentación: El 100% de los profesionales encuestados considera la alimentación como fundamental o primordial tanto para su bienestar personal como para su trabajo con pacientes, reconociendo su impacto en la salud física y mental.
+
+  - Actualización y Herramientas Actuales: Los tres profesionales se mantienen activos en la búsqueda de información y herramientas para mejorar la alimentación, con una frecuencia que varía desde semanal hasta casi diaria. Actualmente, utilizan una combinación de herramientas no especializadas (100% mencionan Excel y WhatsApp) y software nutricional específico (67% mencionan Nutrium o Dietowin), reconociendo las limitaciones de las herramientas no especializadas en términos de eficiencia y seguimiento.
+
+  - Desafíos en la Personalización y Seguimiento: El 100% de los nutricionistas experimenta dificultades para personalizar completamente los planes alimenticios, principalmente debido a la falta de tiempo y la complejidad de integrar información clínica, preferencias y limitaciones de los pacientes. Además, el 100% encuentra desafíos en el seguimiento de la adherencia de los pacientes a las recomendaciones, utilizando métodos como entrevistas, mensajes o fotos, pero reconociendo la dificultad de obtener información precisa y constante.
+
+  - Opinión sobre Apps y Deseos para una Plataforma: Los tres profesionales tienen una opinión positiva sobre el potencial de las apps para ayudar a los pacientes, siempre y cuando sean fáciles de usar y no abrumadoras. Existe un consenso del 100% en la necesidad de una plataforma que facilite la personalización de planes, el seguimiento del progreso en tiempo real y la comunicación directa con los pacientes. Funcionalidades deseadas incluyen registro de comidas, visualización de métricas y herramientas de ajuste remoto de planes.
+
+  - Disposición a Recomendar Alimentate+ (o similar): El 100% de los nutricionistas estaría dispuesto a recomendar una plataforma como Alimentate+ (o Alimentate+) si esta demuestra ser clara/intuitiva, adaptable/personalizable y confiable. Además, valoran que la plataforma ahorre tiempo en la gestión de los pacientes y mejore la adherencia a los planes nutricionales.
+
+- **Segmento Objetivo: Jovenes Adultos que buscan mejores habitos alimenticios**
+
+
 
 ### 2.3. Needfinding
 
@@ -1166,38 +1182,112 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       </td>
       <td>EP-05</td>
     </tr>
+    <tr>
+      <td>US-19</td>
+      <td>Conocer la propuesta de valor</td>
+      <td>Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que ingreso a la landing, <i>When</i> visualizo la parte superior, <i>Then</i> leo un título claro y un subtítulo explicativo.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-20</td>
+      <td>Acceder al registro o inicio de sesión</td>
+      <td>Como visitante, quiero poder iniciar sesión o registrarme desde la barra superior para empezar a usar la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en el botón "Iniciar sesión", <i>When</i> este me redirige, <i>Then</i> llego a la página de login.<br>
+        <b>Escenario 2:</b> <i>Given</i> que hago clic en "Registrarse", <i>When</i> este me redirige, <i>Then</i> llego al formulario de registro.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-21</td>
+      <td>Navegar entre secciones desde la barra</td>
+      <td>Como visitante, quiero usar la barra superior para moverme a distintas secciones de la landing para explorar el contenido rápidamente.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en un enlace del menú superior, <i>When</i> este se refiere a una sección de la misma página, <i>Then</i> soy dirigido automáticamente a dicha sección.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-22</td>
+      <td>Ver resumen de beneficios</td>
+      <td>Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que accedo a la landing page, <i>When</i> hago scroll a la sección de beneficios, <i>Then</i> visualizo tarjetas con los puntos destacados.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-23</td>
+      <td>Navegar por los beneficios principales</td>
+      <td>Como visitante, quiero navegar fácilmente por la sección de beneficios para conocer todas las ventajas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago scroll en la página, <i>When</i> paso por cada bloque de beneficios, <i>Then</i> veo textos e imágenes que explican las funcionalidades.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-24</td>
+      <td>Visualizar testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios para confiar en la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que llegó a la sección de testimonios, <i>When</i> visualizó las citas de usuarios, <i>Then</i> puedo ver nombre, foto y experiencia de cada uno.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-25</td>
+      <td>Navegar desde el footer</td>
+      <td>Como visitante, quiero que los enlaces del pie de página funcionen correctamente para poder acceder a información adicional sobre la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en un enlace del footer, <i>When</i> este está correctamente configurado, <i>Then</i> soy redirigido a la sección o página correspondiente (por ejemplo, "Política de privacidad", "Contacto", etc.).
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-26</td>
+      <td>Acceder desde distintos dispositivos</td>
+      <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que accedo desde un dispositivo móvil, <i>When</i> cargo la landing, <i>Then</i> el diseño se adapta correctamente.<br>
+        <b>Escenario 2:</b> <i>Given</i> que accedo desde una computadora, <i>When</i> navego la landing, <i>Then</i> los elementos se ajustan al tamaño de pantalla.
+      </td>
+      <td>EP-06</td>
+    </tr>
   </tbody>
 </table>
 
-#### Epica 01: Registro y Gestion de Cuenta
+- **Epica 01: Registro y Gestion de Cuenta**
+ 
+  - Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+  - Historias relacionadas: US01, US02 Y US03
 
-Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+- **Epica 02: Personalizacion y Generacion de Planes**
 
-Historias relacionadas: US01, US02 Y US03
+  - Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+  - Historias relacionadas: US04, US05 y US15
 
-#### Epica 02: Personalizacion y Generacion de Planes
+- **Epica 03: Registro y Seguimiento**
 
-Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+  - Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+  - Historias relacionadas: US06, US07, US08, US09 y US11
 
-Historias relacionadas: US04, US05 y US15
+- **Epica 04: Comunidad y Motivacion**
 
-#### Epica 03: Registro y Seguimiento
+  - Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
+  - Historias relacionadas: US10, US12 y US16
 
-Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+- **Epica 05: Soporte y Experiencia deL Usuario**
 
-Historias relacionadas: US06, US07, US08, US09 y US11
+  - Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
+  - Historias relacionadas: US13, US14, US17 y US18
 
-#### Epica 04: Comunidad y Motivacion
+- **Epica 06: Landing Page**
 
-Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
-
-Historias relacionadas: US10, US12 y US16
-
-#### Epica 05: Soporte y Experiencia deL Usuario
-
-Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
-
-Historias relacionadas: US13, US14, US17 y US18
+  - Funcionalidades para la visualizacion de la landing page, navegacion a traves de ella e informacion
+  - Historias relacionadas: US19, US20, US21, US22, US23, US24, US25, US26
 
 ### 3.3. Impact Mapping
 
@@ -1346,9 +1436,64 @@ Historias relacionadas: US13, US14, US17 y US18
       <td>Como usuario, quiero chatear en tiempo real con el soporte tecnico para resolver dudas</td>
       <td>8</td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>US-19</td>
+      <td>Conocer la propuesta de valor</td>
+      <td>Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US-20</td>
+      <td>Acceder al registro o inicio de sesión</td>
+      <td>Como visitante, quiero poder iniciar sesión o registrarme desde la barra superior para empezar a usar la app.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US-21</td>
+      <td>Navegar entre secciones desde la barra</td>
+      <td>Como visitante, quiero usar la barra superior para moverme a distintas secciones de la landing para explorar el contenido rápidamente.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US-22</td>
+      <td>Ver resumen de beneficios</td>
+      <td>Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US-23</td>
+      <td>Navegar por los beneficios principales</td>
+      <td>Como visitante, quiero navegar fácilmente por la sección de beneficios para conocer todas las ventajas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US-24</td>
+      <td>Visualizar testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios para confiar en la app.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US-25</td>
+      <td>Navegar desde el footer</td>
+      <td>Como visitante, quiero que los enlaces del pie de página funcionen correctamente para poder acceder a información adicional sobre la app.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>US-26</td>
+      <td>Acceder desde distintos dispositivos</td>
+      <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>5</td>
+    </tr>
   </tbody>
 </table>
-
 
 <hr>
 
@@ -2257,11 +2402,66 @@ La configuración de despliegue para **Aliméntate+** contempla mecanismos organ
 
 ##### 5.2.1.1. Sprint Planning 1
 
+En esta reunión de planificación del Sprint 1, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados del primer sprint. Este sprint se enfocará en desarrollar y desplegar la página de inicio del proyecto y se llevará a cabo durante dos semanas. El objetivo es proporcionar una base sólida para el despliegue en GitHub Pages, garantizando que el producto inicial esté accesible y funcional.
+
+| **Sprint #**                   | Sprint 1                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 10/04/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
+| **Sprint 1 Review Summary**    | En este caso recién se realizará el primer sprint                                                                                                                                                                                                 |
+| **Sprint 1 Retrospective Summary** | En este caso recién se realizará el primer sprint                                                                                                                                                                                             |
+| **Sprint 1 Goal**              | Nuestro enfoque está en desplegar el landing page. Creemos que proporcionará una plataforma de lanzamiento accesible y funcional para el proyecto a los stakeholders. Esto se confirmará cuando el sitio esté accesible a través de GitHub Pages. |
+| **Sprint 1 Velocity**          | El sprint está planificado para completarse en 14 días (2 semanas).                                                                                                                                                                               |
+| **Sum of Story Points**        |  
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Aspecto del Proyecto | Líder Principal | Colaboradores |
+|----------------------|-----------------|---------------|
+| Frontend (React - Landing Page) | Rodriguez, Sebastian | Todo el equipo |
+| Despliegue de Landing Page (GitHub Pages) | Rodriguez, Sebastian| Todo el equipo |
+| Documentación Técnica del Sprint (Informe, Diagramas, Diseño) | Todo el equipo | Todo el equipo |
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+
+| **Sprint 1**                  |                                |        |                                   |                                                                          |                        |                 |            |
+| ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+| US-19                         | Conocer la propuesta de valor  | T-01   | Diseñar sección de propuesta de valor | Crear una sección en la landing page que explique qué hace la app y cómo beneficia al usuario. | 2                     | Sebastian Rodriguez | Done |
+|                               |                                | T-02   | Implementar diseño en HTML/CSS    | Codificar la sección de propuesta de valor en la landing page.           | 1                    | Sebastian Rodriguez | Done    |
+| US-20                       | Acceder al registro o inicio de sesión | T-03 | Diseñar botones de registro e inicio de sesión | Crear botones destacados en la barra superior para registro e inicio de sesión. | 3                    | Jhon Galvez Chambi | Done |
+|                               |                                | T-04   | Implementar funcionalidad de redirección | Configurar los botones para redirigir a las páginas correspondientes.    | 3                      | Jhon Galvez Chambi | Done    |
+| US-21                      | Navegar entre secciones desde la barra | T-05 | Diseñar barra de navegación       | Crear una barra superior con enlaces a las secciones principales de la landing page. | 3                      | Jhon Galvez Chambi | Done |
+|                               |                                | T-06   | Implementar navegación interna    | Configurar enlaces para que dirijan a las secciones correspondientes dentro de la misma página. | 2                     | Jhon Galvez Chambi | Done    |
+| US-22                         | Ver resumen de beneficios      | T-07   | Diseñar sección de beneficios     | Crear una sección que muestre los beneficios de la app en tarjetas destacadas. | 2                     |  | Done |
+|                               |                                | T-08   | Implementar diseño en HTML/CSS    | Codificar la sección de beneficios en la landing page.                   | 2                    | Mathias Bueno Perales | Done    |
+| US-23                         | Navegar por los beneficios principales | T-09 | Diseñar navegación por beneficios | Crear un diseño que permita a los usuarios desplazarse fácilmente por los bloques de beneficios. | 1                      | Fabrizio Paredes Santos | Done |
+|                               |                                | T-10   | Implementar navegación en HTML/CSS | Codificar la funcionalidad de desplazamiento por los bloques de beneficios. | 4                      | Fabrizio Paredes Santos | Done    |
+| US-24                         | Visualizar testimonios         | T-11   | Diseñar sección de testimonios    | Crear una sección que muestre citas de usuarios con nombre, foto y experiencia. | 6                      | Sebastian Rodriguez | Done |
+|                               |                                | T-12   | Implementar diseño en HTML/CSS    | Codificar la sección de testimonios en la landing page.                  | 4                      | Sebastian Rodriguez | Done    |
+| US-25                         | Navegar desde el footer        | T-13   | Diseñar footer con enlaces        | Crear un pie de página con enlaces a secciones adicionales como "Política de privacidad" y "Contacto". | 5                      | Jhon Galvez Chambi | Done |
+|                               |                                | T-14   | Implementar funcionalidad de enlaces | Configurar los enlaces del footer para redirigir correctamente.          | 3                      | Jhon Galvez Chambi | Done    |
+| US-26                        | Acceder desde distintos dispositivos | T-15 | Diseñar landing responsive        | Asegurar que la landing page se adapte correctamente a dispositivos móviles y computadoras. | 8                      | Mathias Bueno Perales | Done |
+|                               |                                | T-16   | Implementar diseño responsive     | Codificar el diseño responsive utilizando media queries.                 | 6                      | Mathias Bueno Perales | Done    |
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+Durante este sprint, se implementaron y estilizaron correctamente las secciones fundamentales de la landing page de Alimentate+. El progreso se evidenció en los siguientes commits registrados en GitHub:
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| G4-Aplicaciones-Web/landing-page | develop    | 5fbe73d                      | feat: merge hacia develop con los componentes de la barra de navegacion      | feat: agregar componentes de la barra de navegacion   | 26/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    |  ed5bf13                      | feat:agregando footer y testimonios     | -    | 27/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    | 38788ee                     | feat: adding HomePage and Home         | -        | 27/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    | codigo-sha                      | f-           | -                              | 27/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    | codigosha                      | -        |  -        | 27/04/2025               |
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -2274,6 +2474,13 @@ La configuración de despliegue para **Aliméntate+** contempla mecanismos organ
 <hr>
 
 ## Conclusiones
+
+- Durante el desarrollo de Alimentate+, se ha logró identificar y comprender en profundidad a nuestros segmento objetivo: personas adultas peruanas afectadas por el sobrepeso y la obesidad, personas con objetivos de salud o de simplemente llevar un estilo de vida más saludable. Esta comprensión ha permitido adaptar la aplicación para fomentar hábitos alimenticios saludables de forma práctica, cómoda y accesible, con el fin de mejorar la salud y la calidad de vida de los usuarios.
+
+- Durante el análisis del problema, Alimentate+ ha demostrado ser una alternativa diferenciada frente a otras soluciones genéricas, al enfocarse en la realidad local y en los retos específicos que enfrentan los peruanos para mantener una dieta equilibrada y sobre todo mantenerla. A diferencia de otras plataformas, Alimentate+ no solo proporciona planes alimenticios personalizados, sino que también busca fomentar la adherencia mediante recordatorios, seguimiento y recomendaciones adaptadas al contexto de cada usuario y sus preferencias personales.
+
+- Además, se hace énfasis en la importancia de adaptar Alimentate+ a los hábitos culturales, condiciones económicas y necesidades nutricionales de la población peruana. Esta estrategia no solo mejora la experiencia de uso, sino que también refuerza la efectividad de la aplicación como una herramienta de cambio de hábitos y prevención de enfermedades relacionadas con la alimentación.
+
 
 <hr>
 
