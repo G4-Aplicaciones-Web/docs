@@ -726,15 +726,22 @@ Resumen
 
 #### 2.2.3. Análisis de entrevistas
 
-####  Entrevista 1 
-- La persona considera que la alimentación es fundamental, no solo a nivel físico sino también emocional y mental.
-- Suele buscar información nutricional casi semanalmente para actualizarse y brindar un mejor servicio.
-- Utiliza herramientas básicas como Excel y WhatsApp para crear y hacer seguimiento de los planes alimenticios, aunque reconoce que no son las más eficientes.
-- Encuentra dificultades al personalizar planes cuando los pacientes tienen diagnósticos múltiples o preferencias muy restringidas.
-- Verifica la adherencia de los pacientes pidiéndoles fotos o diarios alimentarios, pero considera que este proceso puede mejorar.
-- Tiene una percepción positiva sobre el uso de apps, siempre que sean amigables y no complicadas para los pacientes.
-- Valora funcionalidades como personalización de planes, alertas, registros visuales de comida y comunicación directa con el paciente.
-- Recomendaría una app como NutriSmart si mejora la adherencia, simplifica su trabajo, es fácil de usar, segura y personalizable según el diagnóstico del paciente.
+- **Segmento Objetivo: Profesionales de la Salud**
+  Este análisis se basa en las respuestas de tres nutricionistas entrevistados.
+
+  - Importancia de la Alimentación: El 100% de los profesionales encuestados considera la alimentación como fundamental o primordial tanto para su bienestar personal como para su trabajo con pacientes, reconociendo su impacto en la salud física y mental.
+
+  - Actualización y Herramientas Actuales: Los tres profesionales se mantienen activos en la búsqueda de información y herramientas para mejorar la alimentación, con una frecuencia que varía desde semanal hasta casi diaria. Actualmente, utilizan una combinación de herramientas no especializadas (100% mencionan Excel y WhatsApp) y software nutricional específico (67% mencionan Nutrium o Dietowin), reconociendo las limitaciones de las herramientas no especializadas en términos de eficiencia y seguimiento.
+
+  - Desafíos en la Personalización y Seguimiento: El 100% de los nutricionistas experimenta dificultades para personalizar completamente los planes alimenticios, principalmente debido a la falta de tiempo y la complejidad de integrar información clínica, preferencias y limitaciones de los pacientes. Además, el 100% encuentra desafíos en el seguimiento de la adherencia de los pacientes a las recomendaciones, utilizando métodos como entrevistas, mensajes o fotos, pero reconociendo la dificultad de obtener información precisa y constante.
+
+  - Opinión sobre Apps y Deseos para una Plataforma: Los tres profesionales tienen una opinión positiva sobre el potencial de las apps para ayudar a los pacientes, siempre y cuando sean fáciles de usar y no abrumadoras. Existe un consenso del 100% en la necesidad de una plataforma que facilite la personalización de planes, el seguimiento del progreso en tiempo real y la comunicación directa con los pacientes. Funcionalidades deseadas incluyen registro de comidas, visualización de métricas y herramientas de ajuste remoto de planes.
+
+  - Disposición a Recomendar NutriSmart (o similar): El 100% de los nutricionistas estaría dispuesto a recomendar una plataforma como NutriSmart (o Alimentate+) si esta demuestra ser clara/intuitiva, adaptable/personalizable y confiable. Además, valoran que la plataforma ahorre tiempo en la gestión de los pacientes y mejore la adherencia a los planes nutricionales.
+
+- **Segmento Objetivo: Jovenes Adultos que buscan mejores habitos alimenticios**
+
+
 
 ### 2.3. Needfinding
 
