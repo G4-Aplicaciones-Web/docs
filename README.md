@@ -2496,9 +2496,66 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+<p align="center">
+  <img src="assets/recursos/landingpage-1.png" alt="hero Section" width="750">
+</p>
+<p align="center">
+  <img src="assets/recursos/landingpage-2.png" alt="parati Section" width="750">
+</p>
+<p align="center">
+  <img src="assets/recursos/landingpage-3.png" alt="testimonial Section" width="750">
+</p>
+<p align="center">
+  <img src="assets/recursos/landingpage-4.png" alt="comofunciona Section" width="750">
+</p>
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, se ha completado el desarrollo y la documentación de la landing page. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a la landing page. Aunque la landing page en sí misma es una interfaz de usuario estático.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+---
+
+### 🛠️ Pasos para el despliegue en GitHub Pages
+
+#### 1. Instalación de la dependencia `gh-pages`
+
+Se instaló la dependencia necesaria para el despliegue usando el siguiente comando:
+
+```bash
+npm install gh-pages --save-dev
+```
+Luego se añadieron los scripts de despliegue dentro del bloque scripts:
+
+```json
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+```
+💡 Reemplaza <usuario> y <nombre-repo> con tu nombre de usuario y nombre del repositorio.
+
+3. Ejecución del despliegue
+Para realizar el despliegue, se ejecutó el siguiente comando:
+
+```bash
+npm run deploy
+```
+Esto genera la carpeta dist/ y sube su contenido a la rama gh-pages.
+<p align="center">
+  <img src="assets/recursos/json-deploy.png" alt="json-deploy" width="750">
+</p>
+
+<p align="center">
+  <img src="assets/recursos/command-deploy.png" alt="command-deploy" width="750">
+</p>
+
+<p align="center">
+  <img src="assets/recursos/deploy-ghpages.png" alt="deploy-ghpages" width="750">
+</p>
+
+LINK DEPLOY LANDING PAGE: https://g-3-open-source.github.io/landing-page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
