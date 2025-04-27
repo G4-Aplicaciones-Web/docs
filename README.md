@@ -100,7 +100,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         </p>        
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
-            <img src="assets/evidencias/repo-members.png" alt="repo-analytics" width=60% >
+            <img src="assets/evidencias/repo-pulse-analytics.png" alt="repo-pulse-analytics" width=60% >
         </p>        
 
 <hr>
@@ -414,11 +414,9 @@ Los siguientes segmentos clave permiten establecer una base sólida para el lanz
 
 ### 2.1. Competidores
 
-#### En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
+En esta seccion realizaremos un analisis competitivo sobre distintos actores en el mercado que cumplan funciones similares a nosotros dentro del rubro de la nutricion. De esta forma podremos conocer nuestra posicion frente a posibles competidores como Yazio, Lumen y Fitia
 
 #### 2.1.1. Análisis competitivo
-
-## Cuadro Analisis competitivo
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -604,13 +602,15 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 
 <!-- Segmento objetivo: Profesionales de la salud -->
 
-# Entrevista #1
+- **Entrevista #1**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista1.png" alt="entrevista-1" width="400">
 </p>
 
 Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar NutriSmart si es clara, adaptable y confiable.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -620,14 +620,17 @@ Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora m
 | **Duración**      | 5:10 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
 
+</div>
 
-# Entrevista #2
+- **Entrevista #2**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista2.png" alt="entrevista-2" width="400">
 </p>
 
 Para Jorge, la alimentación es primordial para la salud y cumple un rol fundamental en su trabajo, y se mantiene actualizado buscando herramientas para mejorarla. Como nutricionista, personaliza planes con diversas herramientas, lidiando con la complejidad de las necesidades individuales y la adherencia de los pacientes, cuyo seguimiento actual le gustaría optimizar con una plataforma que ofrezca registro en tiempo real y comunicación directa. Valora las apps sencillas y personalizadas, y desearía una plataforma con funciones de registro, alertas, integración del plan, métricas, chat y educación. Recomendaría nuestro producto si facilita el seguimiento, ahorra tiempo, es confiable, tiene respaldo clínico y permite una alta personalización de las dietas.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -656,16 +659,20 @@ Carlos es un nutricionista con experiencia que aplica en su vida diaria los prin
 | **Duración**      | 3:23 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/FAg-Pdhs4_g) |
 
+</div>
+
 
 <!-- Segmento objetivo 2: Jovenes adultos interesados en mejorar su alimentacion -->
 
-# Entrevista #4
+- **Entrevista #4**
 
 <p align="center">
   <img src="./assets/entrevistas/entrevista4.png" alt="entrevista-4" width="400">
 </p>
 
 Mathias, un estudiante universitario, considera muy importante la alimentación para su bienestar físico y mental, aunque no busca información nueva con frecuencia, a menos que necesite un cambio específico. No planifica sus comidas semanalmente, pero trata de mantener una dieta variada incluyendo diferentes grupos de alimentos. Come fuera o pide delivery ocasionalmente, sin que esto afecte negativamente su alimentación. Actualmente, no tiene objetivos nutricionales específicos, enfocándose en mantener una rutina equilibrada y no ha utilizado apps de nutrición. Le resultaría útil una app que, basándose en su peso y objetivos, le indique qué comer para subir, bajar o mantener su peso. Estaría dispuesto a pagar por una versión premium con recetas, seguimiento y planes avanzados, ya que considera atractivas estas funciones para quienes necesitan apoyo adicional para mejorar su alimentación y alcanzar sus metas.
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -675,14 +682,17 @@ Mathias, un estudiante universitario, considera muy importante la alimentación 
 | **Duración**      |  3:50 minutos                               |
 | **Enlace**        | [Ver entrevista](https://youtu.be/tKroBRlMJDM) |
 
+</div>
 
-# Entrevista #5
+- **Entrevista #5**
 
 <p align="center">
   <img src="./assets/entrevistas/" alt="entrevista-5" width="400">
 </p>
 
 Resumen
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -692,14 +702,17 @@ Resumen
 | **Duración**      | minutos                               |
 | **Enlace**        | [Ver entrevista]() |
 
+</div>
 
-# Entrevista #6
+- **Entrevista #6**
 
 <p align="center">
   <img src="./assets/entrevistas/" alt="entrevista-6" width="400">
 </p>
 
 Resumen
+
+<div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
@@ -709,18 +722,26 @@ Resumen
 | **Duración**      |  minutos                               |
 | **Enlace**        | [Ver entrevista]() |
 
+</div>
 
 #### 2.2.3. Análisis de entrevistas
 
-####  Entrevista 1 
-- La persona considera que la alimentación es fundamental, no solo a nivel físico sino también emocional y mental.
-- Suele buscar información nutricional casi semanalmente para actualizarse y brindar un mejor servicio.
-- Utiliza herramientas básicas como Excel y WhatsApp para crear y hacer seguimiento de los planes alimenticios, aunque reconoce que no son las más eficientes.
-- Encuentra dificultades al personalizar planes cuando los pacientes tienen diagnósticos múltiples o preferencias muy restringidas.
-- Verifica la adherencia de los pacientes pidiéndoles fotos o diarios alimentarios, pero considera que este proceso puede mejorar.
-- Tiene una percepción positiva sobre el uso de apps, siempre que sean amigables y no complicadas para los pacientes.
-- Valora funcionalidades como personalización de planes, alertas, registros visuales de comida y comunicación directa con el paciente.
-- Recomendaría una app como NutriSmart si mejora la adherencia, simplifica su trabajo, es fácil de usar, segura y personalizable según el diagnóstico del paciente.
+- **Segmento Objetivo: Profesionales de la Salud**
+  Este análisis se basa en las respuestas de tres nutricionistas entrevistados.
+
+  - Importancia de la Alimentación: El 100% de los profesionales encuestados considera la alimentación como fundamental o primordial tanto para su bienestar personal como para su trabajo con pacientes, reconociendo su impacto en la salud física y mental.
+
+  - Actualización y Herramientas Actuales: Los tres profesionales se mantienen activos en la búsqueda de información y herramientas para mejorar la alimentación, con una frecuencia que varía desde semanal hasta casi diaria. Actualmente, utilizan una combinación de herramientas no especializadas (100% mencionan Excel y WhatsApp) y software nutricional específico (67% mencionan Nutrium o Dietowin), reconociendo las limitaciones de las herramientas no especializadas en términos de eficiencia y seguimiento.
+
+  - Desafíos en la Personalización y Seguimiento: El 100% de los nutricionistas experimenta dificultades para personalizar completamente los planes alimenticios, principalmente debido a la falta de tiempo y la complejidad de integrar información clínica, preferencias y limitaciones de los pacientes. Además, el 100% encuentra desafíos en el seguimiento de la adherencia de los pacientes a las recomendaciones, utilizando métodos como entrevistas, mensajes o fotos, pero reconociendo la dificultad de obtener información precisa y constante.
+
+  - Opinión sobre Apps y Deseos para una Plataforma: Los tres profesionales tienen una opinión positiva sobre el potencial de las apps para ayudar a los pacientes, siempre y cuando sean fáciles de usar y no abrumadoras. Existe un consenso del 100% en la necesidad de una plataforma que facilite la personalización de planes, el seguimiento del progreso en tiempo real y la comunicación directa con los pacientes. Funcionalidades deseadas incluyen registro de comidas, visualización de métricas y herramientas de ajuste remoto de planes.
+
+  - Disposición a Recomendar NutriSmart (o similar): El 100% de los nutricionistas estaría dispuesto a recomendar una plataforma como NutriSmart (o Alimentate+) si esta demuestra ser clara/intuitiva, adaptable/personalizable y confiable. Además, valoran que la plataforma ahorre tiempo en la gestión de los pacientes y mejore la adherencia a los planes nutricionales.
+
+- **Segmento Objetivo: Jovenes Adultos que buscan mejores habitos alimenticios**
+
+
 
 ### 2.3. Needfinding
 
@@ -1169,35 +1190,30 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
   </tbody>
 </table>
 
-#### Epica 01: Registro y Gestion de Cuenta
+- **Epica 01: Registro y Gestion de Cuenta**
+ 
+  - Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+  - Historias relacionadas: US01, US02 Y US03
 
-Todo lo relacionado al acceso, recuperación, y gestión del perfil del usuario.
+- **Epica 02: Personalizacion y Generacion de Planes**
 
-Historias relacionadas: US01, US02 Y US03
+  - Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+  - Historias relacionadas: US04, US05 y US15
 
-#### Epica 02: Personalizacion y Generacion de Planes
+- **Epica 03: Registro y Seguimiento**
 
-Creación y adaptación de planes alimenticios personalizados según datos y preferencias del usuario.
+  - Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+  - Historias relacionadas: US06, US07, US08, US09 y US11
 
-Historias relacionadas: US04, US05 y US15
+- **Epica 04: Comunidad y Motivacion**
 
-#### Epica 03: Registro y Seguimiento
+  - Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
+  - Historias relacionadas: US10, US12 y US16
 
-Funcionalidades de seguimiento diario, visualización de progreso, recordatorios y feedback.
+- **Epica 05: Soporte y Experiencia deL Usuario**
 
-Historias relacionadas: US06, US07, US08, US09 y US11
-
-#### Epica 04: Comunidad y Motivacion
-
-Todo lo que permite interacción social, motivación por logros, y participación en comunidad.
-
-Historias relacionadas: US10, US12 y US16
-
-#### Epica 05: Soporte y Experiencia deL Usuario
-
-Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
-
-Historias relacionadas: US13, US14, US17 y US18
+  - Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
+  - Historias relacionadas: US13, US14, US17 y US18
 
 ### 3.3. Impact Mapping
 
@@ -1348,7 +1364,6 @@ Historias relacionadas: US13, US14, US17 y US18
     </tr>
   </tbody>
 </table>
-
 
 <hr>
 
