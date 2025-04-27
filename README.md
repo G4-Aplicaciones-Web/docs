@@ -1943,7 +1943,7 @@ Finalmente lo que caracteriza principalmente a la app
 | Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso semanal y ver el menú de cada día y de cada comida, teniendo la opción de ver los ingredientes, generar una nueva receta o descargarla. |
 | <img src="./assets/recursos/plan.png" height="600"> |
 
-[Visualizar Mock-ups](https://www.figma.com/design/TkYxU9SsbzOMjkQ9CICbZj/Untitled?t=D5G1DDhUzIfRsUZ5-1)
+[Visualizar Mock-ups](https://www.figma.com/design/EMo3z91MYG8WaRjNXG7MkH/Untitled--Copy-?node-id=0-1&t=V6RraX8FY4UXc8VG-1)
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
