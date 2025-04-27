@@ -292,33 +292,28 @@ La falta de herramientas accesibles, eficaces y altamente personalizables para l
 
 Para comprender mejor el problema, se utiliza la técnica de las 5 W’s y 2 H’s:
 
-**What (¿Qué?):**
-¿Cuál es el problema?
+**What:**
 El problema principal radica en la dificultad que tienen muchas personas para encontrar herramientas accesibles y adaptadas a sus necesidades alimenticias específicas. Las aplicaciones actuales suelen ofrecer recomendaciones genéricas o limitadas, sin tener en cuenta restricciones médicas o preferencias individuales.
 
-**When (¿Cuándo?):**
-¿Cuándo se presenta el problema?
+**When:**
 Este problema ha cobrado mayor urgencia en la era post-pandemia, cuando la conciencia sobre la salud se ha intensificado. Tras el confinamiento y los cambios en los hábitos diarios, muchas personas buscan opciones digitales que les ayuden a mejorar su alimentación y prevenir enfermedades crónicas (Khalil et al., 2022).
 
-**Where (¿Dónde?):**
-¿Dónde ocurre el problema?
+**Where:**
 La problemática afecta tanto a poblaciones urbanas como rurales. Aunque los usuarios urbanos tienen mayor acceso a la tecnología, enfrentan dificultades con la sobrecarga de información. Por otro lado, en zonas rurales, el acceso a especialistas en nutrición es más limitado, lo que hace aún más necesaria la existencia de soluciones digitales personalizadas y accesibles.
 
-**Who (¿Quiénes están involucrados?):**
-¿A quién afecta?
-NutriPlus está dirigida a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También puede ser utilizada como una herramienta complementaria por profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
+**Who:**
+Afecta a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También a profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
 
 **Why (¿Por qué?):**
-¿Cuál es la causa del problema?
 La razón principal es la creciente demanda de herramientas que permitan a las personas tomar decisiones informadas sobre su dieta, sin depender exclusivamente de consultas médicas presenciales. Además, el enfoque generalizado de muchas aplicaciones no responde a las necesidades individuales ni promueve cambios sostenibles en el estilo de vida.
 
-**How (¿Cómo se soluciona?):**
-¿Cómo se plantea resolverlo?
-NutriPlus ofrece una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. La plataforma combina análisis de datos, inteligencia artificial y principios de nutrición para ofrecer recomendaciones relevantes.
+**How:**
+Con una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. 
 
-**How Much (¿Cuánto cuesta?):**
-¿Cuál es el costo de la solución?
-El modelo freemium de NutriPlus permite el acceso gratuito a funcionalidades básicas, mientras que las funciones premium —como análisis avanzados y asesoramiento profesional— se ofrecen a precios accesibles mediante suscripción. Este modelo equilibra accesibilidad y sostenibilidad, reduciendo la barrera económica para la mayoría de los usuarios.
+**How Much:**
+- En el Perú, el exceso de peso es una crisis de salud pública:  
+Según la Encuesta Demográfica y de Salud Familiar 2021, el 36,9 % de las personas de 15 años a más presenta sobrepeso y el 25,8 % sufre obesidad, lo que equivale a unos 15 millones de peruanos (62 % de la población adulta) afectados por estas condiciones. La aplicación está diseñada para poder llevar una alimentación saludable de la manera más cómoda posible y así fomentar la adherencia a este tipos de dietas y uso de la aplicación.
+
 
 #### 1.2.2. Lean UX Process
 
