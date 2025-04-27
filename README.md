@@ -1441,6 +1441,62 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       <td>Como usuario, quiero chatear en tiempo real con el soporte tecnico para resolver dudas</td>
       <td>8</td>
     </tr>
+    <tr>
+      <td>19</td>
+      <td>US-19</td>
+      <td>Conocer la propuesta de valor</td>
+      <td>Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US-20</td>
+      <td>Acceder al registro o inicio de sesión</td>
+      <td>Como visitante, quiero poder iniciar sesión o registrarme desde la barra superior para empezar a usar la app.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US-21</td>
+      <td>Navegar entre secciones desde la barra</td>
+      <td>Como visitante, quiero usar la barra superior para moverme a distintas secciones de la landing para explorar el contenido rápidamente.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US-22</td>
+      <td>Ver resumen de beneficios</td>
+      <td>Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US-23</td>
+      <td>Navegar por los beneficios principales</td>
+      <td>Como visitante, quiero navegar fácilmente por la sección de beneficios para conocer todas las ventajas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>US-24</td>
+      <td>Visualizar testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios para confiar en la app.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US-25</td>
+      <td>Navegar desde el footer</td>
+      <td>Como visitante, quiero que los enlaces del pie de página funcionen correctamente para poder acceder a información adicional sobre la app.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>US-26</td>
+      <td>Acceder desde distintos dispositivos</td>
+      <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>5</td>
+    </tr>
   </tbody>
 </table>
 
