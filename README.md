@@ -214,8 +214,8 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
 
 <hr>
 
@@ -292,33 +292,28 @@ La falta de herramientas accesibles, eficaces y altamente personalizables para l
 
 Para comprender mejor el problema, se utiliza la técnica de las 5 W’s y 2 H’s:
 
-**What (¿Qué?):**
-¿Cuál es el problema?
+**What:**
 El problema principal radica en la dificultad que tienen muchas personas para encontrar herramientas accesibles y adaptadas a sus necesidades alimenticias específicas. Las aplicaciones actuales suelen ofrecer recomendaciones genéricas o limitadas, sin tener en cuenta restricciones médicas o preferencias individuales.
 
-**When (¿Cuándo?):**
-¿Cuándo se presenta el problema?
+**When:**
 Este problema ha cobrado mayor urgencia en la era post-pandemia, cuando la conciencia sobre la salud se ha intensificado. Tras el confinamiento y los cambios en los hábitos diarios, muchas personas buscan opciones digitales que les ayuden a mejorar su alimentación y prevenir enfermedades crónicas (Khalil et al., 2022).
 
-**Where (¿Dónde?):**
-¿Dónde ocurre el problema?
+**Where:**
 La problemática afecta tanto a poblaciones urbanas como rurales. Aunque los usuarios urbanos tienen mayor acceso a la tecnología, enfrentan dificultades con la sobrecarga de información. Por otro lado, en zonas rurales, el acceso a especialistas en nutrición es más limitado, lo que hace aún más necesaria la existencia de soluciones digitales personalizadas y accesibles.
 
-**Who (¿Quiénes están involucrados?):**
-¿A quién afecta?
-NutriPlus está dirigida a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También puede ser utilizada como una herramienta complementaria por profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
+**Who:**
+Afecta a un amplio espectro de personas: desde quienes buscan mejorar su estilo de vida hasta quienes padecen enfermedades como diabetes o hipertensión. También a profesionales de la salud que asesoran a pacientes en sus planes nutricionales personalizados.
 
-**Why (¿Por qué?):**
-¿Cuál es la causa del problema?
+**Why:**
 La razón principal es la creciente demanda de herramientas que permitan a las personas tomar decisiones informadas sobre su dieta, sin depender exclusivamente de consultas médicas presenciales. Además, el enfoque generalizado de muchas aplicaciones no responde a las necesidades individuales ni promueve cambios sostenibles en el estilo de vida.
 
-**How (¿Cómo se soluciona?):**
-¿Cómo se plantea resolverlo?
-NutriPlus ofrece una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. La plataforma combina análisis de datos, inteligencia artificial y principios de nutrición para ofrecer recomendaciones relevantes.
+**How:**
+Con una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. 
 
-**How Much (¿Cuánto cuesta?):**
-¿Cuál es el costo de la solución?
-El modelo freemium de NutriPlus permite el acceso gratuito a funcionalidades básicas, mientras que las funciones premium —como análisis avanzados y asesoramiento profesional— se ofrecen a precios accesibles mediante suscripción. Este modelo equilibra accesibilidad y sostenibilidad, reduciendo la barrera económica para la mayoría de los usuarios.
+**How Much:**
+- En el Perú, el exceso de peso es una crisis de salud pública:  
+Según la Encuesta Demográfica y de Salud Familiar 2021, el 36,9 % de las personas de 15 años a más presenta sobrepeso y el 25,8 % sufre obesidad, lo que equivale a unos 15 millones de peruanos (62 % de la población adulta) afectados por estas condiciones. La aplicación está diseñada para poder llevar una alimentación saludable de la manera más cómoda posible y así fomentar la adherencia a este tipos de dietas y uso de la aplicación.
+
 
 #### 1.2.2. Lean UX Process
 
@@ -594,7 +589,7 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
 - ¿Cómo verificas que tus pacientes siguen lo que les recomiendas? ¿Te gustaría mejorar ese proceso?  
 - ¿Qué opinas sobre el uso de apps por parte de los pacientes? ¿Crees que ayudan o dificultan el proceso?  
 - ¿Qué funcionalidades te gustaría ver en una plataforma que puedas usar junto a tus pacientes?  
-- ¿Recomendarías NutriSmart si mejora la adherencia y simplifica el trabajo contigo? ¿Qué condiciones tendría que cumplir? 
+- ¿Recomendarías Alimentate+ si mejora la adherencia y simplifica el trabajo contigo? ¿Qué condiciones tendría que cumplir? 
       
 
 
@@ -608,7 +603,7 @@ En esta sección de preguntas, nuestro objetivo es comprender mejor las necesida
   <img src="./assets/entrevistas/entrevista1.png" alt="entrevista-1" width="400">
 </p>
 
-Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar NutriSmart si es clara, adaptable y confiable.
+Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora mucho la alimentación por su impacto físico y emocional. Se actualiza constantemente y usa Excel, WhatsApp y apps como Yazio para armar planes, aunque reconoce que no son herramientas del todo eficientes. Le cuesta asegurar que sus pacientes sigan las recomendaciones y busca una forma más práctica de hacer seguimiento. Cree que las apps pueden ayudar si son simples y útiles. Le gustaría una plataforma donde pueda personalizar planes, dar seguimiento fácil y comunicarse con sus pacientes. Estaría dispuesto a recomendar Alimentate+ si es clara, adaptable y confiable.
 
 <div align="center">
 
@@ -618,7 +613,7 @@ Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora m
 | **Entrevistado**  | Giorgio Marzouk Awad Vargas                |
 | **Edad**          | 22 años                                    |
 | **Duración**      | 5:10 minutos                               |
-| **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
+| **Enlace**        | [Ver entrevista](https://youtu.be/5ltDs5CbKpQ?si=zXwW0IaTbj3elOdZ) |
 
 </div>
 
@@ -687,20 +682,20 @@ Mathias, un estudiante universitario, considera muy importante la alimentación 
 - **Entrevista #5**
 
 <p align="center">
-  <img src="./assets/entrevistas/" alt="entrevista-5" width="400">
+  <img src="./assets/entrevistas/entrevista5.png" alt="entrevista-5" width="400">
 </p>
 
-Resumen
+Antonella tiene 19 años, es estudiante universitaria y considera que la alimentación es importante para mantener un buen rendimiento, especialmente bajo estrés académico. No suele buscar información sobre nutrición de forma activa, sino que se guía por contenidos que encuentra casualmente en redes sociales como TikTok. No planifica sus comidas, ya que en su casa lo hace su abuela, aunque reconoce que su alimentación es más variada gracias a ella. Suele comer fuera los fines de semana y a veces pide delivery a mitad de semana. Su objetivo personal es reducir su porcentaje de grasa corporal y mantenerse saludable. Ha probado apps de nutrición, pero tuvo una mala experiencia debido a la falta de claridad y funcionalidad en versiones gratuitas. Para que una app le resulte útil, le gustaría que se adaptara a los alimentos típicos de su país. Estaría dispuesta a pagar por una versión premium si la app ofrece un acompañamiento personalizado y cercano, similar al trato con un nutricionista real.
 
 <div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
-| **Entrevistador** |              |
-| **Entrevistado**  |             |
-| **Edad**          | años                                    |
-| **Duración**      | minutos                               |
-| **Enlace**        | [Ver entrevista]() |
+| **Entrevistador** | Fabrizio Alberto Paredes Santos             |
+| **Entrevistado**  |  Antonella Patricia Araujo Vargas           |
+| **Edad**          | 19 años                                    |
+| **Duración**      | 4:29 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/w4H7r9i8s1U) |
 
 </div>
 
@@ -726,21 +721,27 @@ Resumen
 
 #### 2.2.3. Análisis de entrevistas
 
-- **Segmento Objetivo: Profesionales de la Salud**
-  Este análisis se basa en las respuestas de tres nutricionistas entrevistados.
+**Segmento Profesionales de la salud**
 
-  - Importancia de la Alimentación: El 100% de los profesionales encuestados considera la alimentación como fundamental o primordial tanto para su bienestar personal como para su trabajo con pacientes, reconociendo su impacto en la salud física y mental.
+Las entrevistas realizadas reflejan que los nutricionistas valoran profundamente la alimentación como un pilar de la salud integral, tanto en su vida personal como en su práctica profesional. Todos destacan la importancia de actualizarse constantemente para brindar un mejor servicio a sus pacientes, reconociendo también las limitaciones de las herramientas actuales que utilizan (como Excel, WhatsApp y apps generales). Además, coinciden en que mejorar el seguimiento de los pacientes es un desafío central que resolverían con una plataforma intuitiva, personalizada y segura. Esta visión unificada demuestra una necesidad clara de soluciones digitales más especializadas en su campo.
 
-  - Actualización y Herramientas Actuales: Los tres profesionales se mantienen activos en la búsqueda de información y herramientas para mejorar la alimentación, con una frecuencia que varía desde semanal hasta casi diaria. Actualmente, utilizan una combinación de herramientas no especializadas (100% mencionan Excel y WhatsApp) y software nutricional específico (67% mencionan Nutrium o Dietowin), reconociendo las limitaciones de las herramientas no especializadas en términos de eficiencia y seguimiento.
+<p align="center">
+  <img src="./assets/recursos/grafico1.png" alt="grafico1" width="400">
+</p>
+<p align="center">
+  <img src="./assets/recursos/grafico2.png" alt="grafico2" width="400">
+</p>
 
-  - Desafíos en la Personalización y Seguimiento: El 100% de los nutricionistas experimenta dificultades para personalizar completamente los planes alimenticios, principalmente debido a la falta de tiempo y la complejidad de integrar información clínica, preferencias y limitaciones de los pacientes. Además, el 100% encuentra desafíos en el seguimiento de la adherencia de los pacientes a las recomendaciones, utilizando métodos como entrevistas, mensajes o fotos, pero reconociendo la dificultad de obtener información precisa y constante.
+**Segmento Jóvenes adultos interesados en mejorar su alimentación**
 
-  - Opinión sobre Apps y Deseos para una Plataforma: Los tres profesionales tienen una opinión positiva sobre el potencial de las apps para ayudar a los pacientes, siempre y cuando sean fáciles de usar y no abrumadoras. Existe un consenso del 100% en la necesidad de una plataforma que facilite la personalización de planes, el seguimiento del progreso en tiempo real y la comunicación directa con los pacientes. Funcionalidades deseadas incluyen registro de comidas, visualización de métricas y herramientas de ajuste remoto de planes.
+Las entrevistas con jóvenes adultos revelan que valoran la alimentación como parte importante de su bienestar, aunque no suelen buscar activamente información para mejorarla ni planifican sus comidas semanalmente. La mayoría depende de decisiones espontáneas o del entorno familiar. Sin embargo, tienen un interés latente en herramientas digitales que les ofrezcan soluciones personalizadas, fáciles de usar y adaptadas a sus costumbres locales. También muestran disposición a pagar por versiones premium si éstas proporcionan acompañamiento cercano y apoyo en sus metas nutricionales.
 
-  - Disposición a Recomendar NutriSmart (o similar): El 100% de los nutricionistas estaría dispuesto a recomendar una plataforma como NutriSmart (o Alimentate+) si esta demuestra ser clara/intuitiva, adaptable/personalizable y confiable. Además, valoran que la plataforma ahorre tiempo en la gestión de los pacientes y mejore la adherencia a los planes nutricionales.
-
-- **Segmento Objetivo: Jovenes Adultos que buscan mejores habitos alimenticios**
-
+<p align="center">
+  <img src="./assets/recursos/grafico3.png" alt="grafico3" width="400">
+</p>
+<p align="center">
+  <img src="./assets/recursos/grafico4.png" alt="grafico4" width="400">
+</p>
 
 
 ### 2.3. Needfinding
@@ -2047,6 +2048,21 @@ Mobile:
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams1.png.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams2.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams3.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams4.png" alt="Context Diagram" width="700">
+</p>
 
 
 
@@ -2098,7 +2114,17 @@ Finalmente lo que caracteriza principalmente a la app
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+<p align="center">
+  <img src="./assets/recursos/user-flow-diagrams1.png" alt="Context Diagram" width="700">
+</p>
 
+<p align="center">
+  <img src="./assets/recursos/user-flow-diagrams2.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/user-flow-diagrams3.png" alt="Context Diagram" width="700">
+</p>
 
 ### 4.5. Web Applications Prototyping
 
@@ -2407,11 +2433,66 @@ La configuración de despliegue para **Aliméntate+** contempla mecanismos organ
 
 ##### 5.2.1.1. Sprint Planning 1
 
+En esta reunión de planificación del Sprint 1, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados del primer sprint. Este sprint se enfocará en desarrollar y desplegar la página de inicio del proyecto y se llevará a cabo durante dos semanas. El objetivo es proporcionar una base sólida para el despliegue en GitHub Pages, garantizando que el producto inicial esté accesible y funcional.
+
+| **Sprint #**                   | Sprint 1                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 10/04/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
+| **Sprint 1 Review Summary**    | En este caso recién se realizará el primer sprint                                                                                                                                                                                                 |
+| **Sprint 1 Retrospective Summary** | En este caso recién se realizará el primer sprint                                                                                                                                                                                             |
+| **Sprint 1 Goal**              | Nuestro enfoque está en desplegar el landing page. Creemos que proporcionará una plataforma de lanzamiento accesible y funcional para el proyecto a los stakeholders. Esto se confirmará cuando el sitio esté accesible a través de GitHub Pages. |
+| **Sprint 1 Velocity**          | El sprint está planificado para completarse en 14 días (2 semanas).                                                                                                                                                                               |
+| **Sum of Story Points**        |  
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Aspecto del Proyecto | Líder Principal | Colaboradores |
+|----------------------|-----------------|---------------|
+| Frontend (React - Landing Page) | Rodriguez, Sebastian | Todo el equipo |
+| Despliegue de Landing Page (GitHub Pages) | Rodriguez, Sebastian| Todo el equipo |
+| Documentación Técnica del Sprint (Informe, Diagramas, Diseño) | Todo el equipo | Todo el equipo |
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+
+| **Sprint 1**                  |                                |        |                                   |                                                                          |                        |                 |            |
+| ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+| US-19                         | Conocer la propuesta de valor  | T-01   | Diseñar sección de propuesta de valor | Crear una sección en la landing page que explique qué hace la app y cómo beneficia al usuario. | 2                     | Sebastian Rodriguez | Done |
+|                               |                                | T-02   | Implementar diseño en HTML/CSS    | Codificar la sección de propuesta de valor en la landing page.           | 1                    | Sebastian Rodriguez | Done    |
+| US-20                       | Acceder al registro o inicio de sesión | T-03 | Diseñar botones de registro e inicio de sesión | Crear botones destacados en la barra superior para registro e inicio de sesión. | 3                    | Jhon Galvez Chambi | Done |
+|                               |                                | T-04   | Implementar funcionalidad de redirección | Configurar los botones para redirigir a las páginas correspondientes.    | 3                      | Jhon Galvez Chambi | Done    |
+| US-21                      | Navegar entre secciones desde la barra | T-05 | Diseñar barra de navegación       | Crear una barra superior con enlaces a las secciones principales de la landing page. | 3                      | Jhon Galvez Chambi | Done |
+|                               |                                | T-06   | Implementar navegación interna    | Configurar enlaces para que dirijan a las secciones correspondientes dentro de la misma página. | 2                     | Jhon Galvez Chambi | Done    |
+| US-22                         | Ver resumen de beneficios      | T-07   | Diseñar sección de beneficios     | Crear una sección que muestre los beneficios de la app en tarjetas destacadas. | 2                     |  | Done |
+|                               |                                | T-08   | Implementar diseño en HTML/CSS    | Codificar la sección de beneficios en la landing page.                   | 2                    | Mathias Bueno Perales | Done    |
+| US-23                         | Navegar por los beneficios principales | T-09 | Diseñar navegación por beneficios | Crear un diseño que permita a los usuarios desplazarse fácilmente por los bloques de beneficios. | 1                      | Fabrizio Paredes Santos | Done |
+|                               |                                | T-10   | Implementar navegación en HTML/CSS | Codificar la funcionalidad de desplazamiento por los bloques de beneficios. | 4                      | Fabrizio Paredes Santos | Done    |
+| US-24                         | Visualizar testimonios         | T-11   | Diseñar sección de testimonios    | Crear una sección que muestre citas de usuarios con nombre, foto y experiencia. | 6                      | Sebastian Rodriguez | Done |
+|                               |                                | T-12   | Implementar diseño en HTML/CSS    | Codificar la sección de testimonios en la landing page.                  | 4                      | Sebastian Rodriguez | Done    |
+| US-25                         | Navegar desde el footer        | T-13   | Diseñar footer con enlaces        | Crear un pie de página con enlaces a secciones adicionales como "Política de privacidad" y "Contacto". | 5                      | Jhon Galvez Chambi | Done |
+|                               |                                | T-14   | Implementar funcionalidad de enlaces | Configurar los enlaces del footer para redirigir correctamente.          | 3                      | Jhon Galvez Chambi | Done    |
+| US-26                        | Acceder desde distintos dispositivos | T-15 | Diseñar landing responsive        | Asegurar que la landing page se adapte correctamente a dispositivos móviles y computadoras. | 8                      | Mathias Bueno Perales | Done |
+|                               |                                | T-16   | Implementar diseño responsive     | Codificar el diseño responsive utilizando media queries.                 | 6                      | Mathias Bueno Perales | Done    |
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+Durante este sprint, se implementaron y estilizaron correctamente las secciones fundamentales de la landing page de Alimentate+. El progreso se evidenció en los siguientes commits registrados en GitHub:
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| G4-Aplicaciones-Web/landing-page | develop    | 5fbe73d                      | feat: merge hacia develop con los componentes de la barra de navegacion      | feat: agregar componentes de la barra de navegacion   | 26/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    |  ed5bf13                      | feat:agregando footer y testimonios     | -    | 27/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    | 38788ee                     | feat: adding HomePage and Home         | -        | 27/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    | codigo-sha                      | f-           | -                              | 27/04/2025               |
+| G4-Aplicaciones-Web/landing-page | develop    | codigosha                      | -        |  -        | 27/04/2025               |
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -2424,6 +2505,13 @@ La configuración de despliegue para **Aliméntate+** contempla mecanismos organ
 <hr>
 
 ## Conclusiones
+
+- Durante el desarrollo de Alimentate+, se ha logró identificar y comprender en profundidad a nuestros segmento objetivo: personas adultas peruanas afectadas por el sobrepeso y la obesidad, personas con objetivos de salud o de simplemente llevar un estilo de vida más saludable. Esta comprensión ha permitido adaptar la aplicación para fomentar hábitos alimenticios saludables de forma práctica, cómoda y accesible, con el fin de mejorar la salud y la calidad de vida de los usuarios.
+
+- Durante el análisis del problema, Alimentate+ ha demostrado ser una alternativa diferenciada frente a otras soluciones genéricas, al enfocarse en la realidad local y en los retos específicos que enfrentan los peruanos para mantener una dieta equilibrada y sobre todo mantenerla. A diferencia de otras plataformas, Alimentate+ no solo proporciona planes alimenticios personalizados, sino que también busca fomentar la adherencia mediante recordatorios, seguimiento y recomendaciones adaptadas al contexto de cada usuario y sus preferencias personales.
+
+- Además, se hace énfasis en la importancia de adaptar Alimentate+ a los hábitos culturales, condiciones económicas y necesidades nutricionales de la población peruana. Esta estrategia no solo mejora la experiencia de uso, sino que también refuerza la efectividad de la aplicación como una herramienta de cambio de hábitos y prevención de enfermedades relacionadas con la alimentación.
+
 
 <hr>
 
