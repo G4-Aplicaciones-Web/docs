@@ -1187,6 +1187,80 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       </td>
       <td>EP-05</td>
     </tr>
+    <tr>
+      <td>US-19</td>
+      <td>Conocer la propuesta de valor</td>
+      <td>Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que ingreso a la landing, <i>When</i> visualizo la parte superior, <i>Then</i> leo un título claro y un subtítulo explicativo.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-20</td>
+      <td>Acceder al registro o inicio de sesión</td>
+      <td>Como visitante, quiero poder iniciar sesión o registrarme desde la barra superior para empezar a usar la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en el botón "Iniciar sesión", <i>When</i> este me redirige, <i>Then</i> llego a la página de login.<br>
+        <b>Escenario 2:</b> <i>Given</i> que hago clic en "Registrarse", <i>When</i> este me redirige, <i>Then</i> llego al formulario de registro.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-21</td>
+      <td>Navegar entre secciones desde la barra</td>
+      <td>Como visitante, quiero usar la barra superior para moverme a distintas secciones de la landing para explorar el contenido rápidamente.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en un enlace del menú superior, <i>When</i> este se refiere a una sección de la misma página, <i>Then</i> soy dirigido automáticamente a dicha sección.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-22</td>
+      <td>Ver resumen de beneficios</td>
+      <td>Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que accedo a la landing page, <i>When</i> hago scroll a la sección de beneficios, <i>Then</i> visualizo tarjetas con los puntos destacados.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-23</td>
+      <td>Navegar por los beneficios principales</td>
+      <td>Como visitante, quiero navegar fácilmente por la sección de beneficios para conocer todas las ventajas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago scroll en la página, <i>When</i> paso por cada bloque de beneficios, <i>Then</i> veo textos e imágenes que explican las funcionalidades.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-24</td>
+      <td>Visualizar testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios para confiar en la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que llegó a la sección de testimonios, <i>When</i> visualizó las citas de usuarios, <i>Then</i> puedo ver nombre, foto y experiencia de cada uno.
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-25</td>
+      <td>Navegar desde el footer</td>
+      <td>Como visitante, quiero que los enlaces del pie de página funcionen correctamente para poder acceder a información adicional sobre la app.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que hago clic en un enlace del footer, <i>When</i> este está correctamente configurado, <i>Then</i> soy redirigido a la sección o página correspondiente (por ejemplo, "Política de privacidad", "Contacto", etc.).
+      </td>
+      <td>EP-06</td>
+    </tr>
+    <tr>
+      <td>US-26</td>
+      <td>Acceder desde distintos dispositivos</td>
+      <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que accedo desde un dispositivo móvil, <i>When</i> cargo la landing, <i>Then</i> el diseño se adapta correctamente.<br>
+        <b>Escenario 2:</b> <i>Given</i> que accedo desde una computadora, <i>When</i> navego la landing, <i>Then</i> los elementos se ajustan al tamaño de pantalla.
+      </td>
+      <td>EP-06</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1214,6 +1288,11 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 
   - Funcionalidades para soporte técnico, notificaciones, y herramientas del profesional para seguimiento de usuarios.
   - Historias relacionadas: US13, US14, US17 y US18
+
+- **Epica 06: Landing Page**
+
+  - Funcionalidades para la visualizacion de la landing page, navegacion a traves de ella e informacion
+  - Historias relacionadas: US19, US20, US21, US22, US23, US24, US25, US26
 
 ### 3.3. Impact Mapping
 
