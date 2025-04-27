@@ -214,8 +214,8 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** Realicé el General Style Guidelines, Web Style Guidelines, Landing page mockup y entrevista para el segmento de nutricionista. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** En esta entrega me aseguré de avanzar mi parte del proyecto de manera oportuna, lo cual permitió mantener el ritmo de trabajo del equipo. Además, apoyé a mis compañeros revisando sus avances y brindándoles sugerencias para mejorar ciertos apartados de la documentación. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** Me comprometí a cumplir puntualmente con las tareas que me fueron asignadas, contribuyendo al cumplimiento de las metas del equipo. También participé en reuniones donde apoyé al resto de mis compañeros, ofreciendo ayuda y recomendaciones para coordinar mejor el avance del proyecto. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
 
 <hr>
 
@@ -311,7 +311,7 @@ La razón principal es la creciente demanda de herramientas que permitan a las p
 Con una plataforma donde los usuarios crean perfiles personalizados, ingresando datos sobre su salud, restricciones alimenticias y preferencias. Con esta información, el sistema genera planes nutricionales automatizados e inteligentes, ajustables según el progreso del usuario. 
 
 **How Much:**
-En el Perú, el exceso de peso es una crisis de salud pública:  
+- En el Perú, el exceso de peso es una crisis de salud pública:  
 Según la Encuesta Demográfica y de Salud Familiar 2021, el 36,9 % de las personas de 15 años a más presenta sobrepeso y el 25,8 % sufre obesidad, lo que equivale a unos 15 millones de peruanos (62 % de la población adulta) afectados por estas condiciones. La aplicación está diseñada para poder llevar una alimentación saludable de la manera más cómoda posible y así fomentar la adherencia a este tipos de dietas y uso de la aplicación.
 
 
@@ -613,7 +613,7 @@ Giorgio es un nutricionista recién egresado que ya atiende pacientes y valora m
 | **Entrevistado**  | Giorgio Marzouk Awad Vargas                |
 | **Edad**          | 22 años                                    |
 | **Duración**      | 5:10 minutos                               |
-| **Enlace**        | [Ver entrevista](https://youtu.be/2t0KyeJOKvE) |
+| **Enlace**        | [Ver entrevista](https://youtu.be/5ltDs5CbKpQ?si=zXwW0IaTbj3elOdZ) |
 
 </div>
 
@@ -682,20 +682,20 @@ Mathias, un estudiante universitario, considera muy importante la alimentación 
 - **Entrevista #5**
 
 <p align="center">
-  <img src="./assets/entrevistas/" alt="entrevista-5" width="400">
+  <img src="./assets/entrevistas/entrevista5.png" alt="entrevista-5" width="400">
 </p>
 
-Resumen
+Antonella tiene 19 años, es estudiante universitaria y considera que la alimentación es importante para mantener un buen rendimiento, especialmente bajo estrés académico. No suele buscar información sobre nutrición de forma activa, sino que se guía por contenidos que encuentra casualmente en redes sociales como TikTok. No planifica sus comidas, ya que en su casa lo hace su abuela, aunque reconoce que su alimentación es más variada gracias a ella. Suele comer fuera los fines de semana y a veces pide delivery a mitad de semana. Su objetivo personal es reducir su porcentaje de grasa corporal y mantenerse saludable. Ha probado apps de nutrición, pero tuvo una mala experiencia debido a la falta de claridad y funcionalidad en versiones gratuitas. Para que una app le resulte útil, le gustaría que se adaptara a los alimentos típicos de su país. Estaría dispuesta a pagar por una versión premium si la app ofrece un acompañamiento personalizado y cercano, similar al trato con un nutricionista real.
 
 <div align="center">
 
 | Detalle          | Información                                |
 |------------------|--------------------------------------------|
-| **Entrevistador** |              |
-| **Entrevistado**  |             |
-| **Edad**          | años                                    |
-| **Duración**      | minutos                               |
-| **Enlace**        | [Ver entrevista]() |
+| **Entrevistador** | Fabrizio Alberto Paredes Santos             |
+| **Entrevistado**  |  Antonella Patricia Araujo Vargas           |
+| **Edad**          | 19 años                                    |
+| **Duración**      | 4:29 minutos                               |
+| **Enlace**        | [Ver entrevista](https://youtu.be/w4H7r9i8s1U) |
 
 </div>
 
@@ -721,21 +721,27 @@ Resumen
 
 #### 2.2.3. Análisis de entrevistas
 
-- **Segmento Objetivo: Profesionales de la Salud**
-  Este análisis se basa en las respuestas de tres nutricionistas entrevistados.
+**Segmento Profesionales de la salud**
 
-  - Importancia de la Alimentación: El 100% de los profesionales encuestados considera la alimentación como fundamental o primordial tanto para su bienestar personal como para su trabajo con pacientes, reconociendo su impacto en la salud física y mental.
+Las entrevistas realizadas reflejan que los nutricionistas valoran profundamente la alimentación como un pilar de la salud integral, tanto en su vida personal como en su práctica profesional. Todos destacan la importancia de actualizarse constantemente para brindar un mejor servicio a sus pacientes, reconociendo también las limitaciones de las herramientas actuales que utilizan (como Excel, WhatsApp y apps generales). Además, coinciden en que mejorar el seguimiento de los pacientes es un desafío central que resolverían con una plataforma intuitiva, personalizada y segura. Esta visión unificada demuestra una necesidad clara de soluciones digitales más especializadas en su campo.
 
-  - Actualización y Herramientas Actuales: Los tres profesionales se mantienen activos en la búsqueda de información y herramientas para mejorar la alimentación, con una frecuencia que varía desde semanal hasta casi diaria. Actualmente, utilizan una combinación de herramientas no especializadas (100% mencionan Excel y WhatsApp) y software nutricional específico (67% mencionan Nutrium o Dietowin), reconociendo las limitaciones de las herramientas no especializadas en términos de eficiencia y seguimiento.
+<p align="center">
+  <img src="./assets/recursos/grafico1.png" alt="grafico1" width="400">
+</p>
+<p align="center">
+  <img src="./assets/recursos/grafico2.png" alt="grafico2" width="400">
+</p>
 
-  - Desafíos en la Personalización y Seguimiento: El 100% de los nutricionistas experimenta dificultades para personalizar completamente los planes alimenticios, principalmente debido a la falta de tiempo y la complejidad de integrar información clínica, preferencias y limitaciones de los pacientes. Además, el 100% encuentra desafíos en el seguimiento de la adherencia de los pacientes a las recomendaciones, utilizando métodos como entrevistas, mensajes o fotos, pero reconociendo la dificultad de obtener información precisa y constante.
+**Segmento Jóvenes adultos interesados en mejorar su alimentación**
 
-  - Opinión sobre Apps y Deseos para una Plataforma: Los tres profesionales tienen una opinión positiva sobre el potencial de las apps para ayudar a los pacientes, siempre y cuando sean fáciles de usar y no abrumadoras. Existe un consenso del 100% en la necesidad de una plataforma que facilite la personalización de planes, el seguimiento del progreso en tiempo real y la comunicación directa con los pacientes. Funcionalidades deseadas incluyen registro de comidas, visualización de métricas y herramientas de ajuste remoto de planes.
+Las entrevistas con jóvenes adultos revelan que valoran la alimentación como parte importante de su bienestar, aunque no suelen buscar activamente información para mejorarla ni planifican sus comidas semanalmente. La mayoría depende de decisiones espontáneas o del entorno familiar. Sin embargo, tienen un interés latente en herramientas digitales que les ofrezcan soluciones personalizadas, fáciles de usar y adaptadas a sus costumbres locales. También muestran disposición a pagar por versiones premium si éstas proporcionan acompañamiento cercano y apoyo en sus metas nutricionales.
 
-  - Disposición a Recomendar Alimentate+ (o similar): El 100% de los nutricionistas estaría dispuesto a recomendar una plataforma como Alimentate+ (o Alimentate+) si esta demuestra ser clara/intuitiva, adaptable/personalizable y confiable. Además, valoran que la plataforma ahorre tiempo en la gestión de los pacientes y mejore la adherencia a los planes nutricionales.
-
-- **Segmento Objetivo: Jovenes Adultos que buscan mejores habitos alimenticios**
-
+<p align="center">
+  <img src="./assets/recursos/grafico3.png" alt="grafico3" width="400">
+</p>
+<p align="center">
+  <img src="./assets/recursos/grafico4.png" alt="grafico4" width="400">
+</p>
 
 
 ### 2.3. Needfinding
