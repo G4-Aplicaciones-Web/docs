@@ -2475,6 +2475,47 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+### 🛠️ Pasos para el despliegue en GitHub Pages
+
+#### 1. Instalación de la dependencia `gh-pages`
+
+Se instaló la dependencia necesaria para el despliegue usando el siguiente comando:
+```bash
+npm install gh-pages --save-dev
+```
+Luego se añadieron los scripts de despliegue dentro del bloque scripts:
+```bash
+json
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+```
+💡 Reemplaza <usuario> y <nombre-repo> con tu nombre de usuario y nombre del repositorio.
+
+3. Ejecución del despliegue
+Para realizar el despliegue, se ejecutó el siguiente comando:
+```bash
+npm run deploy
+```
+Esto genera la carpeta dist/ y sube su contenido a la rama gh-pages.
+
+<p align="center">
+  <img src="assets/recursos/deploy-evidence.png" alt="json-deploy" width="750">
+</p>
+
+<p align="center">
+  <img src="assets/recursos/deploy-evidence2.png" alt="json-deploy" width="750">
+</p>
+
+<p align="center">
+  <img src="assets/recursos/deploy-evidence3.png" alt="json-deploy" width="750">
+</p>
+
+Link deploy landing page:
+[Landing Page](https://g4-aplicaciones-web.github.io/landing-page/)
+
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <hr>
