@@ -2691,32 +2691,24 @@ En esta matriz, se asignaron roles de liderazgo y colaboración para garantizar 
 
 ##### 5.2.2.3. Sprint Backlog 2
 
-El objetivo principal del Sprint 2 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+El objetivo principal del Sprint 2 es desarrollar y desplegar el front-end que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
 
-| **Sprint 1**   |                                |        |                                   |                                                                          |                        |                 |            |
+| **Sprint 2**   |                                |        |                                   |                                                                          |                        |                 |            |
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-| US-19                         | Conocer la propuesta de valor  | T-01   | Diseñar sección de propuesta de valor | Crear una sección en la landing page que explique qué hace la app y cómo beneficia al usuario. | 2                     | Sebastian Rodriguez | Done |
-|                               |                                | T-02   | Implementar diseño en HTML/CSS    | Codificar la sección de propuesta de valor en la landing page.           | 1                    | Sebastian Rodriguez | Done    |
-| US-20                       | Acceder al registro o inicio de sesión | T-03 | Diseñar botones de registro e inicio de sesión | Crear botones destacados en la barra superior para registro e inicio de sesión. | 3                    | Jhon Galvez Chambi | Done |
-|                               |                                | T-04   | Implementar funcionalidad de redirección | Configurar los botones para redirigir a las páginas correspondientes.    | 3                      | Jhon Galvez Chambi | Done    |
-| US-21                      | Navegar entre secciones desde la barra | T-05 | Diseñar barra de navegación       | Crear una barra superior con enlaces a las secciones principales de la landing page. | 3                      | Jhon Galvez Chambi | Done |
-|                               |                                | T-06   | Implementar navegación interna    | Configurar enlaces para que dirijan a las secciones correspondientes dentro de la misma página. | 2                     | Jhon Galvez Chambi | Done    |
-| US-22                         | Ver resumen de beneficios      | T-07   | Diseñar sección de beneficios     | Crear una sección que muestre los beneficios de la app en tarjetas destacadas. | 2                     |  | Done |
-|                               |                                | T-08   | Implementar diseño en HTML/CSS    | Codificar la sección de beneficios en la landing page.                   | 2                    | Mathias Bueno Perales | Done    |
-| US-23                         | Navegar por los beneficios principales | T-09 | Diseñar navegación por beneficios | Crear un diseño que permita a los usuarios desplazarse fácilmente por los bloques de beneficios. | 1                      | Fabrizio Paredes Santos | Done |
-|                               |                                | T-10   | Implementar navegación en HTML/CSS | Codificar la funcionalidad de desplazamiento por los bloques de beneficios. | 4                      | Fabrizio Paredes Santos | Done    |
-| US-24                         | Visualizar testimonios         | T-11   | Diseñar sección de testimonios    | Crear una sección que muestre citas de usuarios con nombre, foto y experiencia. | 6                      | Sebastian Rodriguez | Done |
-|                               |                                | T-12   | Implementar diseño en HTML/CSS    | Codificar la sección de testimonios en la landing page.                  | 4                      | Sebastian Rodriguez | Done    |
-| US-25                         | Navegar desde el footer        | T-13   | Diseñar footer con enlaces        | Crear un pie de página con enlaces a secciones adicionales como "Política de privacidad" y "Contacto". | 5                      | Jhon Galvez Chambi | Done |
-|                               |                                | T-14   | Implementar funcionalidad de enlaces | Configurar los enlaces del footer para redirigir correctamente.          | 3                      | Jhon Galvez Chambi | Done    |
-| US-26                        | Acceder desde distintos dispositivos | T-15 | Diseñar landing responsive        | Asegurar que la landing page se adapte correctamente a dispositivos móviles y computadoras. | 8                      | Mathias Bueno Perales | Done |
-|                               |                                | T-16   | Implementar diseño responsive     | Codificar el diseño responsive utilizando media queries.                 | 6                      | Mathias Bueno Perales | Done    |
+| US-19                         | Conocer la propuesta de valor  | T-16   | Desarrollar propuesta de valor de landing page | Convertir nuestros elementos de propuesta de valor en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
+| US-20                       | Acceder al registro o inicio de sesión | T-17 | Maquetar el login de la aplicacion | Maquetar layout principal para el inicio de sesion, incluyendo un formulario | 3                    | Jhon Galvez Chambi | Done |
+| US-20                       | Acceder al registro o inicio de sesión | T-18 | Desarrollo de la logica de inicio de sesion | Implementar conexion de login con servicios de autenticacion con JSON-SERVER | 3                    | Jhon Galvez Chambi | Done |
+| US-21                      | Navegar entre secciones desde la barra | T-19 | Desarrollar el header de la landing page       | Convertir nuestros elementos del header en componentes de Vue | 3                      | Jhon Galvez Chambi | Done |
+| US-04                         | Seccion Plan de Comidas      | T-20   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
+| US-22                         | Ver resumen de beneficios | T-21 | Desarrollar la seccion de beneficios | Convertir los elementos de la seccion de beneficios en componentes de Vue | 1                      | Fabrizio Paredes Santos | Done |
+| US-24                         | Seccion de Recetas         | T-22   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      | Sebastian Rodriguez | Done |
+| US-25                         | Navegar desde el footer        | T-23   | Desarrollar el footer de la landing page        | Convertir nuestros elemento footer en componentes de Vue | 5                      | Jhon Galvez Chambi | Done |
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
-Durante este sprint, se implementaron y estilizaron correctamente las secciones fundamentales de la landing page de Alimentate+. El progreso se evidenció en los siguientes commits registrados en GitHub:
+Durante este sprint, se implementaron y estilizaron correctamente las secciones fundamentales del front-end de Alimentate+. El progreso se evidenció en los siguientes commits registrados en GitHub:
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
@@ -2730,6 +2722,8 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante la realizacion de este sprint, completamos el desarrollo de la landing page y una primera version del front-end de nuestro servicio. En esta seccion se resume lo alcanzado en relacion a la documentacion del servicio web asociado a la landing page y front-end.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
