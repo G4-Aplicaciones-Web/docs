@@ -2254,6 +2254,14 @@ Finalmente lo que caracteriza principalmente a la app
 
 ### 4.5. Web Applications Prototyping
 
+En esta sección se muestran los prototipos de la interfaz de usuario, que incorporan simulaciones tanto de interacción como de navegación. Las decisiones relacionadas con la interacción se basan en criterios fundamentales como la usabilidad, la accesibilidad y la adaptabilidad a diversos dispositivos.
+
+<p align="center">
+    <img src="assets/recursos/WebProtype.png" alt="Prototype" width=80%/>
+</p>
+
+Link: https://youtu.be/JVdZbbtmtj4
+
 
 
 ### 4.6. Domain-Driven Software Architecture
