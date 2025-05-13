@@ -2079,25 +2079,118 @@ Mobile:
   <img src="./assets/recursos/wireframe4.png" alt="Context Diagram" width="700">
 </p>
 
+<p align="center">
+  <img src="./assets/recursos/wireframe5.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe6.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe7.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe8.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe9.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe10.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe11.png" alt="Context Diagram" width="700">
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+En esta sección se muestran los wireflows diseñados para cada user goal, teniendo en cuenta los respectivos User Persona. Cada diagrama ilustra las interacciones y transiciones de pantalla a lo largo de los flujos habituales, utilizando las herramientas apropiadas para representar el estado resultante después de cada paso.
+
+
+User goal: Login de la aplicación, como usuario quiero ingresar a la app teniendo una cuenta y visualizar sus funcionalidades.
 
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams1.png" alt="Context Diagram" width="700">
 </p>
 
+User goal: Registro, como nuevo usuario quiero poder registrarme en la app con una nueva cuenta.
+
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams2.png" alt="Context Diagram" width="700">
 </p>
+
+User goal: Preferencias, como usuario quiero ingresar a las preferencias desde el HomePage.
 
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams3.png" alt="Context Diagram" width="700">
 </p>
 
+User goal: Progreso, como usuario quiero ingresar y visualizar mi progreso.
+
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams4.png" alt="Context Diagram" width="700">
 </p>
 
-https://www.youtube.com/watch?v=cm6ngYGcnHM
+User goal: Registrar comida, como usuario quiero registar mis comidas como completadas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams5.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Escoger el ritmo de mi plan, como usuario quiero escoger el ritmo que quiero para mi plan.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams6.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Gestión médica y alimenticia, como usuario quiero agregar condiciones, restricciones o preferencias alimenticias.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams7.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Días libres, como usuario quiero gestionar los días libres para mis cheat meals.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams8.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Customizar horario, como usuario quiero manejar el horario de mis comidas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams9.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Recordatorios de comida, como usuario quiero crear recordatorios personalizados para mis comidas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams10.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Sugerencias, como usuario quiero ingresar al apartado de sugerencias desde el HomePage.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams11.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Snack del día, como usuario quiero visualizar los snacks sugeridos para mi día.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams12.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Desayuno, como usuario quiero acceder a mi receta del desayuno junto a los ingredientes y caracteristicas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams13.png" alt="Context Diagram" width="700">
+</p>
+
+
 
 #### 4.4.3. Web Applications Mock-ups
 
