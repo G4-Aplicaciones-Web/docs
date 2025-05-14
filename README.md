@@ -2233,7 +2233,7 @@ Finalmente lo que caracteriza principalmente a la app
 | Plan de comidas |
 |-----------------|
 | Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso semanal y ver el menú de cada día y de cada comida, teniendo la opción de ver los ingredientes, generar una nueva receta o descargarla. |
-| <img src="./assets/recursos/plan.png" height="600"> |
+| <img src="./assets/recursos/plan.png" height="600"> <img src="./assets/recursos/plan2.png" height="600">|
 
 [Visualizar Mock-ups](https://www.figma.com/design/EMo3z91MYG8WaRjNXG7MkH/Untitled--Copy-?node-id=0-1&t=V6RraX8FY4UXc8VG-1)
 
@@ -2257,7 +2257,7 @@ Finalmente lo que caracteriza principalmente a la app
 En esta sección se muestran los prototipos de la interfaz de usuario, que incorporan simulaciones tanto de interacción como de navegación. Las decisiones relacionadas con la interacción se basan en criterios fundamentales como la usabilidad, la accesibilidad y la adaptabilidad a diversos dispositivos.
 
 <p align="center">
-    <img src="assets/recursos/WebProtype.png" alt="Prototype" width=80%/>
+    <img src="assets/recursos/WebPrototype.png" alt="Prototype" width=80%/>
 </p>
 
 Link: https://youtu.be/JVdZbbtmtj4
