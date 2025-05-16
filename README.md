@@ -245,8 +245,8 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** Me encargué de coordinar las actividades relacionadas con el desarrollo del Sprint 2 y la delegación de tareas. Asimismo, trabajé en conjunto con mis compañeros para la revisión y corrección de la entrega anterior. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> <br> **TP1:** Cada miembro del equipo asumió roles de liderazgo compartido en diferentes aspectos del proyecto, fomentando la toma de decisiones conjunta y asegurando que las responsabilidades fueran distribuidas equitativamente. Esto permitió mantener un enfoque claro hacia los objetivos del Sprint y fortaleció la cohesión del equipo. |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** Participé en la planificación de las actividades y metas para el Sprint 2, estableciendo comunicación con mis compañeros para reforzar el compromiso del equipo con los plazos de entrega. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. <br> <br> **TP1:** El equipo promovió un entorno inclusivo y colaborativo mediante reuniones virtuales regulares, donde se establecieron metas claras, se planificaron tareas específicas y se monitoreó el progreso. Este enfoque estructurado garantizó el cumplimiento de los objetivos del Sprint y reforzó la efectividad del trabajo en equipo. |
 
 <hr>
 
@@ -1295,6 +1295,26 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       </td>
       <td>EP-06</td>
     </tr>
+      <tr>
+      <td>US-27</td>
+      <td>Ver recetas preestablecidas</td>
+      <td>Como usuario, quiero ver algunas recetas ya creadas para guardar las que me interesen.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que entro a la app, <i>When</i> entro en la seccion de recetas, <i>Then</i> visualizo una lista con muchas recetas.<br>
+        <b>Escenario 2:</b> <i>Given</i> que me gusta una receta, <i>When</i> le doy a la opcion guardar, <i>Then</i> se descargara un archivo con la receta elegida.
+      </td>
+      <td>EP-07</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Ver Ingredientes de Recetas</td>
+      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> accedo a la descripcion de las comidas, <i>When</i> veo sus ingredientes, <i>Then</i> me aparecen todos los ingredientes de cada comida.<br>
+        <b>Escenario 2:</b> <i>Given</i> selecciono un ingrediente, <i>When</i> veo su descripcion, <i>Then</i> apareceran los nutrientes que aporta segun el ingrediente.
+      </td>
+      <td>EP-07</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1327,6 +1347,12 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 
   - Funcionalidades para la visualizacion de la landing page, navegacion a traves de ella e informacion
   - Historias relacionadas: US19, US20, US21, US22, US23, US24, US25, US26
+
+  - **Epica 07: Visualizacion Detallada**
+
+  - Funcionalidades para ver diversas secciones fundamenteles respecto a nuestro core de negocio
+  - Historias relacionadas: US27 y US28
+
 
 ### 3.3. Impact Mapping
 
@@ -1529,6 +1555,20 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       <td>US-26</td>
       <td>Acceder desde distintos dispositivos</td>
       <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>US-27</td>
+      <td>Ver recetas preestablecidas</td>
+      <td>Como usuario, quiero ver algunas recetas ya creadas para guardar las que me interesen.</td>
+      <td>5</td>
+    </tr>
+      <tr>
+      <td>28</td>
+      <td>US-28</td>
+      <td>Ver Ingredientes de Recetas</td>
+      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
       <td>5</td>
     </tr>
   </tbody>
@@ -2079,68 +2119,206 @@ Mobile:
   <img src="./assets/recursos/wireframe4.png" alt="Context Diagram" width="700">
 </p>
 
+<p align="center">
+  <img src="./assets/recursos/wireframe5.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe6.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe7.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe8.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe9.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe10.png" alt="Context Diagram" width="700">
+</p>
+
+<p align="center">
+  <img src="./assets/recursos/wireframe11.png" alt="Context Diagram" width="700">
+</p>
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+En esta sección se muestran los wireflows diseñados para cada user goal, teniendo en cuenta los respectivos User Persona. Cada diagrama ilustra las interacciones y transiciones de pantalla a lo largo de los flujos habituales, utilizando las herramientas apropiadas para representar el estado resultante después de cada paso.
+
+
+User goal: Login de la aplicación, como usuario quiero ingresar a la app teniendo una cuenta y visualizar sus funcionalidades.
 
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams1.png" alt="Context Diagram" width="700">
 </p>
 
+User goal: Registro, como nuevo usuario quiero poder registrarme en la app con una nueva cuenta.
+
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams2.png" alt="Context Diagram" width="700">
 </p>
+
+User goal: Preferencias, como usuario quiero ingresar a las preferencias desde el HomePage.
 
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams3.png" alt="Context Diagram" width="700">
 </p>
 
+User goal: Progreso, como usuario quiero ingresar y visualizar mi progreso.
+
 <p align="center">
   <img src="./assets/recursos/wireflow-diagrams4.png" alt="Context Diagram" width="700">
 </p>
 
-https://www.youtube.com/watch?v=cm6ngYGcnHM
+User goal: Registrar comida, como usuario quiero registar mis comidas como completadas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams5.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Escoger el ritmo de mi plan, como usuario quiero escoger el ritmo que quiero para mi plan.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams6.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Gestión médica y alimenticia, como usuario quiero agregar condiciones, restricciones o preferencias alimenticias.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams7.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Días libres, como usuario quiero gestionar los días libres para mis cheat meals.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams8.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Customizar horario, como usuario quiero manejar el horario de mis comidas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams9.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Recordatorios de comida, como usuario quiero crear recordatorios personalizados para mis comidas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams10.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Sugerencias, como usuario quiero ingresar al apartado de sugerencias desde el HomePage.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams11.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Snack del día, como usuario quiero visualizar los snacks sugeridos para mi día.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams12.png" alt="Context Diagram" width="700">
+</p>
+
+User goal: Desayuno, como usuario quiero acceder a mi receta del desayuno junto a los ingredientes y caracteristicas.
+
+<p align="center">
+  <img src="./assets/recursos/wireflow-diagrams13.png" alt="Context Diagram" width="700">
+</p>
+
 
 #### 4.4.3. Web Applications Mock-ups
+Pantalla de comienzo
+Esta es la pantalla de inicio que se muestra luego de instalar la app.
+<img src="./assets/recursos/start screen.png" height="500">
 
-| Pantalla de comienzo      | Registro o inicio de sesion |
-|-----------------|------------|
-| Esta es la pantalla de inicio que se muestra luego de instalar la app.| A continuación se visualiza la pantalla de registro o inicio de sesión, según sea el caso. |
-| <img src="./assets/recursos/start screen.png" height="500">| <img src="./assets/recursos/login and registration screen.png" height="500">|
+Registro o inicio de sesión
+A continuación se visualiza la pantalla de registro o inicio de sesión, según sea el caso.
+<img src="./assets/recursos/login and registration screen.png" height="500">
 
+Registro de usuario
+En el caso del registro se siguen los siguientes pasos:
 
-En el caso del registro se siguen los siguientes pasos: 
-| Datos personales    | Objetivos  | Restricciones |  Preferencias alimenticias                                       |
-|---------|-----------|-----------|-------------|
-| Se registran sus datos como correo, nombre, edad, talla, peso, etc.    | Luego se escogen los objetivos que se planean alcanzar.                   | Seguidamente se establecen restricciones en la dieta.                  | Finalmente se eligen preferencias alimenticias.                        |
-| <img src="./assets/recursos/register 1.png" height="500"> | <img src="./assets/recursos/register 2.png" height="500"> | <img src="./assets/recursos/register 3.png" height="500">  | <img src="./assets/recursos/register 4.png" height="500"> |
+Datos personales
+Se registran sus datos como correo, nombre, edad, talla, peso, etc.
+<img src="./assets/recursos/register 1.png" height="500">
 
-Luego del registro se redirigen a un pantalla de inicio desde donde se podera acceder a las capacidades de la aplicación
+Objetivos
+Luego se escogen los objetivos que se planean alcanzar.
+<img src="./assets/recursos/register 2.png" height="500">
 
-| Pantalla de inicio | Perfil de usuario | Customizar horario | Gestión médica y alimenticia | Ritmo del plan | Días libres |
-|--------------------|-------------------|---------------------|------------------------------|----------------|-------------|
-| Pantalla donde el usuario puede navegar hacia todas las funciones. | Se encuentran todos los datos registrados del usuario con opción a modificar. | Estableces las horas de las comidas. | Se agregan posibles restricciones o condiciones médicas y la preferencia alimenticia. | Escoges el ritmo de cómo seguirás el plan. | Escoges los días en los que no deseas seguir el plan. |
-| <img src="./assets/recursos/homeScreen.png" height="500"> | <img src="./assets/recursos/User profile.png" height="500"> | <img src="./assets/recursos/Customize schedule.png" height="500"> | <img src="./assets/recursos/Medical and dietary management.png" height="500"> | <img src="./assets/recursos/Plan pace.png" height="500"> | <img src="./assets/recursos/Free days.png" height="500"> |
+Restricciones
+Seguidamente se establecen restricciones en la dieta.
+<img src="./assets/recursos/registerv3.png" height="500">
 
-Desde la pantalla de inicio se puede observar el progreso dentro del plan y logros obtenidos hasta el momento
+Preferencias alimenticias
+Finalmente se eligen preferencias alimenticias.
+<img src="./assets/recursos/registerv4.png" height="500">
 
-| Progreso | Preferencias | Registrar comida |
-|----------|--------------|------------------|
-| Se puede visualizar el progreso, logros, un seguimiento de todo lo que se lleva y hasta opiniones de usuarios que llevan un plan similar. | Permite agregar platos e ingredientes preferidos para ser implementados en la generación del plan de comida. | Permite registrar las comidas del día. |
-| <img src="./assets/recursos/progress.png" height="500"> | <img src="./assets/recursos/preferences.png" height="500"> | <img src="./assets/recursos/register meal.png" height="500"> |
+Pantalla de inicio y navegación
+Luego del registro se redirige al usuario a una pantalla de inicio desde donde se puede acceder a todas las funcionalidades de la aplicación:
 
+Pantalla de inicio
+Pantalla donde el usuario puede navegar hacia todas las funciones.
+<img src="./assets/recursos/homeScreen.png" height="500">
 
-Dentro de la opciones en la pantalla principal en modo de botones se encuentran las siguientes
+Perfil de usuario
+Se encuentran todos los datos registrados del usuario con opción a modificar.
+<img src="./assets/recursos/User profile.png" height="500">
 
-| Recordatorios | Sugerencias | Snack del día |
-|---------------|-------------|----------------|
-| Permite colocar recordatorios de ciertas comidas, dejar una nota y establecer la categoría. | Ofrece sugerencias diarias según la dieta del día. | Dependiendo de la configuración, se te sugiere un snack diario adecuado a tus metas. |
-| <img src="./assets/recursos/reminder.png" height="500"> | <img src="./assets/recursos/suggestions.png" height="500"> | <img src="./assets/recursos/snack.png" height="500"> |
+Customizar horario
+Estableces las horas de las comidas.
+<img src="./assets/recursos/Customize schedule.png" height="500">
 
-Finalmente lo que caracteriza principalmente a la app
+Gestión médica y alimenticia
+Se agregan posibles restricciones o condiciones médicas y la preferencia alimenticia.
+<img src="./assets/recursos/Medical and dietary management.png" height="500">
 
-| Plan de comidas |
-|-----------------|
-| Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso semanal y ver el menú de cada día y de cada comida, teniendo la opción de ver los ingredientes, generar una nueva receta o descargarla. |
-| <img src="./assets/recursos/plan.png" height="600"> |
+Ritmo del plan
+Escoges el ritmo de cómo seguirás el plan.
+<img src="./assets/recursos/Plan pace.png" height="500">
+
+Días libres
+Escoges los días en los que no deseas seguir el plan.
+<img src="./assets/recursos/Free days.png" height="500">
+
+Funciones adicionales
+Progreso
+Se puede visualizar el progreso, logros, un seguimiento de todo lo que se lleva y hasta opiniones de usuarios que llevan un plan similar.
+<img src="./assets/recursos/progress.png" height="500">
+
+Preferencias
+Permite agregar platos e ingredientes preferidos para ser implementados en la generación del plan de comida.
+<img src="./assets/recursos/preferences.png" height="500">
+
+Registrar comida
+Permite registrar las comidas del día.
+<img src="./assets/recursos/register meal.png" height="500">
+
+Otras opciones desde la pantalla principal
+Recordatorios
+Permite colocar recordatorios de ciertas comidas, dejar una nota y establecer la categoría.
+<img src="./assets/recursos/reminder.png" height="500">
+
+Sugerencias
+Ofrece sugerencias diarias según la dieta del día.
+<img src="./assets/recursos/suggestions.png" height="500">
+
+Snack del día
+Dependiendo de la configuración, se te sugiere un snack diario adecuado a tus metas.
+<img src="./assets/recursos/snack.png" height="500">
+
+Plan de comidas
+Lo que caracteriza principalmente a la app es su capacidad para organizar un plan de comidas completo:
+
+Plan semanal
+Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso semanal y ver el menú de cada día y de cada comida, teniendo la opción de ver los ingredientes, generar una nueva receta o descargarla.
+<img src="./assets/recursos/plan.png" height="600">
+<img src="./assets/recursos/plan2.png" height="600">
 
 [Visualizar Mock-ups](https://www.figma.com/design/EMo3z91MYG8WaRjNXG7MkH/Untitled--Copy-?node-id=0-1&t=V6RraX8FY4UXc8VG-1)
 
@@ -2160,6 +2338,14 @@ Finalmente lo que caracteriza principalmente a la app
 </p>
 
 ### 4.5. Web Applications Prototyping
+
+En esta sección se muestran los prototipos de la interfaz de usuario, que incorporan simulaciones tanto de interacción como de navegación. Las decisiones relacionadas con la interacción se basan en criterios fundamentales como la usabilidad, la accesibilidad y la adaptabilidad a diversos dispositivos.
+
+<p align="center">
+    <img src="assets/recursos/WebPrototype.png" alt="Prototype" width=80%/>
+</p>
+
+Link: https://youtu.be/JVdZbbtmtj4
 
 
 
@@ -2520,16 +2706,64 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| G4-Aplicaciones-Web/landing-page | develop    | 5fbe73d                      | feat: merge hacia develop con los componentes de la barra de navegacion      | feat: agregar componentes de la barra de navegacion   | 26/04/2025               |
-| G4-Aplicaciones-Web/landing-page | develop    |  ed5bf13                      | feat:agregando footer y testimonios     | -    | 27/04/2025               |
-| G4-Aplicaciones-Web/landing-page | develop    | 38788ee                     | feat: adding HomePage and Home         | -        | 27/04/2025               |
-| G4-Aplicaciones-Web/landing-page | develop    | codigo-sha                      | f-           | -                              | 27/04/2025               |
-| G4-Aplicaciones-Web/landing-page | develop    | codigosha                      | -        |  -        | 27/04/2025               |
-
+| G4-Aplicaciones-Web/landing-page | develop  | 5fbe73d | feat: merge hacia develop con los componentes de la barra de navegacion   | feat: agregar componentes de la barra de navegacion   | 26/04/2025  |
+| G4-Aplicaciones-Web/landing-page | develop  | ed5bf13 | feat: add footer and testimonials components  | -  | 27/04/2025  |
+| G4-Aplicaciones-Web/landing-page | develop  | 38788ee | feat: adding HomePage and Home        | -  | 27/04/2025  |
+| G4-Aplicaciones-Web/landing-page | develop  | 041621a | feat: components "ComoFunciona", "CTA" and "ParaTi" created | -  | 27/04/2025  |
+| G4-Aplicaciones-Web/landing-page | develop  | 61796e7 | fix: tailwindcss config            | -  | 27/04/2025  |
+| G4-Aplicaciones-Web/landing-page | develop  | 61796e7 | feat: add dist folder for GitHub Pages deployment | -  | 27/04/2025  |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante este Sprint, el equipo logró implementar y desplegar una versión funcional de la landing page de Alimentate+. Esta incluye las principales vistas y secciones clave, como la propuesta de valor, beneficios destacados, testimonios de usuarios, barra de navegación, footer con enlaces funcionales, y un diseño completamente responsive que se adapta a dispositivos móviles y de escritorio. Además, se configuraron correctamente los botones de registro e inicio de sesión, así como la navegación interna entre secciones.
+
+El diseño y desarrollo se enfocaron en garantizar una experiencia de usuario fluida, moderna y accesible, destacando los valores y beneficios de la aplicación. La landing page fue desplegada exitosamente en GitHub Pages, asegurando su disponibilidad para los stakeholders y usuarios finales.
+
+A continuación, se presentan capturas de las principales vistas implementadas:
+
+- **Vista de la Propuesta de Valor**  
+  <p align="center">
+    <img src="assets/recursos/propuesta-valor.png" alt="Propuesta de Valor" width="750">
+  </p>
+
+- **Vista de Beneficios Destacados**  
+  <p align="center">
+    <img src="assets/recursos/beneficios-destacados.png" alt="Beneficios Destacados" width="750">
+  </p>
+
+- **Vista de Testimonios de Usuarios**  
+  <p align="center">
+    <img src="assets/recursos/testimonios-usuarios.png" alt="Testimonios de Usuarios" width="750">
+  </p>
+
+- **Vista del Footer con Enlaces Funcionales**  
+  <p align="center">
+    <img src="assets/recursos/footer-enlaces.png" alt="Footer con Enlaces" width="750">
+  </p>
+
+- **Vista Responsive en Dispositivos Móviles**  
+  <p align="center">
+    <img src="assets/recursos/responsive-mobile.png" alt="Vista Responsive" width="400">
+  </p>
+
+Para una demostración completa de la visualización y navegación logradas en este Sprint, puedes acceder al siguiente video:  
+[Demo del Landing Page](https://youtu.be/zX7gYMQQ83Y)
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En esta primera entrega, no se han especificado ni documentado los endpoints mediante OpenAPI, ya que el enfoque principal del equipo estuvo en el desarrollo y despliegue de la landing page. La documentación de los Web Services, incluyendo la relación de endpoints, sus acciones soportadas y ejemplos de interacción, será abordada en entregas posteriores, una vez que se avance en la implementación del backend y la integración con el frontend.
+
+En futuras iteraciones, esta sección incluirá:
+
+- Una tabla detallada con los endpoints documentados, indicando:
+  - Verbo HTTP (GET, POST, PUT, DELETE, PATCH).
+  - Sintaxis de llamada y parámetros aceptados.
+  - Ejemplo de request y response, con explicaciones claras.
+  - Enlaces a la documentación generada con OpenAPI.
+- Capturas de pantalla que evidencien la interacción con los endpoints utilizando datos de muestra.
+- URL del repositorio de Web Services y los IDs de los commits relacionados con la documentación.
+
+El equipo se compromete a priorizar la documentación de los Web Services en los próximos sprints para garantizar una integración efectiva y una experiencia de desarrollo colaborativa.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2576,7 +2810,39 @@ Link deploy landing page:
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Durante este Sprint, el equipo colaboró activamente en el desarrollo de la landing page de AlimentatePlus, siguiendo las buenas prácticas de control de versiones con Git, estructuración del trabajo bajo el flujo Git Flow, y división de responsabilidades alineada con los roles de desarrollo y diseño definidos desde el inicio del proyecto.
 
+**Estrategia de colaboración empleada:**
+
+- Uso de ramas específicas (feature/, develop, main) para el desarrollo organizado de funcionalidades.
+
+- Implementación de convenciones de commits mediante Conventional Commits, facilitando la trazabilidad.
+
+- Pull requests revisadas por otros miembros antes de integrarse a develop.
+
+- Reuniones cortas (dailys o check-ins semanales) para seguimiento y desbloqueo de tareas.
+
+- Evidencia de avance por miembro:
+
+    - Jhon Galvez: Commits relacionados a hojas de estilo y barra de navegacion
+    <p align="center">
+        <img src="assets/evidencias/landing-commits-jhon.png" alt="landing-commits-jhon"/>    
+    </p>
+
+    - Mathias Bueno: Commits relacionados a componentes Footer y Testimonios
+    <p align="center">
+        <img src="assets/evidencias/landing-commits-mathias.png" alt="landing-commits-mathias"/>    
+    </p>
+
+    - Fabrizio Paredes: Commits relacionados a componentes Home y HomePage
+    <p align="center">
+        <img src="assets/evidencias/landing-commits-fabrizio.png" alt="landing-commits-fabrizio"/>    
+    </p>
+
+    - Sebastian Rodriguez: Commits relacionados a componentes CTA y deploy de la pagina
+    <p align="center">
+        <img src="assets/evidencias/landing-commits-sebas.png" alt="landing-commits-sebas"/>    
+    </p>   
 
 #### 5.2.2. Sprint 2
 
@@ -2617,14 +2883,14 @@ El objetivo principal del Sprint 2 es desarrollar y desplegar el front-end que p
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-| US-19                         | Conocer la propuesta de valor  | T-16   | Desarrollar propuesta de valor de landing page | Convertir nuestros elementos de propuesta de valor en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
-| US-20                       | Acceder al registro o inicio de sesión | T-17 | Maquetar el login de la aplicacion | Maquetar layout principal para el inicio de sesion, incluyendo un formulario | 3                    | Jhon Galvez Chambi | Done |
-| US-20                       | Acceder al registro o inicio de sesión | T-18 | Desarrollo de la logica de inicio de sesion | Implementar conexion de login con servicios de autenticacion con JSON-SERVER | 3                    | Jhon Galvez Chambi | Done |
-| US-21                      | Navegar entre secciones desde la barra | T-19 | Desarrollar el header de la landing page       | Convertir nuestros elementos del header en componentes de Vue | 3                      | Jhon Galvez Chambi | Done |
-| US-04                         | Seccion Plan de Comidas      | T-20   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
-| US-22                         | Ver resumen de beneficios | T-21 | Desarrollar la seccion de beneficios | Convertir los elementos de la seccion de beneficios en componentes de Vue | 1                      | Fabrizio Paredes Santos | Done |
-| US-24                         | Seccion de Recetas         | T-22   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      | Sebastian Rodriguez | Done |
-| US-25                         | Navegar desde el footer        | T-23   | Desarrollar el footer de la landing page        | Convertir nuestros elemento footer en componentes de Vue | 5                      | Jhon Galvez Chambi | Done |
+| US-01                         | Registro de Usuario  | T-16   | Desarrollar registro de usuario | Implementar el crud para el usuario en componentes de Vue | 2                     | Jhon Galvez Chambi | Done |
+| US-21                      | Navegar entre secciones desde la barra | T-17 | Dividir las secciones segun su funcionamiento | Crear secciones en componentes de Vue | 3                      | Fabrizio Paredes | Done |
+| US-04                         | Seccion Plan de Comidas      | T-18   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
+| US-28                         | Seccion Ingredientes      | T-19   | Desarrollar seccion de ingredientes| Convertir nuestros elementos de la sección ingredientes en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
+| US-27                         | Seccion de Recetas         | T-20   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
+| US-0                         | Seccion Niveles de Actividad        | T-21  | Desarrollar seccion asociada al nivel de actividad        | Crear seccion de niveles de actividad en componentes de Vue | 5                      | Sebastian Rodriguez | Done |
+| US-25                         | Seccion de Etiquetas        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de etiquetas en componentes de Vue     | 5 | Fabrizio Paredes | Done |
+| US-26                         |    Acceder desde distintos dispositivos     | T-23  | Reconocer funciones responsive  | Desarrollar las funciones responsive del front-end  | 5                      | Jhon Galvez Chambi | Done |
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
