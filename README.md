@@ -2899,11 +2899,17 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| G4-Aplicaciones-Web/frontend | develop    | 5fbe73d                      | feat: merge hacia develop con los componentes de la barra de navegacion      | feat: agregar componentes de la barra de navegacion   | 26/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    |  ed5bf13                      | feat:agregando footer y testimonios     | -    | 27/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    | 38788ee                     | feat: adding HomePage and Home         | -        | 27/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    | codigo-sha                      | f-           | -                              | 27/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    | codigosha                      | -        |  -        | 27/04/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 01bf452                      | feat: Aadded db.json      | feat: agregando la base de datos simulada   | 14/0/2025               |
+| G4-Aplicaciones-Web/frontend | develop    |  58fa22d                      | feat:add domains structure     | -    | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | c295056                     | feat: deleted server         | -        | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | b49ba0b                   | remove: server directory           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | c96c2bd                   | fix:json format           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | d2c0399                   | feat: added tracking CRUD           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 9c46534                   | remove: vue-devtools dependency           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | aaa95ab                   | add:language switcher functionality           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | dbc945b                   | feat:agregando CRUD de meal_plans           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 9964b98                   | feat:add new locales           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 7c3c0e1                   | feat: add new routes           | -                              | 16/05/2025               |
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
@@ -3019,4 +3025,18 @@ Link deploy frontend:
 
 ## Anexos
 
+Google Java Style Guide https://google.github.io/styleguide/javaguide.html
 
+Google TypeScript Style Guide https://google.github.io/styleguide/tsguide.html
+
+Informe Grupo 4 - AlimentatePlus
+
+https://github.com/G4-Aplicaciones-Web/docs
+
+Landing Page - AlimentatePlus
+
+https://github.com/G4-Aplicaciones-Web/landing-page
+
+Front-end - AlimentatePlus
+
+https://github.com/G4-Aplicaciones-Web/frontend
