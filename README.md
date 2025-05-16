@@ -2848,7 +2848,7 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
 
 ##### 5.2.2.1. Sprint Planning 2
 
-En esta reunión de planificación del Sprint 2, el equipo de desarrollo se reunió de manera virtual para definir los objetivos, las tareas y los resultados esperados de este segundo sprint. Este sprint se centrará en el desarrollo y despliegue de las vistas de nuestra aplicación web frontend, con una duración de dos semanas. El objetivo principal es proporcionar una versión de producción en Netlify, lo que permitirá garantizar que el producto inicial sea funcional e interactúe de manera efectiva con una Fake API que contendrá datos de nuestra aplicación. Asimismo, tenemos como segundo objetivo mejorar la primera versión del landing page incluyendo internacionalizacion. 
+En esta reunión de planificación del Sprint 2, el equipo de desarrollo se reunió de manera virtual para definir los objetivos, las tareas y los resultados esperados de este segundo sprint. Este sprint se centrará en el desarrollo y despliegue de una primera version de nuestra aplicación web frontend, con una duración de dos semanas. El objetivo principal es proporcionar una versión de producción, lo que permitirá garantizar que el producto inicial sea funcional e interactúe de manera efectiva con una Fake API que contendrá datos de nuestra aplicación. Asimismo, tenemos como segundo objetivo mejorar la primera versión del landing page incluyendo internacionalizacion. 
 
 | **Sprint #**                   |              Sprint 2               |
 | ------------------------------ | ----------------------------------- |
@@ -2856,11 +2856,11 @@ En esta reunión de planificación del Sprint 2, el equipo de desarrollo se reun
 | **Date**                       | 10/05/2025                          |
 | **Location**                   | La reunión se llevó a cabo de manera virtual a través de Discord.         |
 | **Prepared and Attended By**   | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez, Sebastian |
-| **Sprint 1 Review Summary**    | Se logró desplegar una primera versión de la landing page, mostrando información relevante del producto en secciones específicas y navegables. |
-| **Sprint 1 Retrospective Summary** | El equipo expresó satisfacción con el producto desarrollado. Se identificó un margen de mejora, especialmente en la inclusión de la funcionalidad de internacionalización. |
+| **Sprint 2 Review Summary**    | Se logró desplegar una primera versión de nuestro front-end, asi como actualizar nuestro landing-page. |
+| **Sprint 2 Retrospective Summary** | El equipo expresó satisfacción con el producto desarrollado. Se identificó un margen de mejora, especialmente en la inclusión de la funcionalidad de internacionalización. |
 | **Sprint 2 Goal**              | Nuestro objetivo es implementar una versión actualizada de la landing page y un prototipo funcional del frontend. Creemos que ofrece a las partes interesadas una demostración clara de la funcionalidad de las vistas principales y una interacción fluida con las API simuladas del backend. Esto se confirmará cuando alcancemos una efectividad del 100 % en las consultas realizadas a la API falsa. |
 | **Sprint 2 Velocity**          | El sprint está planificado para completarse en 7 días (1 semana).              |
-| **Sum of Story Points**        | Por definir. |
+| **Sum of Story Points**        | 20 |
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -2888,7 +2888,7 @@ El objetivo principal del Sprint 2 es desarrollar y desplegar el front-end que p
 | US-04                         | Seccion Plan de Comidas      | T-18   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
 | US-28                         | Seccion Ingredientes      | T-19   | Desarrollar seccion de ingredientes| Convertir nuestros elementos de la sección ingredientes en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
 | US-27                         | Seccion de Recetas         | T-20   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
-| US-0                         | Seccion Niveles de Actividad        | T-21  | Desarrollar seccion asociada al nivel de actividad        | Crear seccion de niveles de actividad en componentes de Vue | 5                      | Sebastian Rodriguez | Done |
+| US-17                         | Seccion Niveles de Actividad        | T-21  | Desarrollar seccion asociada al nivel de actividad        | Crear seccion de niveles de actividad en componentes de Vue | 5                      | Sebastian Rodriguez | Done |
 | US-25                         | Seccion de Etiquetas        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de etiquetas en componentes de Vue     | 5 | Fabrizio Paredes | Done |
 | US-26                         |    Acceder desde distintos dispositivos     | T-23  | Reconocer funciones responsive  | Desarrollar las funciones responsive del front-end  | 5                      | Jhon Galvez Chambi | Done |
 
