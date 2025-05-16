@@ -2326,15 +2326,7 @@ Se puede ver todo el plan de comida de la semana, los ingredientes, el progreso 
 #### 4.4.4. Web Applications User Flow Diagrams
 
 <p align="center">
-  <img src="./assets/recursos/user-flow-diagrams1.png" alt="Context Diagram" width="700">
-</p>
-
-<p align="center">
-  <img src="./assets/recursos/user-flow-diagrams2.png" alt="Context Diagram" width="700">
-</p>
-
-<p align="center">
-  <img src="./assets/recursos/user-flow-diagrams3.png" alt="Context Diagram" width="700">
+  <img src="./assets/recursos/userflow.png" alt="Context Diagram" width="700">
 </p>
 
 ### 4.5. Web Applications Prototyping
