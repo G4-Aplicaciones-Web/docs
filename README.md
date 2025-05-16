@@ -1307,11 +1307,11 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
     </tr>
     <tr>
       <td>US-28</td>
-      <td>Ver Ingredientes de Recetas</td>
-      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
+      <td>Hacer tracking del plan</td>
+      <td>Como usuario, quiero saber si la app sigue lo que yo hago con respecto al plan</td>
       <td>
-        <b>Escenario 1:</b> <i>Given</i> accedo a la descripcion de las comidas, <i>When</i> veo sus ingredientes, <i>Then</i> me aparecen todos los ingredientes de cada comida.<br>
-        <b>Escenario 2:</b> <i>Given</i> selecciono un ingrediente, <i>When</i> veo su descripcion, <i>Then</i> apareceran los nutrientes que aporta segun el ingrediente.
+        <b>Escenario 1:</b> <i>Given</i> ingreso a la app, <i>When</i> veo la seccion de tracking, <i>Then</i> me aparece un resumen relacionado a lo mio.<br>
+        <b>Escenario 2:</b> <i>Given</i> selecciono la opcion , <i>When</i> le doy a dejar de hacer tracking, <i>Then</i> el tracking se deshabilita.
       </td>
       <td>EP-07</td>
     </tr>
@@ -1567,8 +1567,8 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       <tr>
       <td>28</td>
       <td>US-28</td>
-      <td>Ver Ingredientes de Recetas</td>
-      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
+      <td>Hacer tracking del plan</td>
+      <td>Como usuario, quiero saber si la app sigue lo que yo hago con respecto al plan</td>
       <td>5</td>
     </tr>
   </tbody>
@@ -2892,14 +2892,13 @@ El objetivo principal del Sprint 2 es desarrollar y desplegar el front-end que p
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-| US-01                         | Registro de Usuario  | T-16   | Desarrollar registro de usuario | Implementar el crud para el usuario en componentes de Vue | 2                     | Jhon Galvez Chambi | Done |
-| US-21                      | Navegar entre secciones desde la barra | T-17 | Dividir las secciones segun su funcionamiento | Crear secciones en componentes de Vue | 3                      | Fabrizio Paredes | Done |
-| US-04                         | Seccion Plan de Comidas      | T-18   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
-| US-28                         | Seccion Ingredientes      | T-19   | Desarrollar seccion de ingredientes| Convertir nuestros elementos de la sección ingredientes en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
-| US-27                         | Seccion de Recetas         | T-20   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
-| US-17                         | Seccion Niveles de Actividad        | T-21  | Desarrollar seccion asociada al nivel de actividad        | Crear seccion de niveles de actividad en componentes de Vue | 5                      | Sebastian Rodriguez | Done |
-| US-25                         | Seccion de Etiquetas        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de etiquetas en componentes de Vue     | 5 | Fabrizio Paredes | Done |
-| US-26                         |    Acceder desde distintos dispositivos     | T-23  | Reconocer funciones responsive  | Desarrollar las funciones responsive del front-end  | 5                      | Jhon Galvez Chambi | Done |
+| US-21                      | Navegar entre secciones desde la barra | T-17 | Dividir las secciones segun su funcionamiento | Crear secciones en componentes de Vue | 2 | Jhon Galvez Chambi  | Done  | 
+| US-19                      | Seccion About-us | T-18 | Desarrollar seccion about-us | Crear el componente about-us en Vue |3                      | Fabrizio Paredes | Done |
+| US-04                         | Seccion Plan de Comidas      | T-19   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
+| US-28                         | Seccion de Recomendaciones      | T-20   | Desarrollar seccion de recomendaciones| Convertir nuestros elementos de la sección recoemndaciones en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
+| US-27                         | Seccion de Recetas         | T-21   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
+| US-25                         | Seccion de Tracking        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de tracking en componentes de Vue     | 5 | Fabrizio Paredes | Done |
+
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2921,6 +2920,21 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+
+  <p align="center">
+    <img src="assets/recursos/landingpageE1.png" alt="landingpageE1" width="750">
+  </p>
+
+  <p align="center">
+    <img src="assets/recursos/App_home.png" alt="landingpageE1" width="750">
+  </p>
+
+
+  <p align="center">
+    <img src="assets/recursos/app_recommendations.png" alt="landingpageE1" width="750">
+  </p>
+
+
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3012,6 +3026,11 @@ Link deploy frontend:
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<p align="center">
+        <img src="assets/evidencias/tci_2.png"/>    
+    </p>
+
 
 
 <hr>
