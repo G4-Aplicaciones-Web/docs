@@ -2668,11 +2668,20 @@ En esta reunión de planificación del Sprint 1, el equipo de desarrollo se reun
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Aspecto del Proyecto | Líder Principal | Colaboradores |
-|----------------------|-----------------|---------------|
-| Frontend (React - Landing Page) | Rodriguez, Sebastian | Todo el equipo |
-| Despliegue de Landing Page (GitHub Pages) | Rodriguez, Sebastian| Todo el equipo |
-| Documentación Técnica del Sprint (Informe, Diagramas, Diseño) | Todo el equipo | Todo el equipo |
+Durante el Sprint 1 se han identificado los siguientes aspectos clave del proyecto:
+
+- **Frontend (React - Landing Page):** implementación visual e interactiva de la página principal.
+- **Despliegue:** publicación de la aplicación mediante GitHub Pages.
+- **Documentación Técnica:** elaboración de entregables como informe técnico, diagramas y mockups de diseño.
+
+Para asegurar una comunicación clara y una asignación efectiva de responsabilidades, se ha desarrollado la matriz **Leadership-and-Collaboration Matrix (LACX)**. Esta define quién lidera cada aspecto (L) y quién colabora (C), lo cual orientará la selección de tareas durante el Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username       | Frontend (React - Landing Page) | Despliegue (GitHub Pages) | Documentación Técnica |
+|-------------------------------------|------------------------|----------------------------------|----------------------------|------------------------|
+| Rodriguez, Sebastian                | Shiftinnnnn          | L                                | C                          | C                      |
+| Galvez, Jhon                      | Chaomeum           | L                                | L                          | C                      |
+| Bueno, Mathias                      | MathiasBueno             | C                                | C                          | L                      |
+| Paredes, Fabrizio                   | psfa29            | C                                | C                          | L                      |
 
 
 ##### 5.2.1.3. Sprint Backlog 1
@@ -2767,7 +2776,7 @@ El equipo se compromete a priorizar la documentación de los Web Services en los
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-### 🛠️ Pasos para el despliegue en GitHub Pages
+###  Pasos para el despliegue en GitHub Pages
 
 #### 1. Instalación de la dependencia `gh-pages`
 
@@ -2783,7 +2792,7 @@ json
   "deploy": "gh-pages -d build"
 }
 ```
-💡 Reemplaza <usuario> y <nombre-repo> con tu nombre de usuario y nombre del repositorio.
+ Reemplaza <usuario> y <nombre-repo> con tu nombre de usuario y nombre del repositorio.
 
 3. Ejecución del despliegue
 Para realizar el despliegue, se ejecutó el siguiente comando:
@@ -2898,11 +2907,17 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| G4-Aplicaciones-Web/frontend | develop    | 5fbe73d                      | feat: merge hacia develop con los componentes de la barra de navegacion      | feat: agregar componentes de la barra de navegacion   | 26/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    |  ed5bf13                      | feat:agregando footer y testimonios     | -    | 27/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    | 38788ee                     | feat: adding HomePage and Home         | -        | 27/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    | codigo-sha                      | f-           | -                              | 27/04/2025               |
-| G4-Aplicaciones-Web/frontend | develop    | codigosha                      | -        |  -        | 27/04/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 01bf452                      | feat: Aadded db.json      | feat: agregando la base de datos simulada   | 14/0/2025               |
+| G4-Aplicaciones-Web/frontend | develop    |  58fa22d                      | feat:add domains structure     | -    | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | c295056                     | feat: deleted server         | -        | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | b49ba0b                   | remove: server directory           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | c96c2bd                   | fix:json format           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | d2c0399                   | feat: added tracking CRUD           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 9c46534                   | remove: vue-devtools dependency           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | aaa95ab                   | add:language switcher functionality           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | dbc945b                   | feat:agregando CRUD de meal_plans           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 9964b98                   | feat:add new locales           | -                              | 16/05/2025               |
+| G4-Aplicaciones-Web/frontend | develop    | 7c3c0e1                   | feat: add new routes           | -                              | 16/05/2025               |
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
@@ -2910,6 +2925,70 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante la realizacion de este sprint, completamos el desarrollo de la landing page y una primera version del front-end de nuestro servicio. En esta seccion se resume lo alcanzado en relacion a la documentacion del servicio web asociado a la landing page y front-end.
+
+Se implementó la funcionalidad de traducción en la landing page utilizando el componente LanguageSwitcher y el sistema de internacionalización i18njson. Esto permitió ofrecer una experiencia multilingüe, accesible tanto para usuarios hispanohablantes como angloparlantes. Se añadió un botón en la barra de navegación para que los usuarios puedan cambiar el idioma de forma rápida e intuitiva.
+
+A continuación, se presentan capturas de las principales vistas implementadas:
+
+- **Vista de la Propuesta de Valor Traducido al Inglés**  
+  <p align="center">
+    <img src="assets/recursos/landingpageE1.png" alt="landingpageE1" width="750">
+  </p>
+
+- **Vista de Beneficios Destacados Traducido al Inglés**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE2.png" alt="landingpageE2" width="750">
+  </p>
+
+- **Vista de Testimonios de Usuarios Traducido al Inglés**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE3.png" alt="landingpageE3" width="750">
+  </p>
+
+- **Vista de cómo funciona Traducido al Inglés**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE4.png" alt="landingpageE4" width="750">
+  </p>
+
+- **Vista del Footer con Enlaces Funcionales Traducido al Inglés**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE5.png" alt="landingpageE5" width="750">
+  </p>
+
+- **Vista de la Propuesta de Valor Traducido al Español**  
+  <p align="center">
+    <img src="assets/recursos/landingpageS1.png" alt="landingpageS1" width="750">
+  </p>
+
+- **Vista de Beneficios Destacados Traducido al Español**  
+   <p align="center">
+    <img src="assets/recursos/landingpageS2.png" alt="landingpageS2" width="750">
+  </p>
+
+- **Vista de Testimonios de Usuarios Traducido al Español**  
+   <p align="center">
+    <img src="assets/recursos/landingpageS3.png" alt="landingpageS3" width="750">
+  </p>
+
+- **Vista de cómo funciona Traducido al Español**  
+   <p align="center">
+    <img src="assets/recursos/landingpageS4.png" alt="landingpageS4" width="750">
+  </p>
+
+- **Vista del Footer con Enlaces Funcionales Traducido al Español**  
+   <p align="center">
+    <img src="assets/recursos/landingpageS5.png" alt="landingpageS5" width="750">
+  </p>
+
+
+
+
+
+Para una demostración completa de la visualización y navegación logradas en este Sprint, puedes acceder al siguiente video:  
+[Demo del Landing Page](https://youtu.be/zX7gYMQQ83Y)
+
+
+
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2954,4 +3033,18 @@ Link deploy frontend:
 
 ## Anexos
 
+Google Java Style Guide https://google.github.io/styleguide/javaguide.html
 
+Google TypeScript Style Guide https://google.github.io/styleguide/tsguide.html
+
+Informe Grupo 4 - AlimentatePlus
+
+https://github.com/G4-Aplicaciones-Web/docs
+
+Landing Page - AlimentatePlus
+
+https://github.com/G4-Aplicaciones-Web/landing-page
+
+Front-end - AlimentatePlus
+
+https://github.com/G4-Aplicaciones-Web/frontend
