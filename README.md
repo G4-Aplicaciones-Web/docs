@@ -2921,6 +2921,8 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
+Pagina deployada: https://deploy-appwebs.web.app/home
+
   <p align="center">
     <img src="assets/recursos/landingpageE1.png" alt="landingpageE1" width="750">
   </p>
@@ -3006,20 +3008,10 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-### 🛠️ Pasos para el despliegue en Netlify
-
-
 <p align="center">
-  <img src="assets/recursos/" alt="front-deploy" width="750">
+  <img src="assets/evidencias/software_deploy-evidence.png" alt="front-deploy" width="750">
 </p>
 
-<p align="center">
-  <img src="assets/recursos/" alt="front-deploy" width="750">
-</p>
-
-<p align="center">
-  <img src="assets/recursos/" alt="front-deploy" width="750">
-</p>
 
 Link deploy frontend:
 [Frontend Web Application]()
