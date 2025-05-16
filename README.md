@@ -2979,7 +2979,7 @@ A continuación, se presentan capturas de las principales vistas implementadas:
 
 
 Para una demostración completa de la visualización y navegación logradas en este Sprint, puedes acceder al siguiente video:  
-[Demo del Landing Page](https://youtu.be/zX7gYMQQ83Y)
+[Landing Page](https://youtu.be/czP-ZfhQGas)
 
 
 
