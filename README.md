@@ -1295,6 +1295,26 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       </td>
       <td>EP-06</td>
     </tr>
+      <tr>
+      <td>US-27</td>
+      <td>Ver recetas preestablecidas</td>
+      <td>Como usuario, quiero ver algunas recetas ya creadas para guardar las que me interesen.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> que entro a la app, <i>When</i> entro en la seccion de recetas, <i>Then</i> visualizo una lista con muchas recetas.<br>
+        <b>Escenario 2:</b> <i>Given</i> que me gusta una receta, <i>When</i> le doy a la opcion guardar, <i>Then</i> se descargara un archivo con la receta elegida.
+      </td>
+      <td>EP-07</td>
+    </tr>
+    <tr>
+      <td>US-28</td>
+      <td>Ver Ingredientes de Recetas</td>
+      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> accedo a la descripcion de las comidas, <i>When</i> veo sus ingredientes, <i>Then</i> me aparecen todos los ingredientes de cada comida.<br>
+        <b>Escenario 2:</b> <i>Given</i> selecciono un ingrediente, <i>When</i> veo su descripcion, <i>Then</i> apareceran los nutrientes que aporta segun el ingrediente.
+      </td>
+      <td>EP-07</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1327,6 +1347,12 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
 
   - Funcionalidades para la visualizacion de la landing page, navegacion a traves de ella e informacion
   - Historias relacionadas: US19, US20, US21, US22, US23, US24, US25, US26
+
+  - **Epica 07: Visualizacion Detallada**
+
+  - Funcionalidades para ver diversas secciones fundamenteles respecto a nuestro core de negocio
+  - Historias relacionadas: US27 y US28
+
 
 ### 3.3. Impact Mapping
 
@@ -1529,6 +1555,20 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       <td>US-26</td>
       <td>Acceder desde distintos dispositivos</td>
       <td>Como visitante, quiero que la landing page se vea bien en cualquier dispositivo para poder explorarla cómodamente.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>US-27</td>
+      <td>Ver recetas preestablecidas</td>
+      <td>Como usuario, quiero ver algunas recetas ya creadas para guardar las que me interesen.</td>
+      <td>5</td>
+    </tr>
+      <tr>
+      <td>28</td>
+      <td>US-28</td>
+      <td>Ver Ingredientes de Recetas</td>
+      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
       <td>5</td>
     </tr>
   </tbody>
@@ -2617,13 +2657,14 @@ El objetivo principal del Sprint 2 es desarrollar y desplegar el front-end que p
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-| US-19                         | Conocer la propuesta de valor  | T-16   | Desarrollar propuesta de valor de landing page | Convertir nuestros elementos de propuesta de valor en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
-| US-21                      | Navegar entre secciones desde la barra | T-17 | Desarrollar el header de la landing page       | Convertir nuestros elementos del header en componentes de Vue | 3                      | Jhon Galvez Chambi | Done |
+| US-01                         | Registro de Usuario  | T-16   | Desarrollar registro de usuario | Implementar el crud para el usuario en componentes de Vue | 2                     | Jhon Galvez Chambi | Done |
+| US-21                      | Navegar entre secciones desde la barra | T-17 | Dividir las secciones segun su funcionamiento | Crear secciones en componentes de Vue | 3                      | Fabrizio Paredes | Done |
 | US-04                         | Seccion Plan de Comidas      | T-18   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
-| US-03                         | Seccion Ingredientes      | T-19   | Desarrollar seccion de ingredientes| Convertir nuestros elementos de la sección ingredientes en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
-| US-24                         | Seccion de Recetas         | T-20   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      | Sebastian Rodriguez | Done |
-| US-25                         | Navegar desde el footer        | T-21  | Desarrollar el footer de la landing page        | Convertir nuestros elemento footer en componentes de Vue | 5                      | Jhon Galvez Chambi | Done |
-| US-26                         |    Acceder desde distintos dispositivos     | T-22   | Reconocer funciones responsive  | Desarrollar las funciones responsive del front-end  | 5                      | Jhon Galvez Chambi | Done |
+| US-28                         | Seccion Ingredientes      | T-19   | Desarrollar seccion de ingredientes| Convertir nuestros elementos de la sección ingredientes en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
+| US-27                         | Seccion de Recetas         | T-20   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
+| US-0                         | Seccion Niveles de Actividad        | T-21  | Desarrollar seccion asociada al nivel de actividad        | Crear seccion de niveles de actividad en componentes de Vue | 5                      | Sebastian Rodriguez | Done |
+| US-25                         | Seccion de Etiquetas        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de etiquetas en componentes de Vue     | 5 | Fabrizio Paredes | Done |
+| US-26                         |    Acceder desde distintos dispositivos     | T-23  | Reconocer funciones responsive  | Desarrollar las funciones responsive del front-end  | 5                      | Jhon Galvez Chambi | Done |
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
