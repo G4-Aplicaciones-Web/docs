@@ -3099,7 +3099,54 @@ Con estos pasos, logramos implementar un flujo de despliegue eficiente y automat
 
 <hr>
 
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+##### 5.2.3.3. Sprint Backlog 3.
+
+##### 5.2.3.4. Development Evidence for Sprint Review.
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+#### 5.3.2. Registro de Entrevistas.
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.4. Video About-the-Product
+
+**Reemplazar**
+En esta sección el equipo introduce y describe el contenido del Video About-the-
+Product, el cual tiene como público objetivo los visitantes al Landing Page, quienes
+desean conocer sobre el modelo de negocio y las características principales de los
+productos de software, al igual que los usuarios de las Aplicaciones, quienes desean
+realizar tareas relacionadas con los procesos soportados por la solución. El tono que
+utilice en la comunicación debe ser consistente con el tono adoptado para el
+producto y debe incluirse al menos un testimonio positivo de un usuario que haya
+participado en las entrevistas de validación. Debe incluirse también en esta sección
+un screenshot del Video, el URL de la versión publicada en Microsoft Stream (y
+además, el URL de la versión publicada en YouTube utilizada para incrustarse en el
+Landing Page), así como el timing (duración) del mismo. Ver otras indicaciones
+importantes en el Anexo C. Indicaciones para secciones que incluyen Videos.
+
+URL del video: []
+
 ## Conclusiones
+
+### Conclusiones y Recomendaciones
 
 - Durante el desarrollo de Alimentate+, se ha logró identificar y comprender en profundidad a nuestros segmento objetivo: personas adultas peruanas afectadas por el sobrepeso y la obesidad, personas con objetivos de salud o de simplemente llevar un estilo de vida más saludable. Esta comprensión ha permitido adaptar la aplicación para fomentar hábitos alimenticios saludables de forma práctica, cómoda y accesible, con el fin de mejorar la salud y la calidad de vida de los usuarios.
 
@@ -3108,9 +3155,27 @@ Con estos pasos, logramos implementar un flujo de despliegue eficiente y automat
 - Además, se hace énfasis en la importancia de adaptar Alimentate+ a los hábitos culturales, condiciones económicas y necesidades nutricionales de la población peruana. Esta estrategia no solo mejora la experiencia de uso, sino que también refuerza la efectividad de la aplicación como una herramienta de cambio de hábitos y prevención de enfermedades relacionadas con la alimentación.
 
 
+### Video About-The-Team 
+
+**Reemplazar**
+En esta sección el equipo elabora un resumen de los aspectos más relevantes del
+video About-The-Team, la pauta de secuencias de contenido (secciones con el timing
+de inicio de cada una, es decir hh:mm:ss de cada sección dentro del video)
+incluyendo además un cuadro de video representativo del mismo, junto con el URL
+de la versión publicada en Microsoft Stream (y además, el URL de la versión
+publicada en YouTube utilizada para incrustarse en el Landing Page).
+Este video resume el proceso de trabajo realizado, incluyendo escenas con imágenes
+o video de sesiones de trabajo real del equipo, complementando con narración (voz
+en off) del proceso. Incluye además el testimonio ante cámara de cada participante
+describiendo actividades realizadas, logro de outcomes y desarrollo de competencias
+alcanzados. Ver otras indicaciones importantes en el Anexo C. Indicaciones para
+secciones que incluyen Videos.
+
 <hr>
 
 ## Bibliografía
+
+- 
 
 <hr>
 
