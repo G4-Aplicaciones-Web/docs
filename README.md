@@ -2913,108 +2913,182 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
-Pagina deployada: https://deploy-appwebs.web.app/home
+**Frontend Web Application**
 
+Durante este Sprint, el equipo cumplió con el objetivo principal de desarrollar y desplegar el frontend básico de Alimentate+ en Firebase, asegurando una experiencia de navegación funcional y visualmente atractiva. Se implementaron las secciones clave de la aplicación, como About Us , Plan de Comidas , Recomendaciones , Recetas  y Tracking , todas desarrolladas en componentes de Vue.js para garantizar modularidad y escalabilidad. 
+
+El trabajo realizado permitió estructurar el contenido de manera clara y organizada, ofreciendo a los usuarios una visión integral de los beneficios y funcionalidades de la aplicación. Además, se integró una barra de navegación que facilita el desplazamiento entre las diferentes secciones, optimizando la usabilidad del producto.  
+
+Cada tarea fue ejecutada con precisión y colaboración por parte del equipo, asegurando que todas las historias de usuario asignadas fueran completadas dentro del tiempo estimado. Este esfuerzo conjunto resultó en un frontend robusto, responsive y listo para ser desplegado, marcando un hito importante en el desarrollo de Alimentate+.
+
+Enlace del Frontend Web Application Desplegado: https://deploy-appwebs.web.app/home
+
+A continuación, se presentan capturas de las principales vistas implementadas:
+
+- **Vista Tracking Management**
   <p align="center">
-    <img src="assets/recursos/landingpageE1.png" alt="landingpageE1" width="750">
+    <img src="assets/recursos/frontend-tracking-1.png" alt="Tracking Management - Vista Principal" width="750">
+    <img src="assets/recursos/frontend-tracking-2.png" alt="Tracking Management - Vista Creacion" width="750">
   </p>
 
+- **Vista Recommendations Management**
   <p align="center">
-    <img src="assets/recursos/App_home.png" alt="landingpageE1" width="750">
+    <img src="assets/recursos/frontend-recommendations-1.png" alt="Recommendations Management - Vista Principal" width="750">
+    <img src="assets/recursos/frontend-recommendations-2.png" alt="Recommendations Management - Vista Creacion" width="750">
   </p>
 
-
+- **Vista Recipes Management**
   <p align="center">
-    <img src="assets/recursos/app_recommendations.png" alt="landingpageE1" width="750">
+    <img src="assets/recursos/frontend-recipes-1.png" alt="Recipes Management - Vista Principal" width="750">
+    <img src="assets/recursos/frontend-recipes-2.png" alt="Recipes Management - Vista Creacion" width="750">
+    <img src="assets/recursos/frontend-recipes-3.png" alt="Recipes Management - Vista Detalles" width="750">
   </p>
 
+- **Vista About Us**
+  <p align="center">
+    <img src="assets/recursos/frontend-about-us.png" alt="About Us - Ingles" width="750">
+  </p>
+
+- **Componente Language Switcher**
+  <p align="center">
+    <img src="assets/recursos/frontend-language-switcher.png" alt="Language Switcher" width="750">
+  </p>
+
+**Landing Page**
+
+Asimismo, completamos el desarrollo de una nueva versión de la landing page, incorporando una funcionalidad clave: la traducción multilingüe. Utilizamos el componente LanguageSwitcher  junto con el sistema de internacionalización i18n, lo que permitió ofrecer una experiencia accesible tanto para usuarios hispanohablantes como angloparlantes. Además, se integró un botón en la barra de navegación que facilita el cambio de idioma de manera rápida e intuitiva, mejorando así la usabilidad y adaptabilidad de la página.
+
+Enlace del Landing Page Desplegado: https://g4-aplicaciones-web.github.io/landing-page/
+
+A continuación, se presentan capturas de las principales vistas implementadas:
+
+- **Vista de la Propuesta de Valor**  
+  <p align="center">
+    <img src="assets/recursos/landingpageE1.png" alt="landingpageE1">
+    <img src="assets/recursos/landingpageS1.png" alt="landingpageS1">
+  </p>
+
+- **Vista de Beneficios Destacados**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE2.png" alt="landingpageE2">
+    <img src="assets/recursos/landingpageS2.png" alt="landingpageS2">
+  </p>
+
+- **Vista de Testimonios de Usuarios**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE3.png" alt="landingpageE3">
+    <img src="assets/recursos/landingpageS3.png" alt="landingpageS3">
+  </p>
+
+- **Vista de cómo funciona**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE4.png" alt="landingpageE4">
+    <img src="assets/recursos/landingpageS4.png" alt="landingpageS4">
+  </p>
+
+- **Vista del Footer con Enlaces Funcionales**  
+   <p align="center">
+    <img src="assets/recursos/landingpageE5.png" alt="landingpageE5">
+    <img src="assets/recursos/landingpageS5.png" alt="landingpageS5">
+  </p>
+
+Para una demostración completa de la visualización y navegación logradas en este Sprint, acceda a los siguientes enlaces:  
+
+Landing Page: [upc-pre-202510-1asi0730-4376-nutriplus-landingpage-navigation-sprint-2](https://youtu.be/czP-ZfhQGas)
+
+Frontend Web Application:
+[upc-pre-202510-1asi0730-4376-nutriplus-frontend-navigation-sprint-2](https://youtu.be/DyIGmHo3W8Q)
 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante la realizacion de este sprint, completamos el desarrollo de la landing page y una primera version del front-end de nuestro servicio. En esta seccion se resume lo alcanzado en relacion a la documentacion del servicio web asociado a la landing page y front-end.
+En esta primera entrega, no se han especificado ni documentado los endpoints mediante OpenAPI, ya que el enfoque principal del equipo estuvo en el desarrollo y despliegue de la landing page. La documentación de los Web Services, incluyendo la relación de endpoints, sus acciones soportadas y ejemplos de interacción, será abordada en entregas posteriores, una vez que se avance en la implementación del backend y la integración con el frontend.
 
-Se implementó la funcionalidad de traducción en la landing page utilizando el componente LanguageSwitcher y el sistema de internacionalización i18njson. Esto permitió ofrecer una experiencia multilingüe, accesible tanto para usuarios hispanohablantes como angloparlantes. Se añadió un botón en la barra de navegación para que los usuarios puedan cambiar el idioma de forma rápida e intuitiva.
+En futuras iteraciones, esta sección incluirá:
 
-A continuación, se presentan capturas de las principales vistas implementadas:
+- Una tabla detallada con los endpoints documentados, indicando:
+  - Verbo HTTP (GET, POST, PUT, DELETE, PATCH).
+  - Sintaxis de llamada y parámetros aceptados.
+  - Ejemplo de request y response, con explicaciones claras.
+  - Enlaces a la documentación generada con OpenAPI.
+- Capturas de pantalla que evidencien la interacción con los endpoints utilizando datos de muestra.
+- URL del repositorio de Web Services y los IDs de los commits relacionados con la documentación.
 
-- **Vista de la Propuesta de Valor Traducido al Inglés**  
-  <p align="center">
-    <img src="assets/recursos/landingpageE1.png" alt="landingpageE1" width="750">
-  </p>
-
-- **Vista de Beneficios Destacados Traducido al Inglés**  
-   <p align="center">
-    <img src="assets/recursos/landingpageE2.png" alt="landingpageE2" width="750">
-  </p>
-
-- **Vista de Testimonios de Usuarios Traducido al Inglés**  
-   <p align="center">
-    <img src="assets/recursos/landingpageE3.png" alt="landingpageE3" width="750">
-  </p>
-
-- **Vista de cómo funciona Traducido al Inglés**  
-   <p align="center">
-    <img src="assets/recursos/landingpageE4.png" alt="landingpageE4" width="750">
-  </p>
-
-- **Vista del Footer con Enlaces Funcionales Traducido al Inglés**  
-   <p align="center">
-    <img src="assets/recursos/landingpageE5.png" alt="landingpageE5" width="750">
-  </p>
-
-- **Vista de la Propuesta de Valor Traducido al Español**  
-  <p align="center">
-    <img src="assets/recursos/landingpageS1.png" alt="landingpageS1" width="750">
-  </p>
-
-- **Vista de Beneficios Destacados Traducido al Español**  
-   <p align="center">
-    <img src="assets/recursos/landingpageS2.png" alt="landingpageS2" width="750">
-  </p>
-
-- **Vista de Testimonios de Usuarios Traducido al Español**  
-   <p align="center">
-    <img src="assets/recursos/landingpageS3.png" alt="landingpageS3" width="750">
-  </p>
-
-- **Vista de cómo funciona Traducido al Español**  
-   <p align="center">
-    <img src="assets/recursos/landingpageS4.png" alt="landingpageS4" width="750">
-  </p>
-
-- **Vista del Footer con Enlaces Funcionales Traducido al Español**  
-   <p align="center">
-    <img src="assets/recursos/landingpageS5.png" alt="landingpageS5" width="750">
-  </p>
-
-
-
-Para una demostración completa de la visualización y navegación logradas en este Sprint, puedes acceder al siguiente video:  
-[Landing Page](https://youtu.be/czP-ZfhQGas)
-
-
-
+El equipo se compromete a priorizar la documentación de los Web Services en los próximos sprints para garantizar una integración efectiva y una experiencia de desarrollo colaborativa.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-### 🛠️ Evidencias del despliegue en Firebase
+Durante este Sprint, llevamos a cabo el despliegue exitoso del frontend de Alimentate+ utilizando **Firebase Hosting**. Este proceso incluyó la creación de una cuenta en Firebase, la configuración del proyecto, la preparación del entorno de desarrollo y la implementación del sitio web. A continuación, se detallan los pasos seguidos para completar el despliegue:
 
+- 1. Creación de la Cuenta en Firebase
 
-<p align="center">
-  <img src="assets/evidencias/tp1-front-deploy.png" alt="front-deploy" width="750">
-</p>
+  - **Descripción**: Se creó una cuenta en Firebase utilizando una cuenta de Google asociada al proyecto Alimentate+. Esto permitió acceder a la consola de Firebase y gestionar los recursos necesarios para el despliegue.
 
-<p align="center">
-  <img src="assets/evidencias/tp1-front-deploy-2.png" alt="front-deploy" width="750">
-</p>
+- 2. Configuración del Proyecto en Firebase
 
-<p align="center">
-  <img src="assets/evidencias/tp1-front-deploy-3.png" alt="front-deploy" width="750">
-</p>
+  - **Descripción**: Desde la consola de Firebase, se creó un nuevo proyecto denominado "Deploy App Web". Durante esta etapa, se habilitaron las opciones necesarias para el hosting, como la configuración de dominios personalizados y la activación del soporte para aplicaciones web.
+  - **Captura de Pantalla**:
+    <p align="center">
+      <img src="assets/evidencias/tp1-front-deploy.png" alt="front-deploy" width="750">
+    </p>
+    
+- 3. Instalación y Configuración del CLI de Firebase
 
-Link deploy frontend:
-[Frontend Web Application](https://deploy-appwebs.web.app/home)
+  - **Descripción**: En el entorno local de desarrollo, se instaló el **Firebase CLI** utilizando npm (`npm install -g firebase-tools`). Posteriormente, se inició sesión en Firebase desde la terminal con el comando `firebase login`.
+  - **Comandos Ejecutados**:
+      
+      ```bash
+      npm install -g firebase-tools
+      firebase login
+      ```    
+  
+- 4. Inicialización del Proyecto para Hosting
+
+  - **Descripción**: Se inicializó el proyecto en Firebase utilizando el comando `firebase init`. Durante este proceso, se seleccionó la opción de **Hosting** y se configuró el directorio `dist` como carpeta de salida para los archivos compilados de Vue.js.
+  - **Comandos Ejecutados**:
+      
+      ```bash
+      firebase init      
+      ```
+      
+  - **Captura de Pantalla**:
+    <p align="center">
+      <img src="assets/evidencias/tp1-firebase-init.png" alt="Firebase initialization" width="750">
+    </p>
+
+- 5. Compilación del Proyecto Frontend
+
+  - **Descripción**: Antes del despliegue, se generó una versión optimizada del frontend utilizando el comando `npm run build`. Este proceso produjo los archivos estáticos necesarios en la carpeta `dist`, listos para ser desplegados en Firebase Hosting.
+  - **Comandos Ejecutados**:
+      
+      ```bash
+      npm run build      
+      ```
+      
+  - **Captura de Pantalla**:
+    <p align="center">
+      <img src="assets/evidencias/tp1-build-dist.png" alt="Build project dist directory">
+    </p>
+
+- 6. Despliegue en Firebase Hosting
+
+  - **Descripción**: Finalmente, se realizó el despliegue del frontend utilizando el comando `firebase deploy`. Este comando subió los archivos compilados al servidor de Firebase Hosting, haciendo que la aplicación estuviera disponible públicamente.
+  - **Comandos Ejecutados**:
+      
+      ```bash
+      firebase deploy
+      ```
+
+- Resultado Final
+
+  - **Descripción**: Una vez completado el despliegue, el frontend de Alimentate+ quedó accesible en la siguiente URL: [https://deploy-appwebs.web.app/home](https://deploy-appwebs.web.app/home). La página es completamente funcional, responsive y está optimizada para una experiencia de usuario fluida.
+
+  - **Captura de Pantalla del Frontend Desplegado**:
+    <p align="center">
+      <img src="assets/recursos/frontend-tracking-1.png" alt="Tracking Management - Vista Principal" width="750">      
+    </p>
+
+Con estos pasos, logramos implementar un flujo de despliegue eficiente y automatizado para el frontend de Alimentate+, garantizando que el producto esté disponible para los usuarios finales y stakeholders.
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -3022,8 +3096,6 @@ Link deploy frontend:
 <p align="center">
         <img src="assets/evidencias/tci_2.png"/>    
     </p>
-
-
 
 <hr>
 
