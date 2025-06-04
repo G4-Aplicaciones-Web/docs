@@ -44,7 +44,8 @@
 | Versión | Fecha | <div style="width:250px">Autor(es) </div> | <div align="center" style="width:400px">Descripción de la modificación</div> |
 |:-------:|:-----:|:-----------------------------------------:|-------------------------------------------------------------|
 | TB1 | 26/04/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguientes capítulos: <br>- Carátula<br>- Registro de Versiones del Informe<br>- Project Report Collaboration Insights<br>- Contenido<br>- Student Outcome<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Capítulo V: Product Implementation, Validation & Deployment<br>- 5.1. Software Configuration Management<br>- 5.1.1. Software Development Environment Configuration<br>- 5.1.2. Source Code Management<br>- 5.1.3. Source Code Style Guide & Conventions<br>- 5.1.4. Software Deployment Configuration<br>- 5.2. Landing Page, Services & Applications Implementation<br>- 5.2.1. Sprint 1<br>- 5.2.1.1. Sprint Planning 1<br>- 5.2.1.2. Aspect Leaders and Collaborators<br>- 5.2.1.3. Sprint Backlog 1<br>- 5.2.1.4. Development Evidence for Sprint Review<br>- 5.2.1.5. Execution Evidence for Sprint Review<br>- 5.2.1.6. Services Documentation Evidence for Sprint Review<br>- 5.2.1.7. Software Deployment Evidence for Sprint Review<br>- 5.2.1.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos |
-| TP1 | 17/05/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correciones de la entrega TB1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.2. Sprint 2<br>- 5.2.2.1. Sprint Planning 2<br>- 5.2.2.2. Aspect Leaders and Collaborators<br>- 5.2.2.3. Sprint Backlog 2<br>- 5.2.2.4. Development Evidence for Sprint Review<br>- 5.2.2.5. Execution Evidence for Sprint Review<br>- 5.2.2.6. Services Documentation Evidence for Sprint Review<br>- 5.2.2.7. Software Deployment Evidence for Sprint Review<br>- 5.2.2.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión nueva del Landing Page <br>- Versión inicial del Frontend Web Applications|
+| TP1 | 17/05/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correcciones de la entrega TB1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.2. Sprint 2<br>- 5.2.2.1. Sprint Planning 2<br>- 5.2.2.2. Aspect Leaders and Collaborators<br>- 5.2.2.3. Sprint Backlog 2<br>- 5.2.2.4. Development Evidence for Sprint Review<br>- 5.2.2.5. Execution Evidence for Sprint Review<br>- 5.2.2.6. Services Documentation Evidence for Sprint Review<br>- 5.2.2.7. Software Deployment Evidence for Sprint Review<br>- 5.2.2.8. Team Collaboration Insights during Sprint<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión nueva del Landing Page <br>- Versión inicial del Frontend Web Applications|
+| TB2 | 22/06/2025 | - Bueno Perales, Mathias<br>- Galvez Chambi, Jhon<br>- Paredes Santos, Fabrizio Alberto<br>- Rodriguez Macedo, Sebastian | Para esta entrega se han desarrollado los siguiente capítulos: <br>- Correcciones de la entrega TP1 <br>- Capítulo V: Product Implementation, Validation & Deployment<br> - 5.2.3. Sprint 3<br>- 5.2.3.1. Sprint Planning 3<br>- 5.2.3.2. Aspect Leaders and Collaborators<br>- 5.2.3.3. Sprint Backlog 3<br>- 5.2.3.4. Development Evidence for Sprint Review<br>- 5.2.3.5. Execution Evidence for Sprint Review<br>- 5.2.3.6. Services Documentation Evidence for Sprint Review<br>- 5.2.3.7. Software Deployment Evidence for Sprint Review<br>- 5.2.3.8. Team Collaboration Insights during Sprint<br>- 5.3. Validation Interviews<br>- 5.3.1. Diseño de Entrevistas<br>- 5.3.2. Registro  de Entrevistas<br>- 5.3.3. Evaluaciones según heurísticas<br>- 5.4. Video About-the-Product<br>- Avance de Conclusiones, Bibliografía y Anexos <br><br> Asimismo, se han actualizado las secciones Registro de Versiones del Informe, Project Report Collaboration Insights y Sección Student Outcome.<br><br>Con respecto a los artefactos, se han desarrollado: <br>- Versión nueva del Landing Page <br>- Versión nueva del Frontend Web Applications<br>- Versión inicial del Backend Web Services<br>- Versión inicial del Video About-The-Product<br>- Versión inicial del Video About-The-Team |
 
 <hr>
 
@@ -68,7 +69,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
 ### Colaboración por Entrega
 
 - **TB1:**
-    Para la Primera Entrega (TB1) del Project Report, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
+    Para la entrega del TB1, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
 
     - Asignación de secciones por miembro:
         - Mathias Bueno Perales (MathiasBueno): Capitulo 2 (Repartido), Capitulo 3
@@ -85,46 +86,29 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
         - Creación de ramas con cada feature:
         <p align="center">
             <img src="assets/evidencias/repo-branches.png" alt="repo-branches" width=60% >
-        </p>
-        - Commits realizados en las ramas individuales:       
-        <p align="center">
-            <img src="assets/evidencias/commits-feature-paredes.png" alt="commits-feature-paredes" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/commits-feature-galvez.png" alt="commits-feature-galvez" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/commits-feature-rodriguez.png" alt="commits-feature-rodriguez" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/commits-feature-bueno.png" alt="commits-feature-bueno" width=60% >
-        </p>        
+        </p>       
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
             <img src="assets/evidencias/repo-pulse-analytics.png" alt="repo-pulse-analytics" width=60% >
         </p>        
 
 - **TP1:**
-    Para el Entrega Parcial (TB1) del Project Report, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
+    Para la entrega del TP1, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
 
-    - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:
-        - Commits realizados en las ramas individuales:       
-        <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-paredes-tp1" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-galvez-tp1" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-rodriguez-tp1" width=60% >
-        </p>
-        <p align="center">
-            <img src="assets/evidencias/" alt="commits-feature-bueno-tp1" width=60% >
-        </p>        
+    - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:               
         - Analítica del repositorio con participación de todos los miembros:
         <p align="center">
-            <img src="assets/evidencias/repo-pulse-analytics.png" alt="repo-pulse-analytics-tp1" width=60% >
+            <img src="assets/evidencias/tp1-insights.png" alt="repo-pulse-analytics-tp1" width=60% >
         </p>  
+
+- **TB2:**
+    Para la entrega del TB2, cada miembro del equipo participó activamente en la redacción de secciones específicas. La coordinación se realizó de forma asincrónica y vía reuniones breves en línea para consensuar estilos de redacción y criterios de inclusión.
+
+    - A continuación, se adjuntan capturas que evidencian el trabajo distribuido:               
+        - Analítica del repositorio con participación de todos los miembros:
+        <p align="center">
+            <img src="assets/evidencias/ alt="repo-pulse-analytics-tb2" width=60% >
+        </p> 
 <hr>
 
 ## Tabla de Contenidos
@@ -226,8 +210,24 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 [Conclusiones](#conclusiones)
+  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-The-Team](#video-about-the-team)
 
 [Bibliografía](#bibliografía)
 
@@ -2974,8 +2974,6 @@ A continuación, se presentan capturas de las principales vistas implementadas:
 
 
 
-
-
 Para una demostración completa de la visualización y navegación logradas en este Sprint, puedes acceder al siguiente video:  
 [Landing Page](https://youtu.be/czP-ZfhQGas)
 
@@ -2984,26 +2982,27 @@ Para una demostración completa de la visualización y navegación logradas en e
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-### 🛠️ Pasos para el despliegue en Netlify
+### 🛠️ Evidencias del despliegue en Firebase
 
 
 <p align="center">
-  <img src="assets/recursos/" alt="front-deploy" width="750">
+  <img src="assets/evidencias/tp1-front-deploy.png" alt="front-deploy" width="750">
 </p>
 
 <p align="center">
-  <img src="assets/recursos/" alt="front-deploy" width="750">
+  <img src="assets/evidencias/tp1-front-deploy-2.png" alt="front-deploy" width="750">
 </p>
 
 <p align="center">
-  <img src="assets/recursos/" alt="front-deploy" width="750">
+  <img src="assets/evidencias/tp1-front-deploy-3.png" alt="front-deploy" width="750">
 </p>
 
 Link deploy frontend:
-[Frontend Web Application]()
+[Frontend Web Application](https://deploy-appwebs.web.app/home)
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+
 
 
 <hr>
