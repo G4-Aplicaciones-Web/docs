@@ -245,8 +245,8 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
-|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** Me encargué de coordinar las actividades relacionadas con el desarrollo del Sprint 2 y la delegación de tareas. Asimismo, trabajé en conjunto con mis compañeros para la revisión y corrección de la entrega anterior. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** Elaboré el artefacto Leadership-and-Collaboration Matrix (LACX), definiendo quién lidera y quién colabora en cada aspecto del Sprint, lo que permitió una comunicación clara y liderazgo compartido dentro del equipo, fortaleciendo el trabajo conjunto y la responsabilidad compartida. <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> <br> **TP1:** Cada miembro del equipo asumió roles de liderazgo compartido en diferentes aspectos del proyecto, fomentando la toma de decisiones conjunta y asegurando que las responsabilidades fueran distribuidas equitativamente. Esto permitió mantener un enfoque claro hacia los objetivos del Sprint y fortaleció la cohesión del equipo. |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** Participé en la planificación de las actividades y metas para el Sprint 2, estableciendo comunicación con mis compañeros para reforzar el compromiso del equipo con los plazos de entrega. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** Contribuí a un entorno colaborativo mediante la planificación y ejecución del Sprint, estableciendo metas claras y cumpliendo objetivos como la implementación del CRUD de tracking en el frontend, además de documentar los avances con un resumen, screenshots y un video explicativo que facilita la inclusión y transparencia para todo el equipo.   <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. <br> <br> **TP1:** El equipo promovió un entorno inclusivo y colaborativo mediante reuniones virtuales regulares, donde se establecieron metas claras, se planificaron tareas específicas y se monitoreó el progreso. Este enfoque estructurado garantizó el cumplimiento de los objetivos del Sprint y reforzó la efectividad del trabajo en equipo. |
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** Durante el desarrollo del Sprint 2 y la implementación de la lógica del plan de comidas, colaboré activamente con el equipo, compartiendo conocimientos y tomando decisiones de manera conjunta. Este trabajo en equipo permitió asumir un liderazgo compartido, fomentando la cooperación, la toma de decisiones consensuada y el avance conjunto hacia los objetivos del proyecto.<br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** Me encargué de coordinar las actividades relacionadas con el desarrollo del Sprint 2 y la delegación de tareas. Asimismo, trabajé en conjunto con mis compañeros para la revisión y corrección de la entrega anterior. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> <br> **TP1:** Cada miembro del equipo asumió roles de liderazgo compartido en diferentes aspectos del proyecto, fomentando la toma de decisiones conjunta y asegurando que las responsabilidades fueran distribuidas equitativamente. Esto permitió mantener un enfoque claro hacia los objetivos del Sprint y fortaleció la cohesión del equipo. |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** Durante el desarrollo del Sprint 2 y la lógica del plan de comidas, contribuí a crear un entorno colaborativo e inclusivo, donde se promovió la participación de todos los miembros del equipo. Establecimos metas claras, planificamos tareas de forma coordinada y logramos cumplir con los objetivos propuestos de manera eficiente.<br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** Participé en la planificación de las actividades y metas para el Sprint 2, estableciendo comunicación con mis compañeros para reforzar el compromiso del equipo con los plazos de entrega. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. <br> <br> **TP1:** El equipo promovió un entorno inclusivo y colaborativo mediante reuniones virtuales regulares, donde se establecieron metas claras, se planificaron tareas específicas y se monitoreó el progreso. Este enfoque estructurado garantizó el cumplimiento de los objetivos del Sprint y reforzó la efectividad del trabajo en equipo. |
 
 <hr>
 
@@ -1307,11 +1307,11 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
     </tr>
     <tr>
       <td>US-28</td>
-      <td>Ver Ingredientes de Recetas</td>
-      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
+      <td>Hacer tracking del plan</td>
+      <td>Como usuario, quiero saber si la app sigue lo que yo hago con respecto al plan</td>
       <td>
-        <b>Escenario 1:</b> <i>Given</i> accedo a la descripcion de las comidas, <i>When</i> veo sus ingredientes, <i>Then</i> me aparecen todos los ingredientes de cada comida.<br>
-        <b>Escenario 2:</b> <i>Given</i> selecciono un ingrediente, <i>When</i> veo su descripcion, <i>Then</i> apareceran los nutrientes que aporta segun el ingrediente.
+        <b>Escenario 1:</b> <i>Given</i> ingreso a la app, <i>When</i> veo la seccion de tracking, <i>Then</i> me aparece un resumen relacionado a lo mio.<br>
+        <b>Escenario 2:</b> <i>Given</i> selecciono la opcion , <i>When</i> le doy a dejar de hacer tracking, <i>Then</i> el tracking se deshabilita.
       </td>
       <td>EP-07</td>
     </tr>
@@ -1567,8 +1567,8 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       <tr>
       <td>28</td>
       <td>US-28</td>
-      <td>Ver Ingredientes de Recetas</td>
-      <td>Como usuario, quiero conocer los ingredientes de cada alimento en las recetas para tenerlo en cuenta al cocinar las comidas.</td>
+      <td>Hacer tracking del plan</td>
+      <td>Como usuario, quiero saber si la app sigue lo que yo hago con respecto al plan</td>
       <td>5</td>
     </tr>
   </tbody>
@@ -2884,14 +2884,13 @@ El objetivo principal del Sprint 2 es desarrollar y desplegar el front-end que p
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-| US-01                         | Registro de Usuario  | T-16   | Desarrollar registro de usuario | Implementar el crud para el usuario en componentes de Vue | 2                     | Jhon Galvez Chambi | Done |
-| US-21                      | Navegar entre secciones desde la barra | T-17 | Dividir las secciones segun su funcionamiento | Crear secciones en componentes de Vue | 3                      | Fabrizio Paredes | Done |
-| US-04                         | Seccion Plan de Comidas      | T-18   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
-| US-28                         | Seccion Ingredientes      | T-19   | Desarrollar seccion de ingredientes| Convertir nuestros elementos de la sección ingredientes en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
-| US-27                         | Seccion de Recetas         | T-20   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
-| US-17                         | Seccion Niveles de Actividad        | T-21  | Desarrollar seccion asociada al nivel de actividad        | Crear seccion de niveles de actividad en componentes de Vue | 5                      | Sebastian Rodriguez | Done |
-| US-25                         | Seccion de Etiquetas        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de etiquetas en componentes de Vue     | 5 | Fabrizio Paredes | Done |
-| US-26                         |    Acceder desde distintos dispositivos     | T-23  | Reconocer funciones responsive  | Desarrollar las funciones responsive del front-end  | 5                      | Jhon Galvez Chambi | Done |
+| US-21                      | Navegar entre secciones desde la barra | T-17 | Dividir las secciones segun su funcionamiento | Crear secciones en componentes de Vue | 2 | Jhon Galvez Chambi  | Done  | 
+| US-19                      | Seccion About-us | T-18 | Desarrollar seccion about-us | Crear el componente about-us en Vue |3                      | Fabrizio Paredes | Done |
+| US-04                         | Seccion Plan de Comidas      | T-19   | Desarrollar seccion de plan de comidas| Convertir nuestros elementos de la sección plan de comidas en componentes de Vue | 2                     | Mathias Bueno Perales  | Done |
+| US-28                         | Seccion de Recomendaciones      | T-20   | Desarrollar seccion de recomendaciones| Convertir nuestros elementos de la sección recoemndaciones en componentes de Vue | 2                     | Sebastian Rodriguez | Done |
+| US-27                         | Seccion de Recetas         | T-21   | Desarrollar seccion de recetas| Crear una sección de recetas en componentes de Vue | 6                      |  Jhon Galvez Chambi | Done |
+| US-25                         | Seccion de Tracking        | T-22 | Desarrollar seccion de etiquetas| Crear seccion de tracking en componentes de Vue     | 5 | Fabrizio Paredes | Done |
+
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2913,6 +2912,23 @@ Durante este sprint, se implementaron y estilizaron correctamente las secciones 
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+
+Pagina deployada: https://deploy-appwebs.web.app/home
+
+  <p align="center">
+    <img src="assets/recursos/landingpageE1.png" alt="landingpageE1" width="750">
+  </p>
+
+  <p align="center">
+    <img src="assets/recursos/App_home.png" alt="landingpageE1" width="750">
+  </p>
+
+
+  <p align="center">
+    <img src="assets/recursos/app_recommendations.png" alt="landingpageE1" width="750">
+  </p>
+
+
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3002,6 +3018,10 @@ Link deploy frontend:
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<p align="center">
+        <img src="assets/evidencias/tci_2.png"/>    
+    </p>
 
 
 
