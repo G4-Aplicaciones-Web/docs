@@ -2680,6 +2680,14 @@ Para asegurar una comunicación clara y una asignación efectiva de responsabili
 
 El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
 
+Sprint backlog 1 en Trello: https://trello.com/invite/b/684224918de948956fb02989/ATTIf63cef9e60c1f4bdbf9d1a0654617d44A6AB6B1B/sprint-backlog-1-alimentate
+
+
+<p align="center">
+    <img src="assets/recursos/sprint_backlog_1_trello.png" alt="sprint-backlog-1" width=80%/>
+</p>
+
+
 | **Sprint 1**                  |                                |        |                                   |                                                                          |                        |                 |            |
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
