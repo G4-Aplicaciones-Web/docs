@@ -3111,20 +3111,53 @@ Con estos pasos, logramos implementar un flujo de despliegue eficiente y automat
 
 ##### 5.2.3.1. Sprint Planning 3.
 
+En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados del primer sprint. Este sprint se enfocará en iniciar el desarrollo del backend, asi como entregar una nueva version del frontend actualizado. El objetivo es proporcionar una base sólida para el despliegue en GitHub Pages, garantizando que el producto inicial esté accesible y funcional.
+
+| **Sprint #**                   | Sprint 3                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 08/06/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
+| **Sprint 3 Review Summary**    |   Se logro gran progreso en el desarrollo del backend, asi como actualizaciones y ajustes a nivel del frontend.                                                                                                                                                                                               |
+| **Sprint 3 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en terminar la implementacion de ciertas funcionalidades especificas en el frontend.                                                                                                                                                                                         |
+| **Sprint 3 Goal**              | Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra provocar impacto positivo en la salud y forma fisica de los usuarios |
+| **Sprint 3 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
+| **Sum of Story Points**        |  20
+
 ##### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se enfocó en el desarrollo del backend, asi como pulir algunos aspectos de nuestro frontend. Los aspectos principales considerados en este Sprint incluyen la creacion de los endpoints para acceder a los datos desde el backend, seguir patrones de diseño y asemejar mas nuestro frontend a como luce en las vistas creadas. A continuación, se presenta la matriz Leadership-and-Collaboration Matrix (LACX), que detalla los roles de liderazgo y colaboración asignados a cada miembro del equipo para los aspectos clave del Sprint.
+
+
+| **Team Member**       | **GitHub Username** | **---** <br> Leader (L)/Collaborator(C) | **---** <br> Leader (L)/Collaborator(C) | **----** <br> Leader (L)/Collaborator(C) | **-----** <br> Leader (L)/Collaborator(C) |
+|:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| **Bueno, Mathias**       | MathiasBueno  |      |      |      |      |
+| **Galvez, Jhon**         | Chaomeum      |      |      |      |      |
+| **Paredes, Fabrizio**    | psfa29        |      |      |      |      |
+| **Rodriguez, Sebastian** | Shiftinnnnn   |      |      |      |      |
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+*Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Durante el desarrollo de este sprint 3, no se aprendio aun a hacer el despliegue del backend, por lo que aun no se evidencia avance de este.
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
 
 ### 5.3. Validation Interviews
 
