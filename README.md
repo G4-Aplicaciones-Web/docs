@@ -2680,6 +2680,14 @@ Para asegurar una comunicación clara y una asignación efectiva de responsabili
 
 El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
 
+Sprint backlog 1 en Trello: https://trello.com/invite/b/684224918de948956fb02989/ATTIf63cef9e60c1f4bdbf9d1a0654617d44A6AB6B1B/sprint-backlog-1-alimentate
+
+
+<p align="center">
+    <img src="assets/recursos/sprint_backlog_1_trello.png" alt="sprint-backlog-1" width=80%/>
+</p>
+
+
 | **Sprint 1**                  |                                |        |                                   |                                                                          |                        |                 |            |
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
@@ -3103,20 +3111,68 @@ Con estos pasos, logramos implementar un flujo de despliegue eficiente y automat
 
 ##### 5.2.3.1. Sprint Planning 3.
 
+En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados del primer sprint. Este sprint se enfocará en iniciar el desarrollo del backend, asi como entregar una nueva version del frontend actualizado. El objetivo es proporcionar una base sólida para el despliegue en GitHub Pages, garantizando que el producto inicial esté accesible y funcional.
+
+| **Sprint #**                   | Sprint 3                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 08/06/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
+| **Sprint 3 Review Summary**    |   Se logro gran progreso en el desarrollo del backend, asi como actualizaciones y ajustes a nivel del frontend.                                                                                                                                                                                               |
+| **Sprint 3 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en terminar la implementacion de ciertas funcionalidades especificas en el frontend.                                                                                                                                                                                         |
+| **Sprint 3 Goal**              | Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra provocar impacto positivo en la salud y forma fisica de los usuarios |
+| **Sprint 3 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
+| **Sum of Story Points**        |  20
+
 ##### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se enfocó en el desarrollo del backend, asi como pulir algunos aspectos de nuestro frontend. Los aspectos principales considerados en este Sprint incluyen la creacion de los endpoints para acceder a los datos desde el backend, seguir patrones de diseño y asemejar mas nuestro frontend a como luce en las vistas creadas. A continuación, se presenta la matriz Leadership-and-Collaboration Matrix (LACX), que detalla los roles de liderazgo y colaboración asignados a cada miembro del equipo para los aspectos clave del Sprint.
+
+
+| **Team Member**       | **GitHub Username** | **---** <br> Leader (L)/Collaborator(C) | **---** <br> Leader (L)/Collaborator(C) | **----** <br> Leader (L)/Collaborator(C) | **-----** <br> Leader (L)/Collaborator(C) |
+|:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| **Bueno, Mathias**       | MathiasBueno  |      |      |      |      |
+| **Galvez, Jhon**         | Chaomeum      |      |      |      |      |
+| **Paredes, Fabrizio**    | psfa29        |      |      |      |      |
+| **Rodriguez, Sebastian** | Shiftinnnnn   |      |      |      |      |
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
+El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02/ATTI3594146641fad4af71bbd81c6c6ce11164D05008/sprint-backlog-3-alimentate
+
+| **Sprint 3**   |                                |        |                                   |                                                                          |                        |                 |            |
+| ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+|                       |  | T-23 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
+|                     |  | T-24 |  |  |3                      | Fabrizio Paredes | Done |
+|                          |       | T-25   | |  | 2                     | Mathias Bueno Perales  | Done |
+|                        |       | T-26  | |  | 2                     | Sebastian Rodriguez | Done |
+|                         |          | T-27   | |  | 6                      |  Jhon Galvez Chambi | Done |
+|                    |         | T-28 | |     | 5 | Fabrizio Paredes | Done |
+
 ##### 5.2.3.4. Development Evidence for Sprint Review.
+
+
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 
+*Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
 
 ### 5.3. Validation Interviews
 
