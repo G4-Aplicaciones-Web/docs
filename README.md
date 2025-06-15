@@ -3146,7 +3146,7 @@ La siguiente imagen muestra los commits agrupados por integrante, reflejando el 
 
 ##### 5.2.3.1. Sprint Planning 3.
 
-En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados del primer sprint. Este sprint se enfocará en iniciar el desarrollo del backend, asi como entregar una nueva version del frontend actualizado. El objetivo es proporcionar una base sólida para el despliegue en GitHub Pages, garantizando que el producto inicial esté accesible y funcional.
+En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 3 se centrará en el desarrollo inicial del backend y en la entrega de una versión actualizada y pulida del frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
 
 | **Sprint #**                   | Sprint 3                                                                                                                                                                                                                                          |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3158,19 +3158,19 @@ En esta reunión de planificación del Sprint 3, el equipo de desarrollo se reun
 | **Sprint 3 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en terminar la implementacion de ciertas funcionalidades especificas en el frontend.                                                                                                                                                                                         |
 | **Sprint 3 Goal**              | Nuestro objetivo es iniciar y realizar buen progreso en el desarrollo del backend de nuestro proyecto, asi como actualizar el frontend para que sea lo mas cercano a su concepcion. Haciendo esto, obtendremos una aplicacion funcional que lograra provocar impacto positivo en la salud y forma fisica de los usuarios |
 | **Sprint 3 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
-| **Sum of Story Points**        |  20
+| **Sum of Story Points**        |  20 |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators
 
-En este Sprint, el equipo se enfocó en el desarrollo del backend, asi como pulir algunos aspectos de nuestro frontend. Los aspectos principales considerados en este Sprint incluyen la creacion de los endpoints para acceder a los datos desde el backend, seguir patrones de diseño y asemejar mas nuestro frontend a como luce en las vistas creadas. A continuación, se presenta la matriz Leadership-and-Collaboration Matrix (LACX), que detalla los roles de liderazgo y colaboración asignados a cada miembro del equipo para los aspectos clave del Sprint.
+En este Sprint, el equipo se centró prioritariamente en el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos. Paralelamente, se dedicó a la optimización del frontend, buscando alinear su interfaz con los diseños de vista previamente definidos y aplicar patrones de diseño robustos. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
 
 
-| **Team Member**       | **GitHub Username** | **---** <br> Leader (L)/Collaborator(C) | **---** <br> Leader (L)/Collaborator(C) | **----** <br> Leader (L)/Collaborator(C) | **-----** <br> Leader (L)/Collaborator(C) |
+| **Team Member**       | **GitHub Username** | **Design Patterns Implementation** <br> Leader (L)/Collaborator(C) | **Data** <br> Leader (L)/Collaborator(C) | **Backend Endpoints** <br> Leader (L)/Collaborator(C) | **Frontend Refinement** <br> Leader (L)/Collaborator(C) |
 |:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| **Bueno, Mathias**       | MathiasBueno  |      |      |      |      |
-| **Galvez, Jhon**         | Chaomeum      |      |      |      |      |
-| **Paredes, Fabrizio**    | psfa29        |      |      |      |      |
-| **Rodriguez, Sebastian** | Shiftinnnnn   |      |      |      |      |
+| **Bueno, Mathias**       | MathiasBueno  |   C   |   C   |   C   |    L   |
+| **Galvez, Jhon**         | Chaomeum      |   C   |   C   |   L   |    C   |
+| **Paredes, Fabrizio**    | psfa29        |   C   |   L   |   C   |    C   |
+| **Rodriguez, Sebastian** | Shiftinnnnn   |   L   |   C   |   C   |    C   |
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
