@@ -246,7 +246,7 @@ Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros ju
 | <div style="width:100px">Criterio específico</div> | <div align="center" style="width:250px">Acciones Realizadas</div> | <div align="center" style="width:250px">Conclusiones</div> |
 |:-------------------:|-------------------|------------|
 |Trabaja en equipo para proporcionar liderazgo en forma conjunta| **- Mathias Bueno Perales** <br> **TB1:** A través de la realizacion de análisis competitivo, técnicas de needfinding, lenguaje común y herramientas de especificación de requerimientos, facilitando transmitir tanto aspectos estratégicos como necesidades de usuario y especificaciones técnicas, asegurando una comunicación.<br> **TP:** Durante el desarrollo del Sprint 2 y la implementación de la lógica del plan de comidas, colaboré activamente con el equipo, compartiendo conocimientos y tomando decisiones de manera conjunta. Este trabajo en equipo permitió asumir un liderazgo compartido, fomentando la cooperación, la toma de decisiones consensuada y el avance conjunto hacia los objetivos del proyecto.<br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** En esta entrega me encargue de comunicarle a mi equipo cual seria la metodología de trabajo, asimismo colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. <br> **TP:** Me encargué de coordinar las actividades relacionadas con el desarrollo del Sprint 2 y la delegación de tareas. Asimismo, trabajé en conjunto con mis compañeros para la revisión y corrección de la entrega anterior. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega me encargué de realizar una entrevista por cada segmento, adaptando mi comunicación oral para obtener información clara y relevante, asegurándome de que las preguntas fueran entendibles y adecuadas para el perfil de los entrevistados. <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** Realicé la seccion de Information Architecture, en el desarrollo del Landing Page y en realizar los Landing Page Wireframe y una entrevista para el segmento de nutricionista. <br> **TP:** Realicé una vista del front-end y correcciones. <br> **TB2:** Realicé la sección Team Collaboration Insights during Sprint <br> **TF:** <br> <br>| **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos <br> <br> **TP1:** Cada miembro del equipo asumió roles de liderazgo compartido en diferentes aspectos del proyecto, fomentando la toma de decisiones conjunta y asegurando que las responsabilidades fueran distribuidas equitativamente. Esto permitió mantener un enfoque claro hacia los objetivos del Sprint y fortaleció la cohesión del equipo. |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** Durante el desarrollo del Sprint 2 y la lógica del plan de comidas, contribuí a crear un entorno colaborativo e inclusivo, donde se promovió la participación de todos los miembros del equipo. Establecimos metas claras, planificamos tareas de forma coordinada y logramos cumplir con los objetivos propuestos de manera eficiente.<br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** Participé en la planificación de las actividades y metas para el Sprint 2, estableciendo comunicación con mis compañeros para reforzar el compromiso del equipo con los plazos de entrega. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** <br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. <br> <br> **TP1:** El equipo promovió un entorno inclusivo y colaborativo mediante reuniones virtuales regulares, donde se establecieron metas claras, se planificaron tareas específicas y se monitoreó el progreso. Este enfoque estructurado garantizó el cumplimiento de los objetivos del Sprint y reforzó la efectividad del trabajo en equipo. |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.| **- Mathias Bueno Perales** <br> **TB1:** Realizar los capitulos 2 y 3, asi como el analisis competitivo, me permitió estructurar la información de manera clara, precisa y adaptada a diferentes audiencias. Cada sección fue redactada con un enfoque adecuado para su público objetivo, asegurando que tanto stakeholders estratégicos como equipos técnicos comprendieran la información de manera efectiva. <br> **TP:** Durante el desarrollo del Sprint 2 y la lógica del plan de comidas, contribuí a crear un entorno colaborativo e inclusivo, donde se promovió la participación de todos los miembros del equipo. Establecimos metas claras, planificamos tareas de forma coordinada y logramos cumplir con los objetivos propuestos de manera eficiente.<br> **TB2:** <br> **TF:** <br> <br> **- Jhon Galvez Chambi** <br> **TB1:** Elabore los pautas y alineamientos que nuestro equipo seguiría durante el proceso de desarrollo de software. Participe en las reuniones sincronas y asincronas en las que el equipo planteaba objetivos a cumplir a lo largo de esta primera entrega. <br> **TP:** Participé en la planificación de las actividades y metas para el Sprint 2, estableciendo comunicación con mis compañeros para reforzar el compromiso del equipo con los plazos de entrega. <br> **TB2:** <br> **TF:** <br> <br> **- Fabrizio Paredes Santos** <br> **TB1:** En esta entrega elaboré documentos como el General Style Guidelines, el Web Style Guidelines y el mockup de la landing page, comunicando por escrito de manera clara y estructurada las directrices visuales y de estilo al equipo, facilitando su correcta comprensión y aplicación.<br> **TP:** <br> **TB2:** <br> **TF:** <br> <br> **- Sebastian Rodriguez** <br> **TB1:** Realicé la seccion de Information Architecture, en el desarrollo del Landing Page y en realizar los Landing Page Wireframe y una entrevista para el segmento de nutricionista. <br> **TP:** Realicé una vista del front-end y correcciones. <br> **TB2:** Realicé la sección Team Collaboration Insights during Sprint <br> **TF:** <br> <br> | **TB1:** Cada miembro participó en sus actividades asignadas, manteniendo el compromiso colaborativo que se pacto para este proyecto. Se cumplieron las metas planteadas durante cada reunion. <br> <br> **TP1:** El equipo promovió un entorno inclusivo y colaborativo mediante reuniones virtuales regulares, donde se establecieron metas claras, se planificaron tareas específicas y se monitoreó el progreso. Este enfoque estructurado garantizó el cumplimiento de los objetivos del Sprint y reforzó la efectividad del trabajo en equipo. |
 
 <hr>
 
@@ -2853,6 +2853,14 @@ Durante este Sprint, el equipo colaboró activamente en el desarrollo de la land
         <img src="assets/evidencias/landing-commits-sebas.png" alt="landing-commits-sebas"/>    
     </p>   
 
+  - Evidencia del avance grupal para el landing page:
+
+    <p align="center">
+        <img src="assets/evidencias/evidencias-insights-landing-page.png"/>    
+     </p>
+ 
+<hr>
+
 #### 5.2.2. Sprint 2
 
 ##### 5.2.2.1. Sprint Planning 2
@@ -3101,11 +3109,31 @@ Con estos pasos, logramos implementar un flujo de despliegue eficiente y automat
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
-<p align="center">
-        <img src="assets/evidencias/tci_2.png"/>    
-    </p>
+Durante esta fase del proyecto, el equipo mantuvo una coordinación constante en las tareas de frontend, aplicando principios de colaboración efectiva para asegurar consistencia en el diseño y funcionalidad de la interfaz.
 
+**Estrategia de colaboración aplicada:**
+
+- Coordinación en tiempo real mediante plataformas de comunicación como Discord y WhatsApp.
+- Distribución de responsabilidades basada en fortalezas individuales.
+- Uso de ramas organizadas (`feature/`, `develop`, `main`) para mantener un flujo de trabajo limpio.
+- Aplicación de *pull requests* y revisiones entre pares para asegurar calidad de código.
+- Seguimiento del progreso mediante issues y tableros en el repositorio.
+
+**Evidencia del trabajo conjunto:**
+
+La siguiente imagen muestra los commits agrupados por integrante, reflejando el involucramiento activo de todos los miembros en el desarrollo del frontend:
+
+<p align="center">
+    <img src="assets/evidencias/tci_2.png"/>
+</p>
 <hr>
+
+<p align="center">
+    <img src="assets/evidencias/evidencias-spring-2-insights.png"/>
+</p>
+<hr>
+
+
 
 #### 5.2.3. Sprint 3
 
