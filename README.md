@@ -3139,6 +3139,21 @@ En este Sprint, el equipo se enfocó en el desarrollo del backend, asi como puli
 
 ##### 5.2.3.3. Sprint Backlog 3.
 
+El objetivo principal del sprint backlog 3 es desarrollar nuestro backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02/ATTI3594146641fad4af71bbd81c6c6ce11164D05008/sprint-backlog-3-alimentate
+
+| **Sprint 3**   |                                |        |                                   |                                                                          |                        |                 |            |
+| ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+|                       |  | T-23 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
+|                     |  | T-24 |  |  |3                      | Fabrizio Paredes | Done |
+|                          |       | T-25   | |  | 2                     | Mathias Bueno Perales  | Done |
+|                        |       | T-26  | |  | 2                     | Sebastian Rodriguez | Done |
+|                         |          | T-27   | |  | 6                      |  Jhon Galvez Chambi | Done |
+|                    |         | T-28 | |     | 5 | Fabrizio Paredes | Done |
+
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
 
@@ -3153,7 +3168,7 @@ En este Sprint, el equipo se enfocó en el desarrollo del backend, asi como puli
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-Durante el desarrollo de este sprint 3, no se aprendio aun a hacer el despliegue del backend, por lo que aun no se evidencia avance de este.
+
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
