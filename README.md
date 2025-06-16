@@ -1315,6 +1315,16 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       </td>
       <td>EP-07</td>
     </tr>
+    <tr>
+      <td>US-29</td>
+      <td>Ver recomendaciones</td>
+      <td>Como usuario, quiero que la app me muestre recomendaciones para seguirlas en distintos momentos del dia</td>
+      <td>
+        <b>Escenario 1:</b> <i>Given</i> ingreso a la app, <i>When</i> veo la seccion de recomendaciones, <i>Then</i> me aparece un listado de recomendaciones.<br>
+        <b>Escenario 2:</b> <i>Given</i> selecciono una recomendaciones , <i>When</i> le doy a borrar recomendacion comletada, <i>Then</i> la recomendacion desaparece.
+      </td>
+      <td>EP-07</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1351,7 +1361,7 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
   - **Epica 07: Visualizacion Detallada**
 
   - Funcionalidades para ver diversas secciones fundamenteles respecto a nuestro core de negocio
-  - Historias relacionadas: US27 y US28
+  - Historias relacionadas: US27, US28 y US29
 
 
 ### 3.3. Impact Mapping
@@ -1564,11 +1574,18 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
       <td>Como usuario, quiero ver algunas recetas ya creadas para guardar las que me interesen.</td>
       <td>5</td>
     </tr>
-      <tr>
+    <tr>
       <td>28</td>
       <td>US-28</td>
       <td>Hacer tracking del plan</td>
       <td>Como usuario, quiero saber si la app sigue lo que yo hago con respecto al plan</td>
+      <td>5</td>
+    </tr>
+        <tr>
+      <td>29</td>
+      <td>US-29</td>
+      <td>Ver recomendaciones</td>
+      <td>Como usuario, quiero que la app me muestre recomendaciones para seguirlas en distintos momentos del dia</td>
       <td>5</td>
     </tr>
   </tbody>
@@ -3183,11 +3200,11 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
 |                       |  | T-23 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
-|                     |  | T-24 |  |  |3                      | Fabrizio Paredes | Done |
+|     US-28                | Hacer tracking del plan | T-24 | Obtener datos del tracking | Obtener datos del tracking |3                      | Fabrizio Paredes | Done |
 |                          |       | T-25   | |  | 2                     | Mathias Bueno Perales  | Done |
-|                        |       | T-26  | |  | 2                     | Sebastian Rodriguez | Done |
+|           US-29             |   Ver recomendaciones    | T-26  | Obtener datos de recomendaciones | Obtener datos de recomendaciones | 3                     | Sebastian Rodriguez | Done |
 |                         |          | T-27   | |  | 6                      |  Jhon Galvez Chambi | Done |
-|                    |         | T-28 | |     | 5 | Fabrizio Paredes | Done |
+|          US-28          |   Hacer tracking del plan      | T-28 | Crear nuevo tracking|  Crear nuevo tracking   | 5 | Fabrizio Paredes | Done |
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
