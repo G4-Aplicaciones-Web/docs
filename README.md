@@ -2383,22 +2383,39 @@ Link: https://youtu.be/JVdZbbtmtj4
 #### 4.7.1. Class Diagrams
 
 <p align="center">
-    <img src="assets/recursos/diagram-class.jpg" alt="class-diagram" width=80%/>
+    <img src="assets/recursos/diagram-class.jpeg" alt="class-diagram" width=100%/>
 </p>
 
 #### 4.7.2. Class Dictionary
 
-| Clase                | Descripción                                                                                                                            |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| `User`               | Representa a cualquier persona registrada en la plataforma. Contiene información básica como email, contraseña y rol de acceso.       |
-| `CustomerProfile`    | Perfil extendido del usuario con rol de cliente. Almacena datos personales, objetivos nutricionales, alergias y restricciones.         |
-| `NutritionistProfile`| Perfil del usuario con rol de nutricionista. Incluye credenciales profesionales y datos necesarios para crear y gestionar planes.      |
-| `MealPlan`           | Plan nutricional semanal personalizado. Contiene los días del plan, comidas asignadas y está relacionado con un perfil de cliente.     |
-| `MealPlanDay`        | Representa un día dentro de un plan nutricional. Incluye una estructura de comidas (desayuno, almuerzo, cena, snacks, etc.)           |
-| `Recipe`             | Receta saludable con nombre, instrucciones, tiempo de preparación, ingredientes y valor nutricional asociado.                          |
-| `Ingredient`         | Ingrediente individual utilizado en una receta. Contiene nombre, cantidad, unidad de medida y valores nutricionales por porción.       |
-| `Macros`             | Información nutricional agrupada: calorías, proteínas, grasas y carbohidratos. Puede pertenecer a recetas o planes de comida.         |
-| `FavoriteRecipe`     | Relación entre un cliente y una receta que ha marcado como favorita. Permite personalizar sugerencias y accesos rápidos.               |
+| Clase                    | Descripción                                                                                                                              |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `User`                   | Representa a cualquier persona registrada en la plataforma. Incluye ID, nombre, correo, contraseña, rol y fecha de creación.             |
+| `UserProfile`            | Perfil del usuario. Contiene género, edad, altura, peso, nivel de actividad física, alergias, objetivos, recetas favoritas, y MealPlans. |
+| `Objective`              | Meta nutricional que el usuario desea alcanzar (bajar de peso, subir masa muscular, etc.). Está compuesta por un nombre y puntaje.       |
+| `ActivityLevel`          | Describe el nivel de actividad física del usuario (ej. sedentario, activo). Influye en el cálculo calórico diario.                       |
+| `Allergy`                | Representa alergias alimentarias del usuario, asociadas a ingredientes específicos.                                                      |
+| `Ingredient`             | Ingrediente individual utilizado en recetas. Incluye nombre, valores nutricionales (`Macros`) y su categoría.                            |
+| `IngredientQuantity`     | Relación entre un `Ingredient` y la cantidad usada en una receta. Se expresa como una clase compuesta.                                   |
+| `Macros`                 | Representa la información nutricional de un ingrediente o receta: calorías, proteínas, grasas y carbohidratos.                           |
+| `Category`               | Agrupa ingredientes en categorías generales como vegetales, carnes, cereales, etc.                                                       |
+| `Recipe`                 | Receta con nombre, descripción, pasos, lista de ingredientes, tipo de receta y valor nutricional. Puede ser marcada como favorita.       |
+| `RecipeType`             | Categoría especial que clasifica recetas según criterios alimentarios (keto, vegana, etc.).                                              |
+| `FavoriteRecipe`         | Asociación entre un usuario y una receta marcada como favorita para facilitar el acceso y la personalización.                            |
+| `FavoriteIngredient`     | Asociación entre un usuario y un ingrediente que ha marcado como favorito.                                                               |
+| `MealPlan`               | Plan alimenticio personalizado. Incluye fecha de creación, lista de `MealPlanEntry` y valores nutricionales totales.                     |
+| `MealPlanEntry`          | Entrada que representa una comida específica dentro del plan alimenticio. Relaciona una receta con un tipo de comida y día.              |
+| `MealPlanType`           | Define el tipo de comida (desayuno, almuerzo, cena, etc.).                                                                               |
+| `Tracking`               | Registro diario de lo que el usuario ha consumido, compuesto por entradas con recetas o ingredientes.                                    |
+| `TrackingEntry`          | Entrada individual dentro de un tracking diario. Asocia una receta y sus macros.                                                         |
+| `TrackingGoal`           | Meta activa del usuario que permite verificar el progreso con relación al objetivo nutricional planteado.                                |
+| `MealPlanGenerator`      | Clase lógica que genera automáticamente un `MealPlan` usando datos como preferencias, restricciones, objetivos y favoritos del usuario.  |
+| `Recommendation`         | Consejo o sugerencia generada automáticamente basada en características del usuario. Tiene título, contenido, tipo y fecha de creación.  |
+| `RecommendationType`     | Tipo o categoría de la recomendación: nutricional, hidratación, estilo de vida, etc.                                                     |
+| `RecommendationCriteria` | Objeto de valor usado para filtrar y generar recomendaciones. Incluye datos como objetivo, género, alergias y actividad física.          |
+| `GeneratedPlanSummary`   | (Si aparece en tu lógica) Clase resumen que recopila métricas finales del plan alimenticio generado para evaluación.                     |
+
+
 
 ### 4.8. Database Design
 
