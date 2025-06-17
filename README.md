@@ -1358,7 +1358,7 @@ Acceso a asistencia técnica o consultas generales sobre el funcionamiento de la
   - Funcionalidades para la visualizacion de la landing page, navegacion a traves de ella e informacion
   - Historias relacionadas: US19, US20, US21, US22, US23, US24, US25, US26
 
-  - **Epica 07: Visualizacion Detallada**
+- **Epica 07: Visualizacion Detallada**
 
   - Funcionalidades para ver diversas secciones fundamenteles respecto a nuestro core de negocio
   - Historias relacionadas: US27, US28 y US29
@@ -3199,15 +3199,30 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-|                       |  | T-23 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
+|        US-27          | Ver recetas del plan | T-23 | Crear nueva receta | Crear nueva receta | 2 | Jhon Galvez Chambi  | Done  | 
 |     US-28                | Hacer tracking del plan | T-24 | Obtener datos del tracking | Obtener datos del tracking |3                      | Fabrizio Paredes | Done |
-|                          |       | T-25   | |  | 2                     | Mathias Bueno Perales  | Done |
-|           US-29             |   Ver recomendaciones    | T-26  | Obtener datos de recomendaciones | Obtener datos de recomendaciones | 3                     | Sebastian Rodriguez | Done |
-|                         |          | T-27   | |  | 6                      |  Jhon Galvez Chambi | Done |
-|          US-28          |   Hacer tracking del plan      | T-28 | Crear nuevo tracking|  Crear nuevo tracking   | 5 | Fabrizio Paredes | Done |
+|         US-04                 |  Plan Alimenticio Personalizado    | T-25   | Crear nuevo plan alimenticio| Crear nuevo plan alimenticio | 2                     | Mathias Bueno Perales  | Done |
+|         US-04                 |  Plan Alimenticio Personalizado    | T-26   | Obtener datos de plan aliemnticio| Obtener datos de plan aliemnticio | 2                     | Mathias Bueno Perales  | Done |
+|           US-29             |   Ver recomendaciones    | T-27  | Obtener datos de recomendaciones | Obtener datos de recomendaciones | 3                     |Sebastian Rodriguez | Done |
+|           US-29             |   Ver recomendaciones    | T-28  |Crear nueva recomendacion | Crear nueva recomendacion| 3                     |Sebastian Rodriguez | Done |
+|                 US-27        |    Ver recetas del plan      | T-29   | Obtener datos de la receta |  Obtener datos de la receta| 6                      |  Jhon Galvez Chambi | Done |
+|          US-28          |   Hacer tracking del plan      | T-30 | Crear nuevo tracking|  Crear nuevo tracking   | 5 | Fabrizio Paredes | Done |
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| G4-Aplicaciones-Web/frontend |develop    |                       |      |-    | 17/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                        |      | -    | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                 |          | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |               |           | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                    |           | -                              | /06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                  |        | -                              | /06/2025               |
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
