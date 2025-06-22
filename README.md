@@ -3251,6 +3251,28 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 
 *Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
 
+**Tracking Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_tracking1.png" alt="backend-tracking1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_tracking2.png" alt="backend-tracking2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_tracking3.png" alt="backend-tracking3" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_tracking4.png" alt="backend-tracking4" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_tracking5.png" alt="backend-tracking5" width=80%/>
+</p>
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 *Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
