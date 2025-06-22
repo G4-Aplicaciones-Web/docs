@@ -3212,6 +3212,11 @@ El objetivo principal del sprint backlog 3 es desarrollar nuestro backend consid
 
 Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02/ATTI3594146641fad4af71bbd81c6c6ce11164D05008/sprint-backlog-3-alimentate
 
+
+<p align="center">
+    <img src="assets/recursos/sprint_backlog_3_trello.png" alt="sprint-backlog-3" width=80%/>
+</p>
+
 | **Sprint 3**   |                                |        |                                   |                                                                          |                        |                 |            |
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
