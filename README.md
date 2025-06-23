@@ -3353,21 +3353,13 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 
 ### 5.4. Video About-the-Product
 
-**Reemplazar**
-En esta sección el equipo introduce y describe el contenido del Video About-the-
-Product, el cual tiene como público objetivo los visitantes al Landing Page, quienes
-desean conocer sobre el modelo de negocio y las características principales de los
-productos de software, al igual que los usuarios de las Aplicaciones, quienes desean
-realizar tareas relacionadas con los procesos soportados por la solución. El tono que
-utilice en la comunicación debe ser consistente con el tono adoptado para el
-producto y debe incluirse al menos un testimonio positivo de un usuario que haya
-participado en las entrevistas de validación. Debe incluirse también en esta sección
-un screenshot del Video, el URL de la versión publicada en Microsoft Stream (y
-además, el URL de la versión publicada en YouTube utilizada para incrustarse en el
-Landing Page), así como el timing (duración) del mismo. Ver otras indicaciones
-importantes en el Anexo C. Indicaciones para secciones que incluyen Videos.
+<p align="center">
+    <img src="assets/recursos/abouttheproduct.jpg" alt="abouttheproduct" width=80%/>
+</p>
 
-URL del video: []
+Duración: 0:56
+
+URL del video: [https://youtu.be/l6Ic75To2L8]
 
 ## Conclusiones
 
@@ -3382,19 +3374,13 @@ URL del video: []
 
 ### Video About-The-Team 
 
-**Reemplazar**
-En esta sección el equipo elabora un resumen de los aspectos más relevantes del
-video About-The-Team, la pauta de secuencias de contenido (secciones con el timing
-de inicio de cada una, es decir hh:mm:ss de cada sección dentro del video)
-incluyendo además un cuadro de video representativo del mismo, junto con el URL
-de la versión publicada en Microsoft Stream (y además, el URL de la versión
-publicada en YouTube utilizada para incrustarse en el Landing Page).
-Este video resume el proceso de trabajo realizado, incluyendo escenas con imágenes
-o video de sesiones de trabajo real del equipo, complementando con narración (voz
-en off) del proceso. Incluye además el testimonio ante cámara de cada participante
-describiendo actividades realizadas, logro de outcomes y desarrollo de competencias
-alcanzados. Ver otras indicaciones importantes en el Anexo C. Indicaciones para
-secciones que incluyen Videos.
+<p align="center">
+    <img src="assets/recursos/abouttheteam.jpg" alt="abouttheteam" width=80%/>
+</p>
+
+Duración: 7:30
+
+URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/Ebl2fAzuXmxNrrAs9B7BYCoBbi4AEMEgT3vKqDZok-7IBw?e=awyrNy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]
 
 <hr>
 
@@ -3421,3 +3407,11 @@ https://github.com/G4-Aplicaciones-Web/landing-page
 Front-end - AlimentatePlus
 
 https://github.com/G4-Aplicaciones-Web/frontend
+
+Video-About-The-Product
+
+https://youtu.be/l6Ic75To2L8
+
+Video-About-The-Team
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/Ebl2fAzuXmxNrrAs9B7BYCoBbi4AEMEgT3vKqDZok-7IBw?e=awyrNy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
