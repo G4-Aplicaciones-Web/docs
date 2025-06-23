@@ -3295,21 +3295,11 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 
 ### 5.4. Video About-the-Product
 
-**Reemplazar**
-En esta sección el equipo introduce y describe el contenido del Video About-the-
-Product, el cual tiene como público objetivo los visitantes al Landing Page, quienes
-desean conocer sobre el modelo de negocio y las características principales de los
-productos de software, al igual que los usuarios de las Aplicaciones, quienes desean
-realizar tareas relacionadas con los procesos soportados por la solución. El tono que
-utilice en la comunicación debe ser consistente con el tono adoptado para el
-producto y debe incluirse al menos un testimonio positivo de un usuario que haya
-participado en las entrevistas de validación. Debe incluirse también en esta sección
-un screenshot del Video, el URL de la versión publicada en Microsoft Stream (y
-además, el URL de la versión publicada en YouTube utilizada para incrustarse en el
-Landing Page), así como el timing (duración) del mismo. Ver otras indicaciones
-importantes en el Anexo C. Indicaciones para secciones que incluyen Videos.
+<p align="center">
+    <img src="assets/recursos/abouttheproduct.jpg" alt="abouttheproduct" width=80%/>
+</p>
 
-URL del video: []
+URL del video: [https://youtu.be/l6Ic75To2L8]
 
 ## Conclusiones
 
@@ -3363,3 +3353,7 @@ https://github.com/G4-Aplicaciones-Web/landing-page
 Front-end - AlimentatePlus
 
 https://github.com/G4-Aplicaciones-Web/frontend
+
+Video-About-The-Product
+
+https://youtu.be/l6Ic75To2L8
