@@ -3234,17 +3234,15 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| G4-Aplicaciones-Web/frontend |develop    |                       |      |-    | 17/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                        |      | -    | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                 |          | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |               |           | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                    |           | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                  |        | -                              | /06/2025               |
+| G4-Aplicaciones-Web/frontend |develop    |           b68f741            |   feat: add interfaces for managing repository data transactions   |-    | 17/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |          889696c              |   feat(shared): add initial deployment configuration   | -    | 20/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |        59a1dc4             |  feat(recipes): add domain model layer: aggregates, entities and value objects        | -        | 21/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |          b1d8e10       |     feat(recipes): add command contracts for domain model layer     | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |            c44a17c       |       feat(recipes): implement multiple repository and service refactors     | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |           6bb1f26         |   feat:(mealplan) creating meal plan table, queries and commnads         | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |        fea4baa           |    feat:updating dbcontext with meal plans table        | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |       4eed907        |      feat: add Tracking Bounded Context     | -                              | 22/06/2025               |
+
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
