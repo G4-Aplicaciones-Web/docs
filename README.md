@@ -3333,6 +3333,9 @@ _Características Principales del Release:_
 
 La API RESTful de AlimentatePlus está completamente documentada utilizando OpenAPI. Esta documentación detalla todos los endpoints disponibles, los parámetros de solicitud, los formatos de respuesta y los códigos de estado, facilitando la integración y el consumo de nuestros servicios por el frontend web. La documentación OpenAPI es crucial para el desarrollo colaborativo y para futuras expansiones del sistema, sirviendo como una referencia clara y concisa de las capacidades de nuestra API. Hemos priorizado la consistencia y la claridad en la definición de cada recurso y operación, lo que permite a los desarrolladores comprender rápidamente cómo interactuar con nuestra plataforma para crear y gestionar las experiencias personalizadas de los usuarios de AlimentatePlus.
 
+<p align="center">
+    <img src="assets/recursos/Swagger" alt="swagger endpoints" width=80%/>
+</p>
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -3347,7 +3350,27 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 
 #### 5.3.1. Diseño de Entrevistas
 
+- ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito vive actualmente?
+- ¿Qué opinas del diseño del Landing page? ¿Le incentiva a entrar a la aplicación y registrarse?
+- ¿Considera que la aplicación dispone de una interfaz fácil e intuitiva de utilizar? En caso afirmativo, ¿qué funcionalidades le agradaron más? En caso negativo, ¿qué funcionalidad cree que falta o sobra para aumentar su interés en usarla?
+- ¿Qué tipo de dispositivo (Smartphone, Tablet, Laptop, etc.) utilizó para probar la página de destino y la aplicación web?
+- ¿Cuál fue el navegador que utilizó para visualizar el contenido en esta ocasión?
+- ¿Hubo algún aspecto visual, como la disposición de los elementos, que no le agradó?
+
+
 #### 5.3.2. Registro de Entrevistas.
+
+Entrevista 1:
+
+https://youtu.be/_br695NuQFw
+
+
+Entrevista 2:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EQS1B9eK5VVCvdrsAk_T07oB-5F9iYVAYXx4HtXnxcQq8Q?e=b7fBJb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevista 3:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/ERTkfqswAN5PpQMFJ0qyLaMBh-wGLkJfP5EN5CjlrER21g?e=xQf7IL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
