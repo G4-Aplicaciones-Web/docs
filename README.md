@@ -3232,24 +3232,78 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 
 ##### 5.2.3.4. Development Evidence for Sprint Review.
 
-| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
-|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| G4-Aplicaciones-Web/frontend |develop    |                       |      |-    | 17/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                        |      | -    | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                 |          | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |               |           | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                    |           | -                              | /06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |                  |        | -                              | /06/2025               |
+Resumen del Deployment
+
+_Características Principales del Release:_
+- **Bounded Contexts Implementados**: Recipes, Meal Plans, Recommendations
+- **Arquitectura**: Domain-Driven Design (DDD) con capas bien definidas
+- **Configuración de Deployment**: Azure App Service configurado
+- **Base de Datos**: Entity Framework Core con repositorios implementados
+
+### Componentes Desplegados:
+1. **Recipe Management System**
+   - Controllers REST implementados
+   - Servicios de comandos y consultas
+   - Repositorios con EFC
+   - Modelo de dominio completo
+
+2. **Meal Plan System**
+   - Tablas de planes de comida
+   - Queries y commands implementados
+   - Sistema de descuentos integrado
+
+3. **Recommendations System**
+   - Endpoints en Swagger documentados
+   - Bounded context actualizado
+
+4. **Infrastructure**
+   - Configuración de Azure App Service
+   - Workflows de CI/CD configurados
+   - Interfaces de repositorio para transacciones
+
+### Estado del Deployment:
+- **Branch Principal**: develop
+- **Último Commit**: c9bf2e0 (22/06/2025)
+- **Plataforma**: Azure App Service
+- **Estado**: ✅ Verified (múltiples commits verificados)
+
+
+| **Repository**               | **Branch** | **Commit Id** | **Commit Message**                                                    | **Commit Message Body** | **Committed on (Date)** |
+|------------------------------|------------|---------------|-----------------------------------------------------------------------|-------------------------|-------------------------|
+| G4-Aplicaciones-Web/backend  | develop    | c9bf2e0       | feat: add recipes, meal plans and recommendations bounded contexts    | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | f4b1549       | Merge pull request feature/rodriguez                                  | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 7473ddf       | Merge branch 'develop' into feature/rodriguez                         | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | f8c20e8       | Merge branch 'develop' into feature/rodriguez                         | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 9c54a1c       | feat(recipes): add interface rest layer controllers                   | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 84c38ca       | Merge branch 'develop' into feature/galvez                           | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 638fab8       | feat(recipes): add rest interfaces controllers                        | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 713eb7f       | feat: rama Recommendations, actualizada con nuevos endpoints en swagger | -                     | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | d51dcc6       | feat(recipes): add rest interface layer resources and assemblers     | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | f5a8ba5       | feat(updating discount with meal plans table                         | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | db5f2e6       | feat(mealplan) creating meal plan table, queries and commands        | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 7acc9f6       | feat(recipes): add ingredient and recipe command service implementation | -                     | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 1f5371a       | feat(recipes): add ingredient and recipe query services implementation | -                     | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | c4da37c       | feat(recipes): implement multiple repository and service refactors   | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 515e512       | refactor(recipes): update EFC repository implementations for ingredients and recipes | -   | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 9c61981       | Merge remote-tracking branch 'origin/develop' into feature/rodriguez | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 2b9d879       | refactor(recipes): update repository interfaces for ingredients and recipes | -             | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | c1f51a3       | refactor(shared): fix method naming in IBaseRepository interface      | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 2ec4da7       | refactor(recipes): update query service interfaces                    | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | a7a6da1       | refactor(recipes): rename UpdateIngredientQuantity command and update command service interfaces | - | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 51297d6       | feat(recipes): add query contracts for domain model layer            | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 61c0ac16      | feat(recipes): add command contracts for domain model layer          | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 3ca4c99       | feat(recipes): add domain model layer: aggregates, entities and value objects | -           | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 9ba3dc4       | feat(recipes): add domain model layer: aggregates, entities and value objects | -           | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 1e29eef       | Merge branch 'feature/galvez' into develop                           | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 157dd8d       | Merge branch 'main' of https://github.com/G4-Aplicaciones-Web/backend into develop | -       | 21/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 88906dc       | feat(shared): add initial deployment configuration                    | -                       | 21/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | 9c2498b       | Add or update the Azure App Service build and deployment workflow config | -                   | 20/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | dbedbd6       | feat: add interfaces for managing repository data transactions       | -                       | 20/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | bd9f741       | feat: add interfaces for managing repository data transactions       | -                       | 04/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | bd5c392       | initial setup                                                         | -                       | 04/06/2025              |
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
-
-*Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
 
 **Tracking Bounded Context**
 
@@ -3275,7 +3329,11 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
+- Deploy: https://alimentateplus-c6decvgheceedwgx.canadacentral-01.azurewebsites.net/swagger/index.html 
+
+La API RESTful de AlimentatePlus está completamente documentada utilizando OpenAPI. Esta documentación detalla todos los endpoints disponibles, los parámetros de solicitud, los formatos de respuesta y los códigos de estado, facilitando la integración y el consumo de nuestros servicios por el frontend web. La documentación OpenAPI es crucial para el desarrollo colaborativo y para futuras expansiones del sistema, sirviendo como una referencia clara y concisa de las capacidades de nuestra API. Hemos priorizado la consistencia y la claridad en la definición de cada recurso y operación, lo que permite a los desarrolladores comprender rápidamente cómo interactuar con nuestra plataforma para crear y gestionar las experiencias personalizadas de los usuarios de AlimentatePlus.
+
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
