@@ -35,7 +35,7 @@
 
 </div>
 
-<div align="center"> Abril 2025 </div>
+<div align="center"> Julio 2025 </div>
 
 <hr>
 
@@ -219,6 +219,15 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3283,9 +3292,106 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 
 Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
 
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4.
+
+En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 4 se centrará en culminar el desarrollo backend y juntarlo a nuestro frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
+
+| **Sprint #**                   | Sprint 4                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 02/07/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
+| **Sprint 4 Review Summary**    |   Se logro culminar el desarrollo backend, asi como juntarlo con nuestro frontend.                                                                                                                                                                                               |
+| **Sprint 4 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en terminar la implementacion de ciertas funcionalidades especificas en el frontend.                                                                                                                                                                                         |
+| **Sprint 4 Goal**              | Nuestro objetivo es culminar el desarrollo backend de nuestro producto, asi como juntarlo el frontend. Haciendo esto, obtendremos una aplicacion funcional que lograra provocar impacto positivo en la salud y forma fisica de los usuarios |
+| **Sprint 4 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
+| **Sum of Story Points**        |  12 |
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se centró prioritariamente en el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos.Al mismo tiempo, implementar su funcionalidad en el frontend. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
+
+
+| **Team Member**       | **GitHub Username** | **Design Patterns Implementation** <br> Leader (L)/Collaborator(C) | **Data** <br> Leader (L)/Collaborator(C) | **Backend Endpoints** <br> Leader (L)/Collaborator(C) | **Frontend Config** <br> Leader (L)/Collaborator(C) |
+|:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| **Bueno, Mathias**       | MathiasBueno  |   C   |   C   |   C   |    L   |
+| **Galvez, Jhon**         | Chaomeum      |   C   |   C   |   L   |    C   |
+| **Paredes, Fabrizio**    | psfa29        |   C   |   L   |   C   |    C   |
+| **Rodriguez, Sebastian** | Shiftinnnnn   |   L   |   C   |   C   |    C   |
+
+##### 5.2.4.3. Sprint Backlog 4.
+
+El objetivo principal del sprint backlog 4 es culminar el backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 4 en Trello: 
+
+
+<p align="center">
+    <img src="assets/recursos/sprint_backlog_4_trello.png" alt="sprint-backlog-4" width=80%/>
+</p>
+
+| **Sprint 4**   |                                |        |                                   |                                                                          |                        |                 |            |
+| ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+|        US-          |  | T-31 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
+|        US-          |  | T-32 |  |  | 3 | Fabrizio Paredes | Done |
+|        US-          |  | T-33 |  |  | 2 | Mathias Bueno Perales  | Done |
+|        US-          |  | T-34 |  |  | 2 | Mathias Bueno Perales  | Done |
+|        US-          |  | T-35 |  |  | 3 | Sebastian Rodriguez | Done |
+|        US-          |  | T-36 |  |  | 3 | Sebastian Rodriguez | Done |
+|        US-          |  | T-37 |  |  | 6 |  Jhon Galvez Chambi | Done |
+|        US-          |  | T-38 |  |  | 5 | Fabrizio Paredes | Done |
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| G4-Aplicaciones-Web/frontend |develop    |           b68f741            |   feat: add interfaces for managing repository data transactions   |-    | 17/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |          889696c              |   feat(shared): add initial deployment configuration   | -    | 20/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |        59a1dc4             |  feat(recipes): add domain model layer: aggregates, entities and value objects        | -        | 21/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |          b1d8e10       |     feat(recipes): add command contracts for domain model layer     | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |            c44a17c       |       feat(recipes): implement multiple repository and service refactors     | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |           6bb1f26         |   feat:(mealplan) creating meal plan table, queries and commnads         | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |        fea4baa           |    feat:updating dbcontext with meal plans table        | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/backend | develop    |       4eed907        |      feat: add Tracking Bounded Context     | -                              | 22/06/2025               |
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+*Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en culmninar el backend y juntarlo y hacerlo funcional con el frontend.
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas
+
+##### 1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En que distrito vive actualmente?
+
+##### 2. ¿Que opina del diseño de nuestra landing page? ¿Le sirve de incentivo para entrar a la aplicación y registrarse?
+
+##### 3. ¿Considera que nuestra aplicación tiene una interfaz fácil y sencilla de usar? en caso que si, que funcionalidades le agradan más? y en lo contrario, que funcionalidad piensa que sobra o falta para aumentar su interés en usarla?
+
+##### 4. ¿Que dispositivo utilizo para probar la pagina y aplicación web?
+
+##### 5. ¿Hubo algún aspecto visual que no le agrado?
 
 #### 5.3.2. Registro de Entrevistas.
 
