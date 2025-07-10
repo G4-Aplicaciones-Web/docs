@@ -3280,9 +3280,99 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
     <img src="assets/recursos/backend_tracking5.png" alt="backend-tracking5" width=80%/>
 </p>
 
+**Ingredients Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_1.png" alt="backend-ingredient1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_2.png" alt="backend-ingredient2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_3.png" alt="backend-ingredient3" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_4.png" alt="backend-ingredient4" width=80%/>
+</p>
+
+**Recipes Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas_1.png" alt="backend-recipe1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas-2.png" alt="backend-recipe2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas_3.png" alt="backend-recipe3" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas_4.png" alt="backend-recipe4" width=80%/>
+</p>
+
+**Meal Plans Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_meal-plans_1.png" alt="backend-mealplan1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_meal-plans_2.png" alt="backend-mealplan2" width=80%/>
+</p>
+
+
+
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Meal Plan Entries Management** ||||
+| POST | `/api/v1/meal-plan-entries/{trackingId}` | Agrega una entrada de meal plan por id de tracking | Crea una nueva entrada de tracking  |
+| GET | `/api/v1/meal-plan-entries/tracking/{trackingId}` | Obtiene datos de tracking por tracking id | Visualizar el tracking asociado al id |
+| PUT | `/api/v1/meal-plan-entries/{mealPlanEntryId}` | Actualiza una entrada al meal plan segun su id | Modifica una entrada del meal plan  |
+| DELETE | `/api/v1/meal-plan-entries/tracking/{trackingId}/entry/{mealPlanEntryId}` | Elimina la entrada al meal plan segun sus ids | Dar baja a una entrada al meal plan existente |
+| **Tracking Management** ||||
+| POST | `/api/v1/tracking` | Crea un nuevo tracking | Registra un nuevo tracking |
+| GET | `/api/v1/tracking/user/{userId}` | Obtiene tracking por id de usuario | Visualizar el tracking segun el usuario |
+| GET | `/api/v1/tracking/macronutrients/consumed/tracking/{trackingId}` | Obtiene los macronutrientes consumidos por id de tracking | Macronutrientes especificos de usuario |
+| **Tracking Goals Management** ||||
+| GET | `/api/v1/tracking-goals/user/{userId}` | Obtiene meta de tracking por id de usuario | Ver datos del tracking del usuario asociado |
+| GET | `/api/v1/tracking-goals/{trackingGoalId/target-macros}` | Obtiene macronutrientes obtenidos por id de meta de tracking | Datos de macronutrientes asociados a meta de tracking |
+| POST | `/api/v1/tracking-goals` | Crea meta de tracking | Registrar nueva meta de tracking |
+| **Tracking Macronutrient Management** ||||
+| GET | `/api/v1/macronutrients/consumed/tracking/{trackingId}` | Obtiene macronutrientes consumidos por id de tracking | Ver datos de macronutrientes asociados |
+| **Ingredients Management** ||||
+| POST | `/api/v1/ingredients` | Crea nuevo ingrediente | Registrar nuevo ingrediente |
+| GET | `/api/v1/ingredients` | Obtener todos los ingredientes | Datos de ingredientes |
+| GET | `/api/v1/ingredients/{ingredientId}` | Obtiene un ingrediente por su id | Datos de ingredientes por id asociado |
+| PUT | `/api/v1/ingredients/{ingredientId}` | Actualiza ingrediente | Modificar ingrediente |
+| GET | `/api/v1/ingredients/by-name` | Obtiene ingrediente por su nombre | Devuelve ingrediente por su nombre |
+| GET | `/api/v1/ingredients/by-category/{category}` | Obtiene ingrediente por categoria | Devuelve ingrediente por su categoria |
+| GET | `/api/v1/ingredients/by-ids` | Obtiene ingredientes por lista de ids | Devuelve varios ingredientes por lista de ids |
+| **Recipes Management** ||||
+| GET | `/api/v1/recipes/{recipeId}` | Obtiene una receta por su id | Datos de recetas por id asociado |
+| PUT | `/api/v1/recipes/{recipeId}` | Actualiza receta | Modificar recetas |
+| DELETE | `/api/v1/recipes/{recipeId}` | Borrar receta por su id | Eliminar recetas |
+| GET | `/api/v1/recipes` | Obtiene datos de recetas | Devolver datos de recetas |
+| POST | `/api/v1/recipes` | Crear nuevas recetas | Registrar nuevas recetas |
+| GET | `/api/v1/recipes/search-by-name` | Buscar receta por su nombre | Devolver datos de recetas por su nombre asociado |
+| GET | `/api/v1/recipes/by-type/{recypeType}` | Buscar receta por su tipo de receta | Devolver datos de recetas por tipo |
+| POST | `/api/v1/recipes/{recipeId}/ingredients` | Crear nuevas ingredientes para una receta | Registrar nuevas ingredientes para las recetas |
+| DELETE | `/api/v1/recipes/{recipeId}/ingredients/{ingredientId}` | Borrar un ingrediente de una receta | Eliminar ingredientes de recetas |
+| PUT | `/api/v1/recipes/{recipeId}/ingredients/{ingredientId}/quantity` | Actualiza cantidades de ingredientes de una receta | Modificar cantidades de ingredientes para una receta |
+| **Meal Plans Management** ||||
+| POST | `/api/v1/mealplan` | Crear nuevo plan de comidas | Registrar nuevo plan de comidas |
+| GET | `/api/v1/mealplan/{mealplanId}` | Obtiene plan de comidas por su id | Devolver datos de plan de comidas por id asociado |
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
@@ -3292,6 +3382,10 @@ Sprint Backlog 3 en Trello: https://trello.com/invite/b/684e2c29fbd59647badb6e02
 
 Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
 
+<p align="center">
+    <img src="assets/evidencias/insights-sprint-3.png"/>
+</p>
+<hr>
 
 #### 5.2.4. Sprint 4
 
@@ -3351,25 +3445,24 @@ Sprint Backlog 4 en Trello:
 
 | **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
 |------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
-| G4-Aplicaciones-Web/frontend |develop    |           b68f741            |   feat: add interfaces for managing repository data transactions   |-    | 17/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |          889696c              |   feat(shared): add initial deployment configuration   | -    | 20/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |        59a1dc4             |  feat(recipes): add domain model layer: aggregates, entities and value objects        | -        | 21/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |          b1d8e10       |     feat(recipes): add command contracts for domain model layer     | -                              | 22/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |            c44a17c       |       feat(recipes): implement multiple repository and service refactors     | -                              | 22/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |           6bb1f26         |   feat:(mealplan) creating meal plan table, queries and commnads         | -                              | 22/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |        fea4baa           |    feat:updating dbcontext with meal plans table        | -                              | 22/06/2025               |
-| G4-Aplicaciones-Web/backend | develop    |       4eed907        |      feat: add Tracking Bounded Context     | -                              | 22/06/2025               |
+| G4-Aplicaciones-Web/frontend |develop    |                       |      |-    | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                        |      | -    | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                 |          | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |               |           | -                              | /07/2025               |
 
 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
-*Aqui mostrar evidencia de que si funciona nuestro backend(BORRAR ESTE TEXTO)*
 
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
-*Mostrar aqui las evidencias de los endpoints creados(BORRAR ESTE TEXTO)*
+
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
