@@ -3288,7 +3288,7 @@ _Características Principales del Release:_
 | G4-Aplicaciones-Web/backend  | develop    | 638fab8       | feat(recipes): add rest interfaces controllers                        | -                       | 22/06/2025              |
 | G4-Aplicaciones-Web/backend  | develop    | 713eb7f       | feat: rama Recommendations, actualizada con nuevos endpoints en swagger | -                     | 22/06/2025              |
 | G4-Aplicaciones-Web/backend  | develop    | d51dcc6       | feat(recipes): add rest interface layer resources and assemblers     | -                       | 22/06/2025              |
-| G4-Aplicaciones-Web/backend  | develop    | f5a8ba5       | feat(updating discount with meal plans table                         | -                       | 22/06/2025              |
+| G4-Aplicaciones-Web/backend  | develop    | f5a8ba5       | feat(updating): discount with meal plans table                         | -                       | 22/06/2025              |
 | G4-Aplicaciones-Web/backend  | develop    | db5f2e6       | feat(mealplan) creating meal plan table, queries and commands        | -                       | 22/06/2025              |
 | G4-Aplicaciones-Web/backend  | develop    | 7acc9f6       | feat(recipes): add ingredient and recipe command service implementation | -                     | 22/06/2025              |
 | G4-Aplicaciones-Web/backend  | develop    | 1f5371a       | feat(recipes): add ingredient and recipe query services implementation | -                     | 22/06/2025              |
@@ -3432,7 +3432,130 @@ _Características Principales del Release:_
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Esta sección detalla la configuración y los pasos necesarios para el despliegue exitoso del backend de la solución **AlimentatePlus**. La aplicación backend está desarrollada con **.NET Framework 9 y Vue 3**, y se despliega en **Azure App Service** utilizando **GitHub Actions** para la integración y entrega continua (CI/CD).
 
+---
+- Configuración de Despliegue
+
+| Elemento                    | Detalle                                       |
+| --------------------------- | --------------------------------------------- |
+| Plataforma de despliegue    | Azure App Service (Linux, Plan Gratuito - F1) |
+| Región                      | Canada Central                                |
+| Lenguaje y entorno          | C# .NET Framework 9                           |
+| Gestor de dependencias      | NuGet Manager                                 |
+| Proceso CI/CD               | GitHub Actions                                |
+| Base de datos               | Azure Database for MySQL Flexible Server |
+| Tipo de conexión            | Conexión pública desde servicios de Azure     |
+| Autenticación base de datos | Usuario y contraseña                          |
+
+---
+
+- Pasos para el Despliegue del Backend
+
+	1. **Configuración del Azure App Service**
+
+	   * Crear un recurso **App Service** en Azure, especificando:
+
+		 * Sistema operativo: Linux
+		 * Versión de C#: .NET Framework
+		 * Plan de tarifa: Gratuito (F1)
+	   * Habilitar la opción: `Permitir acceso público a este servidor desde cualquier servicio de Azure dentro de Azure`.
+
+	2. **Configuración de la Base de Datos PostgreSQL**
+
+	   * Crear un recurso **Azure Database for MySQL Flexible Server**.
+	   * Configurar las credenciales y el nombre de la base de datos.
+	   * Habilitar únicamente el acceso desde servicios de Azure.
+	   * Opcional: Habilitar acceso desde IPs locales específicas para pruebas.
+
+	3. **Configuración de Conexión en el Backend**
+
+	   * Establecer las siguientes propiedades en `application.properties`:
+
+		 ```
+		 "ConnectionStrings": {
+      "DefaultConnection": "Server=20.186.14.179;Port=3306;Database=ap_db;User=ap-admin;Password=secret;"
+      }
+		 ```	   
+
+	4. **Configuración de GitHub Actions**
+
+	   * Crear un archivo `.github/workflows/deploy.yml` con el siguiente contenido:
+
+		 ```yaml
+      name: Build and deploy ASP.Net Core app to Azure Web App - alimentateplus
+
+      on:
+        push:
+          branches:
+            - main
+        workflow_dispatch:
+
+      jobs:
+        build:
+          runs-on: windows-latest
+          permissions:
+            contents: read #This is required for actions/checkout
+
+          steps:
+            - uses: actions/checkout@v4
+
+            - name: Set up .NET Core
+              uses: actions/setup-dotnet@v4
+              with:
+                dotnet-version: '9.x'
+
+            - name: Build with dotnet
+              run: dotnet build --configuration Release
+
+            - name: dotnet publish
+              run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
+
+            - name: Upload artifact for deployment job
+              uses: actions/upload-artifact@v4
+              with:
+                name: .net-app
+                path: ${{env.DOTNET_ROOT}}/myapp
+
+        deploy:
+          runs-on: windows-latest
+          needs: build
+          
+          steps:
+            - name: Download artifact from build job
+              uses: actions/download-artifact@v4
+              with:
+                name: .net-app
+            
+            - name: Deploy to Azure Web App
+              id: deploy-to-webapp
+              uses: azure/webapps-deploy@v3
+              with:
+                app-name: 'alimentateplus'
+                slot-name: 'Production'
+                package: .
+                publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EFFE44FF3A0479E8931ADEB8256461D }}
+		 ```
+
+	5. **Configuración del Secret en GitHub**
+
+	   * En el repositorio de GitHub, ir a:
+		 `Settings > Secrets and variables > Actions > New repository secret`
+	   * Crear un secret llamado `AZURE_WEBAPP_PUBLISH_PROFILE` y cargar el contenido del *publish profile* descargado desde el App Service.
+
+	6. **Compilación y Despliegue Automático**
+
+	   * Realizar un `push` a la rama `main`.
+	   * GitHub Actions compilará el proyecto y lo desplegará automáticamente en el App Service.
+	   * La aplicación estará disponible en:
+		 `https://alimentateplus-c6decvgheceedwgx.canadacentral-01.azurewebsites.net`    
+
+	7. **Pruebas de Conectividad**
+
+	   * Verificar que los endpoints estén accesibles desde el navegador con Swagger o herramientas como Postman.
+	   * Confirmar que las operaciones sobre la base de datos funcionen correctamente.    
+     
+     ![Swagger](/assets/evidencias/swagger-html.png)
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -3522,7 +3645,249 @@ Sprint Backlog 4 en Trello:
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+Esta sección detalla la configuración y los pasos necesarios para el despliegue exitoso del backend de la solución **AlimentatePlus**. La aplicación backend está desarrollada con **.NET Framework 9 y Vue 3**, y se despliega en **Azure App Service** utilizando **GitHub Actions** para la integración y entrega continua (CI/CD).
 
+---
+- Configuración de Despliegue
+
+| Elemento                    | Detalle                                       |
+| --------------------------- | --------------------------------------------- |
+| Plataforma de despliegue    | Azure App Service (Linux, Plan Gratuito - F1) |
+| Región                      | Canada Central                                |
+| Lenguaje y entorno          | C# .NET Framework 9                           |
+| Gestor de dependencias      | NuGet Manager                                 |
+| Proceso CI/CD               | GitHub Actions                                |
+| Base de datos               | Azure Database for MySQL Flexible Server |
+| Tipo de conexión            | Conexión pública desde servicios de Azure     |
+| Autenticación base de datos | Usuario y contraseña                          |
+
+---
+
+- Pasos para el Despliegue del Backend
+
+	1. **Configuración del Azure App Service**
+
+	   * Crear un recurso **App Service** en Azure, especificando:
+
+		 * Sistema operativo: Linux
+		 * Versión de C#: .NET Framework
+		 * Plan de tarifa: Gratuito (F1)
+	   * Habilitar la opción: `Permitir acceso público a este servidor desde cualquier servicio de Azure dentro de Azure`.
+
+	2. **Configuración de la Base de Datos PostgreSQL**
+
+	   * Crear un recurso **Azure Database for MySQL Flexible Server**.
+	   * Configurar las credenciales y el nombre de la base de datos.
+	   * Habilitar únicamente el acceso desde servicios de Azure.
+	   * Opcional: Habilitar acceso desde IPs locales específicas para pruebas.
+
+	3. **Configuración de Conexión en el Backend**
+
+	   * Establecer las siguientes propiedades en `application.properties`:
+
+		 ```
+		 "ConnectionStrings": {
+      "DefaultConnection": "Server=20.186.14.179;Port=3306;Database=ap_db;User=ap-admin;Password=secret;"
+      }
+		 ```	   
+
+	4. **Configuración de GitHub Actions**
+
+	   * Crear un archivo `.github/workflows/deploy.yml` con el siguiente contenido:
+
+		 ```yaml
+      name: Build and deploy ASP.Net Core app to Azure Web App - alimentateplus
+
+      on:
+        push:
+          branches:
+            - main
+        workflow_dispatch:
+
+      jobs:
+        build:
+          runs-on: windows-latest
+          permissions:
+            contents: read #This is required for actions/checkout
+
+          steps:
+            - uses: actions/checkout@v4
+
+            - name: Set up .NET Core
+              uses: actions/setup-dotnet@v4
+              with:
+                dotnet-version: '9.x'
+
+            - name: Build with dotnet
+              run: dotnet build --configuration Release
+
+            - name: dotnet publish
+              run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
+
+            - name: Upload artifact for deployment job
+              uses: actions/upload-artifact@v4
+              with:
+                name: .net-app
+                path: ${{env.DOTNET_ROOT}}/myapp
+
+        deploy:
+          runs-on: windows-latest
+          needs: build
+          
+          steps:
+            - name: Download artifact from build job
+              uses: actions/download-artifact@v4
+              with:
+                name: .net-app
+            
+            - name: Deploy to Azure Web App
+              id: deploy-to-webapp
+              uses: azure/webapps-deploy@v3
+              with:
+                app-name: 'alimentateplus'
+                slot-name: 'Production'
+                package: .
+                publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EFFE44FF3A0479E8931ADEB8256461D }}
+		 ```
+
+	5. **Configuración del Secret en GitHub**
+
+	   * En el repositorio de GitHub, ir a:
+		 `Settings > Secrets and variables > Actions > New repository secret`
+	   * Crear un secret llamado `AZURE_WEBAPP_PUBLISH_PROFILE` y cargar el contenido del *publish profile* descargado desde el App Service.
+
+	6. **Compilación y Despliegue Automático**
+
+	   * Realizar un `push` a la rama `main`.
+	   * GitHub Actions compilará el proyecto y lo desplegará automáticamente en el App Service.
+
+	7. **Pruebas de Conectividad**
+
+	   * Verificar que los endpoints estén accesibles desde el navegador con Swagger o herramientas como Postman.
+	   * Confirmar que las operaciones sobre la base de datos funcionen correctamente.    
+     
+     ![Swagger](/assets/evidencias/swagger-html.png)
+---
+
+#### Despliegue del Frontend
+
+Durante este Sprint, se completó exitosamente el despliegue del frontend de **AlimentatePlus** utilizando **Firebase Hosting** con integración continua mediante **GitHub Actions**. La aplicación frontend está desarrollada con **Vue.js 3** y se despliega automáticamente cada vez que se realizan cambios en la rama principal del repositorio.
+
+##### Configuración de Despliegue Frontend
+
+| Elemento                    | Detalle                                       |
+| --------------------------- | --------------------------------------------- |
+| Plataforma de despliegue    | Firebase Hosting                              |
+| Framework frontend          | Vue.js 3                                      |
+| Lenguaje de programación    | JavaScript/TypeScript                         |
+| Gestor de dependencias      | npm                                           |
+| Proceso CI/CD               | GitHub Actions                                |
+| Entorno de ejecución        | Node.js 20                                    |
+| Configuración de build      | Producción optimizada                         |
+
+##### Pasos para el Despliegue del Frontend
+
+1. **Configuración del Proyecto Firebase**
+   
+   * Crear un proyecto en **Firebase Console**.
+   * Habilitar **Firebase Hosting** para el proyecto.
+   * Configurar el dominio personalizado si es necesario.
+   * Obtener las credenciales del Service Account para la integración con GitHub Actions.
+
+2. **Configuración de GitHub Actions**
+
+   * Crear un archivo `.github/workflows/deploy.yml` en el repositorio del frontend:
+
+     ```yaml
+     name: Deploy Alimentate+ Vue App to Firebase Hosting on main
+     
+     on:
+       push:
+         branches:
+           - main
+           
+     jobs:
+       build-and-deploy:
+         runs-on: ubuntu-latest
+         steps:
+           - name: Checkout source code
+             uses: actions/checkout@v4
+             
+           - name: Use Node.js 20
+             uses: actions/setup-node@v4
+             with:
+               node-version: '20'
+               
+           - name: Install dependencies
+             run: npm install
+             
+           - name: Build Vue project (production)
+             run: npm run build
+             
+           - name: Deploy to Firebase Hosting
+             uses: FirebaseExtended/action-hosting-deploy@v0
+             with:
+               repoToken: "${{ secrets.GITHUB_TOKEN }}"
+               firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
+               channelId: live
+               projectId: deploy-appwebs
+     ```
+
+3. **Configuración de Secrets en GitHub**
+
+   * En el repositorio de GitHub, navegar a: `Settings > Secrets and variables > Actions`
+   * Agregar los siguientes secrets:
+     * `FIREBASE_SERVICE_ACCOUNT`: Contenido completo del archivo JSON del Service Account de Firebase
+     * `GITHUB_TOKEN`: Token generado automáticamente por GitHub Actions
+
+4. **Configuración Local de Firebase**
+
+   * Instalar Firebase CLI: `npm install -g firebase-tools`
+   * Inicializar el proyecto: `firebase init hosting`
+   * Configurar el directorio de distribución como `dist` (directorio de salida de Vue.js)
+
+5. **Proceso de Despliegue Automático**
+
+   * **Trigger**: Se ejecuta automáticamente con cada `push` a la rama `main`
+   * **Build**: GitHub Actions instala dependencias y ejecuta `npm run build`
+   * **Deploy**: Los archivos compilados se despliegan automáticamente en Firebase Hosting
+   * **Resultado**: La aplicación queda disponible públicamente
+
+6. **Verificación del Despliegue**
+
+   * Confirmar que la aplicación está accesible desde la URL de Firebase Hosting
+   * Verificar que todas las rutas y funcionalidades del frontend funcionan correctamente
+   * Comprobar la integración con la Fake API y las funcionalidades implementadas
+
+---
+
+#### Evidencia del Despliegue
+
+**Backend URL**: `https://alimentateplus-c6decvgheceedwgx.canadacentral-01.azurewebsites.net`
+
+**Frontend URL**: `https://deploy-appwebs.web.app/home`
+
+##### Funcionalidades Desplegadas
+
+* **Landing Page** con internacionalización (ES/EN)
+* **Gestión de Recetas** con CRUD completo
+* **Sistema de Tracking** de comidas
+* **Módulo de Recomendaciones** nutricionales
+* **Gestión de Planes de Comida** personalizados
+* **Integración con Fake API** para datos de prueba
+* **Diseño responsive** optimizado para dispositivos móviles y escritorio
+
+##### Beneficios del Despliegue Automatizado
+
+* **Integración Continua**: Cada cambio en el código se refleja automáticamente en producción
+* **Confiabilidad**: Proceso estandarizado que reduce errores humanos
+* **Velocidad**: Despliegue completo en menos de 5 minutos
+* **Rollback**: Posibilidad de revertir cambios rápidamente si es necesario
+* **Monitoreo**: Logs detallados de cada despliegue en GitHub Actions
+
+Con esta configuración, el equipo ha logrado establecer un flujo de trabajo eficiente y automatizado que garantiza la disponibilidad continua de **AlimentatePlus** para usuarios finales y stakeholders, implementando tanto el backend en Azure App Service como el frontend en Firebase Hosting con pipelines de CI/CD completamente funcionales.
+
+---
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
