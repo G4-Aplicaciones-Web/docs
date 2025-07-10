@@ -35,7 +35,7 @@
 
 </div>
 
-<div align="center"> Abril 2025 </div>
+<div align="center"> Julio 2025 </div>
 
 <hr>
 
@@ -219,6 +219,15 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3327,15 +3336,98 @@ _Características Principales del Release:_
     <img src="assets/recursos/backend_tracking5.png" alt="backend-tracking5" width=80%/>
 </p>
 
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
-
-- Deploy: https://alimentateplus-c6decvgheceedwgx.canadacentral-01.azurewebsites.net/swagger/index.html 
-
-La API RESTful de AlimentatePlus está completamente documentada utilizando OpenAPI. Esta documentación detalla todos los endpoints disponibles, los parámetros de solicitud, los formatos de respuesta y los códigos de estado, facilitando la integración y el consumo de nuestros servicios por el frontend web. La documentación OpenAPI es crucial para el desarrollo colaborativo y para futuras expansiones del sistema, sirviendo como una referencia clara y concisa de las capacidades de nuestra API. Hemos priorizado la consistencia y la claridad en la definición de cada recurso y operación, lo que permite a los desarrolladores comprender rápidamente cómo interactuar con nuestra plataforma para crear y gestionar las experiencias personalizadas de los usuarios de AlimentatePlus.
+**Ingredients Bounded Context**
 
 <p align="center">
-    <img src="assets/recursos/Swagger" alt="swagger endpoints" width=80%/>
+    <img src="assets/recursos/backend_ingredientes_1.png" alt="backend-ingredient1" width=80%/>
 </p>
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_2.png" alt="backend-ingredient2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_3.png" alt="backend-ingredient3" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_ingredientes_4.png" alt="backend-ingredient4" width=80%/>
+</p>
+
+**Recipes Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas_1.png" alt="backend-recipe1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas-2.png" alt="backend-recipe2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas_3.png" alt="backend-recipe3" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_recetas_4.png" alt="backend-recipe4" width=80%/>
+</p>
+
+**Meal Plans Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_meal-plans_1.png" alt="backend-mealplan1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_meal-plans_2.png" alt="backend-mealplan2" width=80%/>
+</p>
+
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Meal Plan Entries Management** ||||
+| POST | `/api/v1/meal-plan-entries/{trackingId}` | Agrega una entrada de meal plan por id de tracking | Crea una nueva entrada de tracking  |
+| GET | `/api/v1/meal-plan-entries/tracking/{trackingId}` | Obtiene datos de tracking por tracking id | Visualizar el tracking asociado al id |
+| PUT | `/api/v1/meal-plan-entries/{mealPlanEntryId}` | Actualiza una entrada al meal plan segun su id | Modifica una entrada del meal plan  |
+| DELETE | `/api/v1/meal-plan-entries/tracking/{trackingId}/entry/{mealPlanEntryId}` | Elimina la entrada al meal plan segun sus ids | Dar baja a una entrada al meal plan existente |
+| **Tracking Management** ||||
+| POST | `/api/v1/tracking` | Crea un nuevo tracking | Registra un nuevo tracking |
+| GET | `/api/v1/tracking/user/{userId}` | Obtiene tracking por id de usuario | Visualizar el tracking segun el usuario |
+| GET | `/api/v1/tracking/macronutrients/consumed/tracking/{trackingId}` | Obtiene los macronutrientes consumidos por id de tracking | Macronutrientes especificos de usuario |
+| **Tracking Goals Management** ||||
+| GET | `/api/v1/tracking-goals/user/{userId}` | Obtiene meta de tracking por id de usuario | Ver datos del tracking del usuario asociado |
+| GET | `/api/v1/tracking-goals/{trackingGoalId/target-macros}` | Obtiene macronutrientes obtenidos por id de meta de tracking | Datos de macronutrientes asociados a meta de tracking |
+| POST | `/api/v1/tracking-goals` | Crea meta de tracking | Registrar nueva meta de tracking |
+| **Tracking Macronutrient Management** ||||
+| GET | `/api/v1/macronutrients/consumed/tracking/{trackingId}` | Obtiene macronutrientes consumidos por id de tracking | Ver datos de macronutrientes asociados |
+| **Ingredients Management** ||||
+| POST | `/api/v1/ingredients` | Crea nuevo ingrediente | Registrar nuevo ingrediente |
+| GET | `/api/v1/ingredients` | Obtener todos los ingredientes | Datos de ingredientes |
+| GET | `/api/v1/ingredients/{ingredientId}` | Obtiene un ingrediente por su id | Datos de ingredientes por id asociado |
+| PUT | `/api/v1/ingredients/{ingredientId}` | Actualiza ingrediente | Modificar ingrediente |
+| GET | `/api/v1/ingredients/by-name` | Obtiene ingrediente por su nombre | Devuelve ingrediente por su nombre |
+| GET | `/api/v1/ingredients/by-category/{category}` | Obtiene ingrediente por categoria | Devuelve ingrediente por su categoria |
+| GET | `/api/v1/ingredients/by-ids` | Obtiene ingredientes por lista de ids | Devuelve varios ingredientes por lista de ids |
+| **Recipes Management** ||||
+| GET | `/api/v1/recipes/{recipeId}` | Obtiene una receta por su id | Datos de recetas por id asociado |
+| PUT | `/api/v1/recipes/{recipeId}` | Actualiza receta | Modificar recetas |
+| DELETE | `/api/v1/recipes/{recipeId}` | Borrar receta por su id | Eliminar recetas |
+| GET | `/api/v1/recipes` | Obtiene datos de recetas | Devolver datos de recetas |
+| POST | `/api/v1/recipes` | Crear nuevas recetas | Registrar nuevas recetas |
+| GET | `/api/v1/recipes/search-by-name` | Buscar receta por su nombre | Devolver datos de recetas por su nombre asociado |
+| GET | `/api/v1/recipes/by-type/{recypeType}` | Buscar receta por su tipo de receta | Devolver datos de recetas por tipo |
+| POST | `/api/v1/recipes/{recipeId}/ingredients` | Crear nuevas ingredientes para una receta | Registrar nuevas ingredientes para las recetas |
+| DELETE | `/api/v1/recipes/{recipeId}/ingredients/{ingredientId}` | Borrar un ingrediente de una receta | Eliminar ingredientes de recetas |
+| PUT | `/api/v1/recipes/{recipeId}/ingredients/{ingredientId}/quantity` | Actualiza cantidades de ingredientes de una receta | Modificar cantidades de ingredientes para una receta |
+| **Meal Plans Management** ||||
+| POST | `/api/v1/mealplan` | Crear nuevo plan de comidas | Registrar nuevo plan de comidas |
+| GET | `/api/v1/mealplan/{mealplanId}` | Obtiene plan de comidas por su id | Devolver datos de plan de comidas por id asociado |
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -3346,17 +3438,109 @@ La API RESTful de AlimentatePlus está completamente documentada utilizando Open
 
 Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en implementar nuestros distintos bounded context en el backend.
 
+<p align="center">
+    <img src="assets/evidencias/insights-sprint-3.png"/>
+</p>
+<hr>
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4.
+
+En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reunió virtualmente para definir los objetivos, las tareas y los resultados esperados para esta iteración. El Sprint 4 se centrará en culminar el desarrollo backend y juntarlo a nuestro frontend. El objetivo principal es establecer una base técnica sólida y desplegar una versión funcional de la aplicación, asegurando que el producto sea accesible y ofrezca una primera experiencia de usuario significativa.
+
+| **Sprint #**                   | Sprint 4                                                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                   |
+| **Date**                       | 02/07/2025                                                                                                                                                                                                                                        |
+| **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
+| **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
+| **Sprint 4 Review Summary**    |   Se logro culminar el desarrollo backend, asi como juntarlo con nuestro frontend.                                                                                                                                                                                               |
+| **Sprint 4 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en terminar la implementacion de ciertas funcionalidades especificas en el frontend.                                                                                                                                                                                         |
+| **Sprint 4 Goal**              | Nuestro objetivo es culminar el desarrollo backend de nuestro producto, asi como juntarlo el frontend. Haciendo esto, obtendremos una aplicacion funcional que lograra provocar impacto positivo en la salud y forma fisica de los usuarios |
+| **Sprint 4 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
+| **Sum of Story Points**        |  12 |
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este Sprint, el equipo se centró prioritariamente en el desarrollo del backend, incluyendo la creación de endpoints para el acceso a datos.Al mismo tiempo, implementar su funcionalidad en el frontend. A continuación, la Matriz de Liderazgo y Colaboración (LACX) ilustra detalladamente los roles de liderazgo y apoyo que cada miembro del equipo asumió en estos aspectos clave del Sprint.
+
+
+| **Team Member**       | **GitHub Username** | **Design Patterns Implementation** <br> Leader (L)/Collaborator(C) | **Data** <br> Leader (L)/Collaborator(C) | **Backend Endpoints** <br> Leader (L)/Collaborator(C) | **Frontend Config** <br> Leader (L)/Collaborator(C) |
+|:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| **Bueno, Mathias**       | MathiasBueno  |   C   |   C   |   C   |    L   |
+| **Galvez, Jhon**         | Chaomeum      |   C   |   C   |   L   |    C   |
+| **Paredes, Fabrizio**    | psfa29        |   C   |   L   |   C   |    C   |
+| **Rodriguez, Sebastian** | Shiftinnnnn   |   L   |   C   |   C   |    C   |
+
+##### 5.2.4.3. Sprint Backlog 4.
+
+El objetivo principal del sprint backlog 4 es culminar el backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
+
+Sprint Backlog 4 en Trello: 
+
+
+<p align="center">
+    <img src="assets/recursos/sprint_backlog_4_trello.png" alt="sprint-backlog-4" width=80%/>
+</p>
+
+| **Sprint 4**   |                                |        |                                   |                                                                          |                        |                 |            |
+| ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
+| **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+|        US-          |  | T-31 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
+|        US-          |  | T-32 |  |  | 3 | Fabrizio Paredes | Done |
+|        US-          |  | T-33 |  |  | 2 | Mathias Bueno Perales  | Done |
+|        US-          |  | T-34 |  |  | 2 | Mathias Bueno Perales  | Done |
+|        US-          |  | T-35 |  |  | 3 | Sebastian Rodriguez | Done |
+|        US-          |  | T-36 |  |  | 3 | Sebastian Rodriguez | Done |
+|        US-          |  | T-37 |  |  | 6 |  Jhon Galvez Chambi | Done |
+|        US-          |  | T-38 |  |  | 5 | Fabrizio Paredes | Done |
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+| **Repository**               | **Branch** | **Commit Id**                            | **Commit Message**                                  | **Commit Message Body**                                                  | **Commited on (Date)** |
+|------------------------------|------------|------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------|--------------------------|
+| G4-Aplicaciones-Web/frontend |develop    |                       |      |-    | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                        |      | -    | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                     |          | -        | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                 |          | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                    |            | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |                   |            | -                              | /07/2025               |
+| G4-Aplicaciones-Web/backend | develop    |               |           | -                              | /07/2025               |
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en culmninar el backend y juntarlo y hacerlo funcional con el frontend.
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas
 
-- ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito vive actualmente?
-- ¿Qué opinas del diseño del Landing page? ¿Le incentiva a entrar a la aplicación y registrarse?
-- ¿Considera que la aplicación dispone de una interfaz fácil e intuitiva de utilizar? En caso afirmativo, ¿qué funcionalidades le agradaron más? En caso negativo, ¿qué funcionalidad cree que falta o sobra para aumentar su interés en usarla?
-- ¿Qué tipo de dispositivo (Smartphone, Tablet, Laptop, etc.) utilizó para probar la página de destino y la aplicación web?
-- ¿Cuál fue el navegador que utilizó para visualizar el contenido en esta ocasión?
-- ¿Hubo algún aspecto visual, como la disposición de los elementos, que no le agradó?
+##### 1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En que distrito vive actualmente?
 
+##### 2. ¿Que opina del diseño de nuestra landing page? ¿Le sirve de incentivo para entrar a la aplicación y registrarse?
+
+##### 3. ¿Considera que nuestra aplicación tiene una interfaz fácil y sencilla de usar? en caso que si, que funcionalidades le agradan más? y en lo contrario, que funcionalidad piensa que sobra o falta para aumentar su interés en usarla?
+
+##### 4. ¿Que dispositivo utilizo para probar la pagina y aplicación web?
+
+##### 5. ¿Hubo algún aspecto visual que no le agrado?
 
 #### 5.3.2. Registro de Entrevistas.
 
