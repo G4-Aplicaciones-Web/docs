@@ -3578,8 +3578,8 @@ En esta reunión de planificación del Sprint 4, el equipo de desarrollo se reun
 | **Date**                       | 02/07/2025                                                                                                                                                                                                                                        |
 | **Location**                   | El desarrollo de la reunión se realizó virtualmente por medio de Discord                                                                                                                                                                          |
 | **Prepared By**                | Paredes, Fabrizio / Galvez, Jhon / Bueno, Mathias / Rodriguez,Sebastian /                                                                                                                                                  |
-| **Sprint 4 Review Summary**    |   Se logro culminar el desarrollo backend, asi como juntarlo con nuestro frontend.                                                                                                                                                                                               |
-| **Sprint 4 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en terminar la implementacion de ciertas funcionalidades especificas en el frontend.                                                                                                                                                                                         |
+| **Sprint 3 Review Summary**    |   Logramos gran avance en el desarrollo backend, sin embargo nos falto el tiempo por falta de organizacion por momentos para completar nuestra documentacion                                                                                                                                                                                               |
+| **Sprint 3 Retrospective Summary** |     El equipo expresó satisfacción con el producto desarrollado. Se identificó cierto margen de mejora, especialmente en el manejo de tiempos y nuestra organizacion como equipo.                                                                                                                                                                                         |
 | **Sprint 4 Goal**              | Nuestro objetivo es culminar el desarrollo backend de nuestro producto, asi como juntarlo el frontend. Haciendo esto, obtendremos una aplicacion funcional que lograra provocar impacto positivo en la salud y forma fisica de los usuarios |
 | **Sprint 4 Velocity**          | El sprint está planificado para completarse en  2 semanas                                                                                                                                                                              |
 | **Sum of Story Points**        |  12 |
@@ -3591,16 +3591,16 @@ En este Sprint, el equipo se centró prioritariamente en el desarrollo del backe
 
 | **Team Member**       | **GitHub Username** | **Design Patterns Implementation** <br> Leader (L)/Collaborator(C) | **Data** <br> Leader (L)/Collaborator(C) | **Backend Endpoints** <br> Leader (L)/Collaborator(C) | **Frontend Config** <br> Leader (L)/Collaborator(C) |
 |:---------------------:|:-------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| **Bueno, Mathias**       | MathiasBueno  |   C   |   C   |   C   |    L   |
+| **Bueno, Mathias**       | MathiasBueno  |   C   |   L   |   C   |    C   |
 | **Galvez, Jhon**         | Chaomeum      |   C   |   C   |   L   |    C   |
-| **Paredes, Fabrizio**    | psfa29        |   C   |   L   |   C   |    C   |
+| **Paredes, Fabrizio**    | psfa29        |   C   |   C   |   C   |    L   |
 | **Rodriguez, Sebastian** | Shiftinnnnn   |   L   |   C   |   C   |    C   |
 
 ##### 5.2.4.3. Sprint Backlog 4.
 
 El objetivo principal del sprint backlog 4 es culminar el backend considerando los bounded context del negocio, permitiendo guardar sus datos,a cceder a ellos y modificarlos. Para la entrega de este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias tecnicas y basandonos en los diagramas resaltando los puntos clave del negocio, y se ha asignado el trabajo de forma equitativa para cumplir en los tiempos estimados.
 
-Sprint Backlog 4 en Trello: 
+Sprint Backlog 4 en Trello: https://trello.com/invite/b/6871aa718d301b0bca6c72f8/ATTI33673253e5158134f2e8a7c1383f30c2F9FB3E47/sprint-backlog-4-alimentate
 
 
 <p align="center">
@@ -3611,14 +3611,14 @@ Sprint Backlog 4 en Trello:
 | ------------------------------| ------------------------------ | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
 | **User Story**                | **Work-Item / Task**           |        |                                   |                                                                          |                        |                 |            |
 | **ID**                        | **Title**                      | **Id** | **Title**                         | **Description**                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
-|        US-          |  | T-31 |  |  | 2 | Jhon Galvez Chambi  | Done  | 
-|        US-          |  | T-32 |  |  | 3 | Fabrizio Paredes | Done |
-|        US-          |  | T-33 |  |  | 2 | Mathias Bueno Perales  | Done |
-|        US-          |  | T-34 |  |  | 2 | Mathias Bueno Perales  | Done |
-|        US-          |  | T-35 |  |  | 3 | Sebastian Rodriguez | Done |
-|        US-          |  | T-36 |  |  | 3 | Sebastian Rodriguez | Done |
-|        US-          |  | T-37 |  |  | 6 |  Jhon Galvez Chambi | Done |
-|        US-          |  | T-38 |  |  | 5 | Fabrizio Paredes | Done |
+|        US-01          | Registro de Usuario | T-31 | Permitir registro de usuarios | Guardar nuevos usuarios por medio de un endpoint POST | 2 | Jhon Galvez Chambi  | Done  | 
+|        US-28          | Tracking del plan | T-32 | Filtrar tracking de plan por id de usuario | Mostrar datos de tracking por id de usuario por medio de un endpoint GET | 3 | Fabrizio Paredes | Done |
+|        US-05          | Edicion de plan alimenticio | T-33 | Editar datos de plan alimenticio | Actualizar datos de planes alimenticios por medio de un endpoint PUT | 2 | Mathias Bueno Perales  | Done |
+|        US-07          | Recordatorios de comidas | T-34 | Establecer de dias y momentos de plan de comidas | Crear dia y momento de plan de comidas por medio de un endpoint POST | 2 | Mathias Bueno Perales  | Done |
+|        US-29         | Ver recomendaciones | T-35 | Obtener datos de recomendaciones | Buscar recomendaciones por medio de un endpoint GET | 3 | Sebastian Rodriguez | Done |
+|        US-29          | Crear recomendaciones | T-36 | Crear nuevas recomendaciones | Crear recomendacion por medio de un endpoint POST | 3 | Sebastian Rodriguez | Done |
+|        US-01          | Inicio de sesion | T-37 | Ingresar a la aplicacion con una cuenta creada | Permitir inicio de sesion por medio de un endpoint POST | 6 |  Jhon Galvez Chambi | Done |
+|        US-28         | Analisis de macronutrientes | T-38 | Mostrar macronutrientes de la entrada de plan de comidas | Devolver datos de macronutrientes segun id de la entrada por medio de un endpoint GET | 5 | Fabrizio Paredes | Done |
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 
@@ -3641,6 +3641,31 @@ Sprint Backlog 4 en Trello:
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Authentication Management** ||||
+| POST | `/api/v1/authentication/sign-in` | Iniciar Sesion | Iniciar Sesion en la plataforma |
+| POST | `/api/v1/authentication/sign-up` | Registro de usuario | Crear cuenta en la plataforma |
+| **User Management** ||||
+| GET | `/api/v1/users/{id}` | Obtiene usuarios por su id | Devolver datos de usuarios por su id |
+| GET | `/api/v1/users` | Devuelve todos los usuarios | Devuelve datos de todos los usuarios |
+| **Activity Level Management** ||||
+| GET | `/api/v1/activitylevels/{activityLevelId}` | Obtiene nivel de actividad por id | Devuelve datos de nivel de actividad por id asociado |
+| POST | `/api/v1/activitylevels` | Crear nuevo nivel de actividad | Crear nuevo nivel de actividad |
+| GET | `/api/v1/activitylevels` | Devuelve todos los niveles de actividad | Devuelve datos de todos los niveles de actividad |
+| **Meal Plans Management** ||||
+| GET | `/api/v1/mealplan` | Devuelve todos los planes de comida | Devuelve todos los datos de plan de comida |
+| PUT | `/api/v1/mealplan/{id}` | Actualiza un plan de comida existente | Modificar plan de comidas |
+| DELETE | `/api/v1/mealplan/{id}` | Elimina plan de comidas | Borrar plan de comidas por su id asociado |
+| **Recommendations Management** ||||
+| GET | `/api/v1/recommendations` | Datos de recomendaciones | Devuelve todas las recomendaciones |
+| POST | `/api/v1/recommendations` | Crear nueva recomendacion | Agregar recomendaciones |
+| GET | `/api/v1/recommendations/{id}` | Obtiene recomendacion existente | Datos de recomendacion existente |
+| PUT | `/api/v1/recommendations/{id}` | Actualiza recomendacion existente | Modificar recomendacion |
+| DELETE | `/api/v1/recommendations/{id}` | Elimina recomendaciones | Borrar recomendaciones |
+| GET | `/api/v1/recommendations/users/{userId}` | Obtiene recomendacion por id de usuario | Datos de recomendacion existente |
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
@@ -3893,6 +3918,14 @@ Con esta configuración, el equipo ha logrado establecer un flujo de trabajo efi
 
 Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en culmninar el backend y juntarlo y hacerlo funcional con el frontend.
 
+ <p align="center">
+        <img src="assets/evidencias/"/>    
+     </p>
+
+ <p align="center">
+        <img src="assets/evidencias/InsightsBackendSprint4.png"/>    
+     </p>
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas
@@ -3909,19 +3942,73 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 
 #### 5.3.2. Registro de Entrevistas.
 
-Entrevista 1:
 
-https://youtu.be/_br695NuQFw
+| Entrevistado 1 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800"> |  |
 
+| Timing:00:02 –  min |   |
 
-Entrevista 2:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EQS1B9eK5VVCvdrsAk_T07oB-5F9iYVAYXx4HtXnxcQq8Q?e=b7fBJb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+| Entrevistado 2 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+|  <img src="" alt="PB" width="800">  |  |
+| Timing: –  min |  |
 
-Entrevista 3:
+| Entrevistado 3 |   |
+| :---- | :---- |
+| Edad |  años |
+|  <img src="" alt="PB" width="800"> |  |
+| Timing: –  min |  |
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/ERTkfqswAN5PpQMFJ0qyLaMBh-wGLkJfP5EN5CjlrER21g?e=xQf7IL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+| Entrevistado 4 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800">|  |
+| Timing: –  min |  |
+
+| Entrevistado 5 |   |
+| :---- | :---- |
+| Edad | años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800">|  |
+| Timing: –  min |  |
+
 
 #### 5.3.3. Evaluaciones según heurísticas.
+
+##### SITE o APP A EVALUAR: Alimentate+
+
+##### TAREAS A EVALUAR:
+
+- 
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: fácilmente superado o poco frecuente. No requiere corrección inmediata. |
+| 2     | Problema menor: puede dificultar algo la experiencia. Se recomienda corregir pronto.          |
+| 3     | Problema mayor: frecuente o difícil de superar. Debe corregirse con prioridad.                |
+| 4     | Problema muy grave: impide el uso normal. Requiere solución inmediata.                        |
+
+#### TABLA RESUMEN DE HALLAZGOS HEURISTICOS
+
+| #  | Problema                                                                         | Severidad | Heurística violada                                            |
+| -- | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------- |
+| 1 |                     |          |                  |
+| 2 |                     |          |                  |
+| 3 |                     |          |                  |
+| 4 |                     |          |                  |
+| 5 |                     |          |                  |
+| 6 |                     |          |                  |
+
+
+<br>
 
 ### 5.4. Video About-the-Product
 
