@@ -219,7 +219,7 @@ Nuestro Project Report se encuentra en el siguiente repositorio de GitHub:
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-      - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4. Sprint 4](#524-sprint-4)
       - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
       - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
       - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
@@ -2799,7 +2799,7 @@ A continuación, se presentan capturas de las principales vistas implementadas:
   </p>
 
 Para una demostración completa de la visualización y navegación logradas en este Sprint, puedes acceder al siguiente video:  
-[Demo del Landing Page](https://youtu.be/zX7gYMQQ83Y)
+Demo del Landing Page: https://youtu.be/zX7gYMQQ83Y
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -3060,10 +3060,10 @@ A continuación, se presentan capturas de las principales vistas implementadas:
 
 Para una demostración completa de la visualización y navegación logradas en este Sprint, acceda a los siguientes enlaces:  
 
-Landing Page: [upc-pre-202510-1asi0730-4376-nutriplus-landingpage-navigation-sprint-2](https://youtu.be/czP-ZfhQGas)
+Landing Page: https://youtu.be/czP-ZfhQGas
 
 Frontend Web Application:
-[upc-pre-202510-1asi0730-4376-nutriplus-frontend-navigation-sprint-2](https://youtu.be/DyIGmHo3W8Q)
+https://youtu.be/DyIGmHo3W8Q
 
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -3637,6 +3637,53 @@ Sprint Backlog 4 en Trello: https://trello.com/invite/b/6871aa718d301b0bca6c72f8
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
+**Authentication Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_auth_1.png" alt="backend-auth1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_auth_2.png" alt="backend-auth2" width=80%/>
+</p>
+
+**Activity Levels Management**
+
+<p align="center">
+    <img src="assets/recursos/backend_activity-levels_1.png" alt="backend-activitylevels1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_activity-levels_2.png" alt="backend-activitylevels2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_activity-levels_3.png" alt="backend-activitylevels3" width=80%/>
+</p>
+
+**Objectives Bounded Context**
+
+<p align="center">
+    <img src="assets/recursos/backend_objectives_1.png" alt="backend-objectives1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_objectives_2.png" alt="backend-objectives2" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_objectives_3.png" alt="backend-objectives30" width=80%/>
+</p>
+
+**Users Management**
+
+<p align="center">
+    <img src="assets/recursos/backend_users_1.png" alt="backend-users1" width=80%/>
+</p>
+
+<p align="center">
+    <img src="assets/recursos/backend_users_2.png" alt="backend-users2" width=80%/>
+</p>
 
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
@@ -3655,6 +3702,10 @@ Sprint Backlog 4 en Trello: https://trello.com/invite/b/6871aa718d301b0bca6c72f8
 | GET | `/api/v1/activitylevels/{activityLevelId}` | Obtiene nivel de actividad por id | Devuelve datos de nivel de actividad por id asociado |
 | POST | `/api/v1/activitylevels` | Crear nuevo nivel de actividad | Crear nuevo nivel de actividad |
 | GET | `/api/v1/activitylevels` | Devuelve todos los niveles de actividad | Devuelve datos de todos los niveles de actividad |
+| **Objectives Management** ||||
+| GET | `/api/v1/objectives/{objectiveId}` | Obtiene objetivos por id | Devuelve datos de objetivos por id asociado |
+| POST | `/api/v1/objectives` | Crear nuevo objetivo | Crear nuevo objetivo |
+| GET | `/api/v1/objectives` | Devuelve todos los objetivos | Devuelve datos de todos los objetivos |
 | **Meal Plans Management** ||||
 | GET | `/api/v1/mealplan` | Devuelve todos los planes de comida | Devuelve todos los datos de plan de comida |
 | PUT | `/api/v1/mealplan/{id}` | Actualiza un plan de comida existente | Modificar plan de comidas |
@@ -3919,7 +3970,7 @@ Con esta configuración, el equipo ha logrado establecer un flujo de trabajo efi
 Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a lo asignado. Concretamente en este sprint nos enfoncamos en culmninar el backend y juntarlo y hacerlo funcional con el frontend.
 
  <p align="center">
-        <img src="assets/evidencias/"/>    
+        <img src="assets/evidencias/InsightsFrontendSprint4.png"/>    
      </p>
 
  <p align="center">
@@ -3943,40 +3994,37 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 #### 5.3.2. Registro de Entrevistas.
 
 
-| Entrevistado 1 |   |
+| Entrevistado 1 | Farid Briceño  |
 | :---- | :---- |
-| Edad |  años |
+| Edad | 21 años |
+| Distrito/Ciudad | Lima - SMP |
+|  | Farid, un joven de 21 años de San Martín de Porres, considera que la landing page de Aliméntate+ es atractiva y efectiva, destacando las imágenes saludables y las reseñas como elementos motivadores. Opinó que la interfaz de la aplicación es sencilla y agradable visualmente, con colores suaves y detalles como bordes redondeados que mejoran la experiencia. Valoró especialmente la funcionalidad de los planes alimenticios por ayudarle a organizar su dieta. Como observación, señaló que durante el registro no debería mostrarse la barra de navegación. |
+
+| Timing:00:05 – 5:12 min |   |
+
+| Entrevistado 2 | Mathias Aspajo  |
+| :---- | :---- |
+| Edad | 19 años |
+| Distrito/Ciudad | Callao |
+|    | Mathias, de 19 años y residente del Callao, destacó el diseño moderno y organizado de la landing page, aunque sugirió incluir un tutorial para nuevos usuarios. Opinó que la aplicación tiene una interfaz intuitiva y fácil de usar, y valoró la funcionalidad de búsqueda de recetas por ingredientes. Señaló que al editar se oscurece todo el entorno, lo cual le resulta incómodo, y propuso agrandar la fuente de los botones para mejorar la interacción. |
+| Timing: 5:13 – 8:18 min |  |
+
+| Entrevistado 3 | Jorge Barateja  |
+| :---- | :---- |
+| Edad | 20 años |
 | Distrito/Ciudad | Lima |
-| <img src="" alt="PB" width="800"> |  |
+|   | Jorge, de 20 años y de Los Olivos, encontró el diseño de la página web moderno y atractivo, destacando su buena organización y claridad. Consideró que la interfaz es intuitiva, con una barra de navegación que facilita el acceso a las secciones. Probó la aplicación tanto en laptop como en smartphone, utilizando Google Chrome. Como única crítica, mencionó que algunas secciones parecen muy vacías por el exceso de blanco.
 
-| Timing:00:02 –  min |   |
+ |
+| Timing: 8:19 – 10:30 min |  |
 
-| Entrevistado 2 |   |
+| Entrevistado 4 | Antonella Araujo  |
 | :---- | :---- |
-| Edad |  años |
-| Distrito/Ciudad | Lima |
-|  <img src="" alt="PB" width="800">  |  |
-| Timing: –  min |  |
+| Edad | 19 años |
+| Distrito/Ciudad | La Perla |
+| |  |
+| Timing: 10:31 – 14:54  min | Antonella, de 19 años y vecina de La Perla, elogió el contraste de colores y la eficiencia de navegación de la landing page. Consideró que la interfaz es sencilla y rápida, y le gustó la posibilidad de editar recomendaciones y cambiar el idioma de la app. Señaló pequeños detalles visuales como la falta de mayúsculas en algunos campos y una combinación de colores que no le resulta del todo atractiva, aunque en general valoró positivamente la experiencia. |
 
-| Entrevistado 3 |   |
-| :---- | :---- |
-| Edad |  años |
-|  <img src="" alt="PB" width="800"> |  |
-| Timing: –  min |  |
-
-| Entrevistado 4 |   |
-| :---- | :---- |
-| Edad |  años |
-| Distrito/Ciudad | Lima |
-| <img src="" alt="PB" width="800">|  |
-| Timing: –  min |  |
-
-| Entrevistado 5 |   |
-| :---- | :---- |
-| Edad | años |
-| Distrito/Ciudad | Lima |
-| <img src="" alt="PB" width="800">|  |
-| Timing: –  min |  |
 
 
 #### 5.3.3. Evaluaciones según heurísticas.
@@ -3984,6 +4032,24 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 ##### SITE o APP A EVALUAR: Alimentate+
 
 ##### TAREAS A EVALUAR:
+
+- Exploración de la landing page
+
+- Registro de usuario
+
+- Navegación en la aplicación (barra de navegación, acceso a secciones)
+
+- Búsqueda y visualización de recetas
+
+- Uso de los planes alimenticios
+
+- Edición de información o configuraciones (recomendaciones, idioma)
+
+- Visualización de la interfaz en distintos dispositivos
+
+- Accesibilidad visual (colores, fuente, mayúsculas, espacios)
+
+
 
 - 
 
@@ -4000,14 +4066,45 @@ Nuestra forma de trabajo se baso en implementar las funcionalidades asociadas a 
 
 | #  | Problema                                                                         | Severidad | Heurística violada                                            |
 | -- | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------- |
-| 1 |                     |          |                  |
-| 2 |                     |          |                  |
-| 3 |                     |          |                  |
-| 4 |                     |          |                  |
-| 5 |                     |          |                  |
-| 6 |                     |          |                  |
+| 1 |         Durante el registro, se muestra la barra de navegación, lo cual distrae al usuario en un flujo que debería ser más enfocado.            |    2      |     Control y libertad del usuario (Nielsen #3)             |
+| 2 |      La aplicación no cuenta con un tutorial inicial para nuevos usuarios, lo que dificulta el aprendizaje del sistema.               |     2     |         Ayuda y documentación (Nielsen #10)         |
+| 3 |           Al editar contenido, la pantalla se oscurece completamente, generando incomodidad visual.           |     2     |        Visibilidad del estado del sistema (Nielsen #1)          |
+| 4 |        El tamaño de la fuente en botones es muy pequeño, especialmente en dispositivos móviles, afectando la interacción.             |     3     |         Usabilidad móvil / Diseño estético y minimalista (Nielsen #4)         |
+| 5 |        Algunas secciones presentan exceso de espacio en blanco, lo que da la impresión de contenido incompleto o pobre.             |     2     |        Diseño estético y minimalista (Nielsen #4)          |
+<br>
+
+### PROBLEMA #1: Contraste bajo en modo oscuro
+- Severidad: 3
+- Heurística violada: Estándares de accesibilidad / Diseño estético y minimalista (Nielsen #4)
+Descripción: Daniela indicó que en modo oscuro algunas letras eran poco legibles. Esto afecta la lectura fluida y puede ser un obstáculo para quienes trabajan en ambientes con baja iluminación. Además, compromete la accesibilidad, especialmente para personas con dificultades visuales.
+- Recomendación: Ajustar los colores de texto y fondo en modo oscuro para cumplir con los estándares WCAG (relación de contraste mínima de 4.5:1).
 
 
+### PROBLEMA #2: Campos de fecha no editables al registrar lotes
+- Severidad: 2
+- Heurística violada: Flexibilidad y eficiencia de uso (Nielsen #7)
+- Descripción: Un proveedor sugirió que los campos de fecha deberían poder modificarse al registrar lotes. Actualmente están fijos, lo que impide ajustes necesarios ante imprevistos logísticos. Esto reduce la capacidad de adaptación y puede llevar a errores o registros incorrectos.
+- Recomendación: Permitir la edición manual de fechas o incluir un selector de fecha personalizable al registrar un lote.
+
+
+### PROBLEMA #3: Formularios no permiten duplicar datos anteriores
+- Severidad: 2
+- Heurística violada: Reconocimiento antes que recuerdo (Nielsen #6)
+- Descripción: Un entrevistado mencionó que sería útil poder duplicar productos ya registrados para evitar ingresar todos los datos desde cero. La falta de esta función incrementa la carga cognitiva y el tiempo requerido, especialmente en tareas repetitivas.
+- Recomendación: Agregar un botón “Duplicar último” o “Cargar plantilla anterior” en los formularios de registro de lote.
+
+
+### PROBLEMA #4: Íconos poco claros en ciertas secciones
+- Severidad: 2
+- Heurística violada: Consistencia y estándares (Nielsen #4)
+- Descripción: Daniela señaló que algunos íconos no son intuitivos y requieren exploración para entender su función. Esto genera fricción en la navegación y puede llevar a errores por mala interpretación.
+- Recomendación: Incluir etiquetas o tooltips al pasar el cursor sobre los íconos, y considerar rediseñar los menos intuitivos.
+
+### PROBLEMA #5: Tamaño reducido de botones y elementos en móvil
+- Severidad: 3
+- Heurística violada: Usabilidad móvil / Control y libertad del usuario (Nielsen #3)
+- Descripción: Varios usuarios mencionaron que algunos botones se ven demasiado pequeños desde el celular, dificultando su interacción. Esto perjudica la usabilidad y puede provocar errores al intentar presionar el elemento correcto.
+- Recomendación: Incrementar el tamaño mínimo de los botones a 44px x 44px según guías de usabilidad móvil y revisar el espaciado táctil.
 <br>
 
 ### 5.4. Video About-the-Product
@@ -4071,6 +4168,8 @@ Video-About-The-Product
 
 https://youtu.be/l6Ic75To2L8
 
-Video-About-The-Team
+Video-About-The-Team - Sprint 3
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/Ebl2fAzuXmxNrrAs9B7BYCoBbi4AEMEgT3vKqDZok-7IBw?e=awyrNy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevistas de Validacion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323270_upc_edu_pe/EfIpOcaoEMhKulOt38fCNVIBi0rlpYZcsvHkw2FNmY-onw?e=QlMWy3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
